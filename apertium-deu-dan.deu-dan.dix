@@ -4,7 +4,7 @@
   <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
 
   <sdefs>
-    <!-- Define symbol definitions within <sdef> here. -->
+    <!-- ./autogen.shDefine symbol definitions within <sdef> here. -->
    
     <sdef n="unsint" 	c=""/> 
     <sdef n="imp" 	c=""/> 
@@ -63,8 +63,8 @@
     <sdef n="acc" 	c="Object"/> 
     <sdef n="ref" 	c="Reflexive"/> 
     <sdef n="sent" 	c="End of sentence"/> 
-    <sdef n="inf" 	c=""/> 
-    <sdef n="past" 	c=""/> 
+    <sdef n="inf" 	c="Infinitive"/> 
+    <sdef n="past" 	c="Past tense"/> 
     <sdef n="pres" 	c=""/> 
     <sdef n="pasv" 	c=""/> 
     <sdef n="actv" 	c=""/> 
@@ -73,28 +73,17 @@
     <sdef n="cm" 	c="Comma"/> 
     <sdef n="ND" 	c="Número por determinar"/> 
     <sdef n="GD" 	c="Género por determinar"/> 
-    <sdef n="gen" 	c=""/> 
+    <sdef n="gen" 	c="Genitiv"/> 
   </sdefs>
 
    <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <e><p><l>Haus<s n="n"/><s n="nt"/></l><r>hus<s n="n"/><s n="nt"/></r></p></e>
 
+    <e><p><l>Haus<s n="n"/><s n="nt"/></l><r>hus<s n="n"/><s n="nt"/></r></p></e>
 
-
-
-
-
-
-
-
-
-
-
-    <e><p><l>îmmer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
+    <e><p><l>immer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
     <e><p><l>Jahr<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>barn<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>Junge<s n="n"/></l><r>dreng<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Junge<s n="n"/><s n="m"/></l><r>dreng<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>nach<s n="pr"/></l><r>efter<s n="pr"/></r></p></e>
     <e><p><l>lieben<s n="vblex"/></l><r>elske<s n="vblex"/></r></p></e>
     <e><p><l>vor<s n="pr"/></l><r>foran<s n="pr"/></r></p></e>
@@ -161,13 +150,13 @@
     <e><p><l>gehen<s n="vblex"/></l><r>gå<s n="vblex"/></r></p></e>
     <e><p><l>lachen<s n="vblex"/></l><r>grine<s n="vblex"/></r></p></e>
     <e><p><l>hören<s n="vblex"/></l><r>høre<s n="vblex"/></r></p></e>
-    <e><p><l>Kopf<s n="n"/><s n="nt"/></l><r>hoved<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Kopf<s n="n"/><s n="m"/></l><r>hoved<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>warum<s n="adv"/></l><r>hvorfor<s n="adv"/></r></p></e>
     <e><p><l>nochmal<s n="adv"/></l><r>igen<s n="adv"/></r></p></e>
     <e><p><l>kommen<s n="vblex"/></l><r>komme<s n="vblex"/></r></p></e>
     <e><p><l>machen<s n="vblex"/></l><r>lave<s n="vblex"/></r></p></e>
     <e><p><l>suchen<s n="vblex"/></l><r>lede<s n="vblex"/></r></p></e>
-    <e><p><l>Ton<s n="n"/><s n="nt"/></l><r>lyd<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Ton<s n="n"/><s n="m"/></l><r>lyd<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>überall<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
     <e><p><l>probieren<s n="vblex"/></l><r>prøve<s n="vblex"/></r></p></e>
     <e><p><l>natürlich<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
