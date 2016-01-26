@@ -4,12 +4,48 @@
     Add your own rules within <rule> here, using the resources below as a guide 
   -->
 
+ 
+
   <rule>
-    <match lemma="wind"/>
-    <match lemma="power" tags="n.*">
-      <select lemma="energía" tags="n.*"/>
+    <match lemma="modellieren" tags="vblex.*"/>
+    <match lemma="Ton" tags="n.*">
+      <select lemma="ler" tags="n.*"/>
     </match>
   </rule>
+  <rule> 
+    <match lemma="spielen"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Flügel"><select lemma="flygel"/></match> 
+  </rule> 
+ <!-- 
+  <rule> 
+    <match lemma="lernen"/> 
+    <match/>  
+    <match lemma="Stoff"><select lemma="material"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="reiten"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Schimmel"><select lemma="skimmel"/></match> 
+  </rule>      
+--> 
+ <rule> 
+    <match lemma="Krankheit"/> 
+    <match lemma="Krebs"><select lemma="cancer"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="spielen"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Ball"><select lemma="bold"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="obere"/> 
+    <match lemma="Decke"><select lemma="tak"/></match> 
+   </rule> 
+
 </rules>
 
 <!-- 

@@ -98,7 +98,7 @@
 
 
 
-    <e><p><l>îmmer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
+    <e><p><l>immer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
     <e><p><l>Jahr<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>barn<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Junge<s n="n"/><s n="m"/></l><r>dreng<s n="n"/><s n="ut"/></r></p></e>
@@ -187,6 +187,18 @@
     <e><p><l>glauben<s n="vblex"/></l><r>tro<s n="vblex"/></r></p></e>
     <e><p><l>Wasser<s n="n"/><s n="nt"/></l><r>vand<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>wissen<s n="vblex"/></l><r>vide<s n="vblex"/></r></p></e>
+    <e><p><l>Ton<s n="n"/><s n="m"/></l><r>ler<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Decke<s n="n"/><s n="f"/></l><r>loft<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Decke<s n="n"/><s n="f"/></l><r>dyne<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>obere<s n="adj"/></l><r>øvre<s n="adj"/></r></p></e>
+    <e><p><l>Ball<s n="n"/><s n="m"/></l><r>bold<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Ball<s n="n"/><s n="m"/></l><r>bal<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Krebs<s n="n"/><s n="m"/></l><r>cancer<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Krebs<s n="n"/><s n="m"/></l><r>krabbe<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Krankheit<s n="n"/><s n="f"/></l><r>sygdom<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Flügel<s n="n"/><s n="m"/></l><r>vinge<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Flügel<s n="n"/><s n="m"/></l><r>flygel<s n="n"/><s n="un"/></r></p></e>
+
  </section>
 </dictionary>
 
