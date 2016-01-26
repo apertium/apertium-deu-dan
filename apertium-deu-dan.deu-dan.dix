@@ -81,6 +81,24 @@
     <e><p><l>Haus<s n="n"/><s n="nt"/></l><r>hus<s n="n"/><s n="nt"/></r></p></e>
 
     <e><p><l>immer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
+
+
+<!--Conjunctions-->
+<e>       <p><l>oder<s n="cnjcoo"/></l>               <r>eller<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>aber<s n="cnjcoo"/></l>                 <r>men<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>und<s n="cnjcoo"/></l>                 <r>og<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>samt<s n="cnjcoo"/></l>                <r>samt<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>ohne<s n="cnjcoo"/></l>                <r>uden<s n="cnjcoo"/></r></p></e>
+
+
+<e>       <p><l>entweder<s n="cnjadv"/></l>            <r>enten<s n="cnjadv"/></r></p></e>
+
+
+
+
+
+
+    <e><p><l>îmmer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
     <e><p><l>Jahr<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>barn<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Junge<s n="n"/><s n="m"/></l><r>dreng<s n="n"/><s n="ut"/></r></p></e>
@@ -108,7 +126,6 @@
     <e><p><l>viel<s n="adv"/></l><r>meget<s n="adv"/></r></p></e>
     <e><p><l>Mutter<s n="n"/><s n="f"/></l><r>mor<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>jetzt<s n="adv"/></l><r>nu<s n="adv"/></r></p></e>
-    <e><p><l>und<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/></r></p></e>
     <e><p><l>auch<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
     <e><p><l>Auge<s n="n"/><s n="nt"/></l><r>øje<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>auf<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
@@ -130,7 +147,6 @@
     <e><p><l>Fenster<s n="n"/><s n="nt"/></l><r>vindue<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>heute<s n="adv"/></l><r>i<b/>dag<s n="adv"/></r></p></e>
     <e><p><l>gestern<s n="adv"/></l><r>i<b/>går<s n="adv"/></r></p></e>
-    <e><p><l>aber<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
     <e><p><l>spielen<s n="vblex"/></l><r>lege<s n="vblex"/></r></p></e>
     <e><p><l>Spiel<s n="n"/><s n="nt"/></l><r>leg<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>zwei<s n="num"/></l><r>to<s n="num"/></r></p></e>
@@ -141,7 +157,6 @@
     <e><p><l>da<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
     <e><p><l>trinken<s n="vblex"/></l><r>drikke<s n="vblex"/></r></p></e>
     <e><p><l>Tier<s n="n"/><s n="nt"/></l><r>dyr<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>oder<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
     <e><p><l>fertig<s n="adj"/></l><r>færdig<s n="adj"/></r></p></e>
     <e><p><l>bekommen<s n="vblex"/></l><r>få<s n="vblex"/></r></p></e>
     <e><p><l>finden<s n="vblex"/></l><r>finde<s n="vblex"/></r></p></e>

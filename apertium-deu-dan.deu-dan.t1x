@@ -7,11 +7,38 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <def-cat n="pri">
+      <cat-item tags="vblex.pri.*"/>
+    </def-cat>
+    <def-cat n="vrb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vbmod.*"/>
+      <cat-item tags="vbser.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_pers">
+       <attr-item tags="p1"/>
+       <attr-item tags="p3"/>
+    </def-attr>
+     <def-attr n="a_nbr">
+       <attr-item tags="sg"/><attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="temps">
+      <attr-item tags="pri"/>
+      <attr-item tags="pres"/>
+      <attr-item tags="prs"/>
+    </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
+    </def-attr>
+    <def-attr n="modus">
+      <attr-item tags="actv"/>
     </def-attr>
   </section-def-attrs>
 
@@ -46,6 +73,79 @@
         </out>
       </action>
     </rule>
+<!--
+    <rule comment="RULE: Conjugate verbs">
+   <pattern>
+     <pattern-item n="vrb"/>
+   </pattern>
+   <action>
+       <choose>
+        <when>
+            <test>
+               <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pii"/>
+                </equal>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="temps"/>
+              <lit-tag v="pri"/>
+            </let>
+          </when>
+       </choose>
+     <out>
+       <chunk name="vb">
+       <tags>
+         <tag><lit-tag v="SV"/></tag>
+       </tags>
+       <lu>
+         <clip pos="1" side="tl" part="lem"/>
+         <clip pos="1" side="tl" part="a_verb"/>
+         <clip pos="1" side="tl" part="temps"/>
+       </lu>
+         </chunk>
+     </out>
+   </action>
+</rule>     
+-->
+ <rule comment="RULE: VERB(simple)">
+      <pattern>
+	<pattern-item n="vrb"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="temps"/><lit-tag v="pres"/></let>
+        <let><clip pos="1" side="tl" part="tags"/><concat><clip pos="1" side="tl" part="tags"/><lit-tag v="actv"/></concat></let>
+	<let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+	<let><clip pos="1" side="tl" part="a_pers"/><lit v=""/></let>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="tags"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+   </rule>     
+   <rule comment="RULE: NOM(simple)">
+      <pattern>
+	<pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="tags"/><concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind"/></concat></let>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="tags"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+   </rule>     
+		
+
+
+
+
   </section-rules>
 </transfer>
 
