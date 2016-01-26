@@ -118,11 +118,16 @@
 	<let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
 	<let><clip pos="1" side="tl" part="a_pers"/><lit v=""/></let>
         <out>
+	  <chunk name="vrb">
+       <tags>
+         <tag><lit-tag v="SV"/></tag>
+       </tags>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="tags"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
+         </chunk>
         </out>
       </action>
    </rule>     
@@ -133,11 +138,16 @@
       <action>
         <let><clip pos="1" side="tl" part="tags"/><concat><clip pos="1" side="tl" part="tags"/><lit-tag v="ind"/></concat></let>
         <out>
+	  <chunk name="nom">
+       <tags>
+         <tag><lit-tag v="SV"/></tag>
+       </tags>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="tags"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
+         </chunk>
         </out>
       </action>
    </rule>     
