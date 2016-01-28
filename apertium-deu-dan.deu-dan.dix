@@ -120,6 +120,54 @@
 
 
 
+   <!-- Numerals -->
+
+<e>       <p><l>null<s n="num"/></l>                   <r>nul<s n="num"/></r></p></e>
+<e>       <p><l>ein<s n="num"/></l>                     <r>en<s n="num"/></r></p></e>
+<e>       <p><l>zwei<s n="num"/></l>                    <r>to<s n="num"/></r></p></e>
+<e>       <p><l>drei<s n="num"/></l>                    <r>tre<s n="num"/></r></p></e>
+<e>       <p><l>vier<s n="num"/></l>                   <r>fire<s n="num"/></r></p></e>
+<e>       <p><l>fünf<s n="num"/></l>                    <r>fem<s n="num"/></r></p></e>
+<e>       <p><l>sechs<s n="num"/></l>                    <r>seks<s n="num"/></r></p></e>
+<e>       <p><l>sieben<s n="num"/></l>                    <r>syv<s n="num"/></r></p></e>
+<e>       <p><l>acht<s n="num"/></l>                   <r>otte<s n="num"/></r></p></e>
+<e>       <p><l>neun<s n="num"/></l>                    <r>ni<s n="num"/></r></p></e>
+<e>       <p><l>zehn<s n="num"/></l>                    <r>ti<s n="num"/></r></p></e>
+<e>       <p><l>elf<s n="num"/></l>                   <r>elleve<s n="num"/></r></p></e>
+<e>       <p><l>zwölf<s n="num"/></l>                   <r>tolv<s n="num"/></r></p></e>
+<e>       <p><l>dreizehn<s n="num"/></l>                <r>tretten<s n="num"/></r></p></e>
+<e>       <p><l>vierzehn<s n="num"/></l>                <r>fjorten<s n="num"/></r></p></e>
+<e>       <p><l>fünfzehn<s n="num"/></l>                 <r>femten<s n="num"/></r></p></e>
+<e>       <p><l>sechzehn<s n="num"/></l>                 <r>seksten<s n="num"/></r></p></e>
+<e>       <p><l>siebzehn<s n="num"/></l>                <r>sytten<s n="num"/></r></p></e>
+<e>       <p><l>achtzehn<s n="num"/></l>                  <r>atten<s n="num"/></r></p></e>
+<e>       <p><l>neunzehn<s n="num"/></l>                 <r>nitten<s n="num"/></r></p></e>
+<e>       <p><l>zwanzig<s n="num"/></l>                  <r>tyve<s n="num"/></r></p></e>
+<e>       <p><l>einundzwanzig<s n="num"/></l>                <r>enogtyve<s n="num"/></r></p></e>
+<e>       <p><l>zweiundzwanzig<s n="num"/></l>               <r>toogtyve<s n="num"/></r></p></e>
+<e>       <p><l>dreiundzwanzig<s n="num"/></l>               <r>treogtyve<s n="num"/></r></p></e>
+<e>       <p><l>vierundzwanzig"><s n="num"/></l>              <r>fireogtyve<s n="num"/></r></p></e>
+<e>       <p><l>fünfundzwanzig<s n="num"/></l>               <r>femogtyve<s n="num"/></r></p></e>
+<e>       <p><l>sechsundzwanzig<s n="num"/></l>               <r>seksogtyve<s n="num"/></r></p></e>
+<e>       <p><l>siebenundzwanzig"><i><s n="num"/></l>               <r>syvogtyve<s n="num"/></r></p></e>
+<e>       <p><l>achtundzwanzig<s n="num"/></l>              <r>åtteogtyve<s n="num"/></r></p></e>
+<e>       <p><l>neunundzwanzig<s n="num"/></l>               <r>niogtyve<s n="num"/></r></p></e>
+<e>       <p><l>dreißig<s n="num"/></l>                <r>tredive<s n="num"/></r></p></e>
+<e>       <p><l>einunddreißig<s n="num"/></l>              <r>enogtredive<s n="num"/></r></p></e>
+<e>       <p><l>zweiunddreißig<s n="num"/></l>             <r>toogtredive<s n="num"/></r></p></e>
+<e>       <p><l>dreiunddreißig<s n="num"/></l>             <r>treogtredive<s n="num"/></r></p></e>
+<e>       <p><l>vierzig<s n="num"/></l>                 <r>fyrre<s n="num"/></r></p></e>
+<e>       <p><l>fünfzig<s n="num"/></l>                 <r>halvtreds<s n="num"/></r></p></e>
+<e>       <p><l>sechzig<s n="num"/></l>                 <r>tres<s n="num"/></r></p></e>
+<e>       <p><l>siebzig<s n="num"/></l>                <r>halvfjerds<s n="num"/></r></p></e>
+<e>       <p><l>achtzig<s n="num"/></l>                  <r>firs<s n="num"/></r></p></e>
+<e>       <p><l>neunzig<s n="num"/></l>                 <r>halvfems<s n="num"/></r></p></e>
+<e>       <p><l>einhundert<s n="num"/></l>              <r>ethundrede<s n="num"/></r></p></e>
+<e>       <p><l>hundert<s n="num"/></l>               <r>hundrede<s n="num"/></r></p></e>
+<e>       <p><l>tausend<s n="num"/></l>                <r>tusinde<s n="num"/></r></p></e>
+<e>       <p><l>Million<s n="num"/></l>                 <r>million<s n="num"/></r></p></e>
+
+
 
 <!--Conjunctions-->
 <e>       <p><l>oder<s n="cnjcoo"/></l>               <r>eller<s n="cnjcoo"/></r></p></e>
