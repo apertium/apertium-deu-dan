@@ -82,6 +82,44 @@
 
     <e><p><l>immer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
 
+<!-- Prep -->
+
+    <e><p><l>nach<s n="pr"/></l><r>efter<s n="pr"/></r></p></e>
+    <e><p><l>vor<s n="pr"/></l><r>foran<s n="pr"/></r></p></e>
+    <e><p><l>von<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+    <e><p><l>durch<s n="pr"/></l><r>gennem<s n="pr"/></r></p></e>
+    <e><p><l>mit<s n="pr"/></l><r>med<s n="pr"/></r></p></e>
+    <e><p><l>auf<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
+    <e><p><l>für<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
+    <e><p><l>unter<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+<e>       <p><l>von<s n="pr"/></l>                      <r>af<s n="pr"/></r></p></e>
+<e>       <p><l>über<s n="pr"/></l>                    <r>over<s n="pr"/></r></p></e>
+<e>       <p><l>in<s n="pr"/></l>                       <r>i<s n="pr"/></r></p></e>
+<e>       <p><l>vor<s n="pr"/></l>                     <r>før<s n="pr"/></r></p></e>
+<e>       <p><l>zu<s n="pr"/></l>                     <r>for<s n="pr"/></r></p></e>
+<e>       <p><l>um<s n="pr"/></l>                      <r>om<s n="pr"/></r></p></e>
+<e>       <p><l>aus<s n="pr"/></l>                      <r>ud<s n="pr"/></r></p></e>
+<e>       <p><l>innerhalb<s n="pr"/></l>                 <r>inde<b/>fra<s n="pr"/></r></p></e>
+<e>       <p><l>seit<s n="pr"/></l>                   <r>siden<s n="pr"/></r></p></e>
+<e>       <p><l>per<s n="pr"/></l>                     <r>per<s n="pr"/></r></p></e>
+<e>       <p><l>zwischen<s n="pr"/></l>                  <r>mellem<s n="pr"/></r></p></e>
+<e>       <p><l>außer<s n="pr"/></l>                 <r>undtagen<s n="pr"/></r></p></e>
+<e>       <p><l>via<s n="pr"/></l>                     <r>via<s n="pr"/></r></p></e>
+<e>       <p><l>trotz<s n="pr"/></l>                   <r>på<b/>trods<b/>af<s n="pr"/></r></p></e>
+<e>       <p><l>um<s n="pr"/></l>                   <r>omkring<s n="pr"/></r></p></e>
+<e>       <p><l>bei<s n="pr"/></l>                     <r>hos<s n="pr"/></r></p></e>
+<e>       <p><l>innen<s n="pr"/></l>                   <r>inden<s n="pr"/></r></p></e>
+<e>       <p><l>an<s n="pr"/></l>                     <r>ved<s n="pr"/></r></p></e>
+<e>       <p><l>gegenüber<s n="pr"/></l>                 <r>overfor<s n="pr"/></r></p></e>
+<e>       <p><l>gegen<s n="pr"/></l>                     <r>mod<s n="pr"/></r></p></e>
+<e>       <p><l>längs<s n="pr"/></l>                   <r>langs<s n="pr"/></r></p></e>
+<e>       <p><l>infolge<s n="pr"/></l>                  <r>ifølge<s n="pr"/></r></p></e>
+<e>       <p><l>unter<s n="pr"/></l>                   <r>blandt<s n="pr"/></r></p></e>
+<e>       <p><l>ohne<s n="pr"/></l>                    <r>uden<s n="pr"/></r></p></e>
+<e>       <p><l>nahe<s n="pr"/></l>                    <r>nær<s n="pr"/></r></p></e>
+
+
+
 
 <!--Conjunctions-->
 <e>       <p><l>oder<s n="cnjcoo"/></l>               <r>eller<s n="cnjcoo"/></r></p></e>
@@ -99,15 +137,17 @@
 
 
     <e><p><l>immer<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
+
     <e><p><l>Jahr<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>barn<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Kind<s n="n"/><s n="nt"/></l><r>barn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Junge<s n="n"/><s n="m"/></l><r>dreng<s n="n"/><s n="ut"/></r></p></e>
-    <e><p><l>nach<s n="pr"/></l><r>efter<s n="pr"/></r></p></e>
+
+
     <e><p><l>lieben<s n="vblex"/></l><r>elske<s n="vblex"/></r></p></e>
-    <e><p><l>vor<s n="pr"/></l><r>foran<s n="pr"/></r></p></e>
-    <e><p><l>von<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+
+
     <e><p><l>alt<s n="adj"/></l><r>gammel<s n="adj"/></r></p></e>
-    <e><p><l>durch<s n="pr"/></l><r>gennem<s n="pr"/></r></p></e>
+
     <e><p><l>glücklich<s n="adj"/></l><r>glad<s n="adj"/></r></p></e>
     <e><p><l>gut<s n="adj"/></l><r>god<s n="adj"/></r></p></e>
     <e><p><l>Hand<s n="n"/><s n="f"/></l><r>hånd<s n="n"/><s n="ut"/></r></p></e>
@@ -122,13 +162,12 @@
     <e><p><l>spielen<s n="vblex"/></l><r>lege<s n="vblex"/></r></p></e>
     <e><p><l>klein<s n="adj"/></l><r>lille<s n="adj"/></r></p></e>
     <e><p><l>springen<s n="vblex"/></l><r>løbe<s n="vblex"/></r></p></e>
-    <e><p><l>mit<s n="pr"/></l><r>med<s n="pr"/></r></p></e>
     <e><p><l>viel<s n="adv"/></l><r>meget<s n="adv"/></r></p></e>
     <e><p><l>Mutter<s n="n"/><s n="f"/></l><r>mor<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>jetzt<s n="adv"/></l><r>nu<s n="adv"/></r></p></e>
     <e><p><l>auch<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
     <e><p><l>Auge<s n="n"/><s n="nt"/></l><r>øje<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>auf<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
+
     <e><p><l>Mädchen<s n="n"/><s n="nt"/></l><r>pige<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>zusammen<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
     <e><p><l>sehen<s n="vblex"/></l><r>se<s n="vblex"/></r></p></e>
@@ -137,10 +176,8 @@
     <e><p><l>Frage<s n="n"/><s n="f"/></l><r>spørgsmål<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>groß<s n="adj"/></l><r>stor<s n="adj"/></r></p></e>
     <e><p><l>Antwort<s n="n"/><s n="f"/></l><r>svar<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>für<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
     <e><p><l>Holz<s n="n"/><s n="nt"/></l><r>træ<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>draußen<s n="adv"/></l><r>udenfor<s n="adv"/></r></p></e>
-    <e><p><l>unter<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
     <e><p><l>sein<s n="vblex"/></l><r>være<s n="vblex"/></r></p></e>
     <e><p><l>varm<s n="adj"/></l><r>varm<s n="adj"/></r></p></e>
     <e><p><l>Wetter<s n="n"/><s n="nt"/></l><r>vejr<s n="n"/><s n="nt"/></r></p></e>
@@ -162,42 +199,58 @@
     <e><p><l>finden<s n="vblex"/></l><r>finde<s n="vblex"/></r></p></e>
     <e><p><l>erzählen<s n="vblex"/></l><r>fortælle<s n="vblex"/></r></p></e>
     <e><p><l>Vogel<s n="n"/><s n="m"/></l><r>fugl<s n="n"/><s n="ut"/></r></p></e>
+
     <e><p><l>gehen<s n="vblex"/></l><r>gå<s n="vblex"/></r></p></e>
     <e><p><l>lachen<s n="vblex"/></l><r>grine<s n="vblex"/></r></p></e>
     <e><p><l>hören<s n="vblex"/></l><r>høre<s n="vblex"/></r></p></e>
+
     <e><p><l>Kopf<s n="n"/><s n="m"/></l><r>hoved<s n="n"/><s n="nt"/></r></p></e>
+
     <e><p><l>warum<s n="adv"/></l><r>hvorfor<s n="adv"/></r></p></e>
     <e><p><l>nochmal<s n="adv"/></l><r>igen<s n="adv"/></r></p></e>
+
     <e><p><l>kommen<s n="vblex"/></l><r>komme<s n="vblex"/></r></p></e>
     <e><p><l>machen<s n="vblex"/></l><r>lave<s n="vblex"/></r></p></e>
     <e><p><l>suchen<s n="vblex"/></l><r>lede<s n="vblex"/></r></p></e>
+
     <e><p><l>Ton<s n="n"/><s n="m"/></l><r>lyd<s n="n"/><s n="ut"/></r></p></e>
+
     <e><p><l>überall<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
+
     <e><p><l>probieren<s n="vblex"/></l><r>prøve<s n="vblex"/></r></p></e>
+
     <e><p><l>natürlich<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
     <e><p><l>sitzen<s n="vblex"/></l><r>sidde<s n="vblex"/></r></p></e>
     <e><p><l>sagen<s n="vblex"/></l><r>sige<s n="vblex"/></r></p></e>
     <e><p><l>essen<s n="vblex"/></l><r>spise<s n="vblex"/></r></p></e>
     <e><p><l>fragen<s n="vblex"/></l><r>spørge<s n="vblex"/></r></p></e>
+
     <e><p><l>Stuhl<s n="n"/><s n="m"/></l><r>stol<s n="n"/><s n="m"/></r></p></e>
+
     <e><p><l>antworten<s n="vblex"/></l><r>svare<s n="vblex"/></r></p></e>
     <e><p><l>zahlen<s n="vblex"/></l><r>tælle<s n="vblex"/></r></p></e>
     <e><p><l>sprechen<s n="vblex"/></l><r>tale<s n="vblex"/></r></p></e>
+
     <e><p><l>Zeit<s n="n"/><s n="f"/></l><r>tid<s n="n"/><s n="ut"/></r></p></e>
+
     <e><p><l>glauben<s n="vblex"/></l><r>tro<s n="vblex"/></r></p></e>
+
     <e><p><l>Wasser<s n="n"/><s n="nt"/></l><r>vand<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>wissen<s n="vblex"/></l><r>vide<s n="vblex"/></r></p></e>
     <e><p><l>Ton<s n="n"/><s n="m"/></l><r>ler<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Decke<s n="n"/><s n="f"/></l><r>loft<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Decke<s n="n"/><s n="f"/></l><r>dyne<s n="n"/><s n="un"/></r></p></e>
+    
     <e><p><l>obere<s n="adj"/></l><r>øvre<s n="adj"/></r></p></e>
-    <e><p><l>Ball<s n="n"/><s n="m"/></l><r>bold<s n="n"/><s n="un"/></r></p></e>
-    <e><p><l>Ball<s n="n"/><s n="m"/></l><r>bal<s n="n"/><s n="un"/></r></p></e>
+   
+
+    <e><p><l>Ball<s n="n"/><s n="m"/></l><r>bold<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Ball<s n="n"/><s n="m"/></l><r>bal<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>Krebs<s n="n"/><s n="m"/></l><r>cancer<s n="n"/><s n="un"/></r></p></e>
-    <e><p><l>Krebs<s n="n"/><s n="m"/></l><r>krabbe<s n="n"/><s n="un"/></r></p></e>
-    <e><p><l>Krankheit<s n="n"/><s n="f"/></l><r>sygdom<s n="n"/><s n="un"/></r></p></e>
-    <e><p><l>Flügel<s n="n"/><s n="m"/></l><r>vinge<s n="n"/><s n="un"/></r></p></e>
-    <e><p><l>Flügel<s n="n"/><s n="m"/></l><r>flygel<s n="n"/><s n="un"/></r></p></e>
+    <e><p><l>Krebs<s n="n"/><s n="m"/></l><r>krabbe<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Krankheit<s n="n"/><s n="f"/></l><r>sygdom<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Flügel<s n="n"/><s n="m"/></l><r>vinge<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Flügel<s n="n"/><s n="m"/></l><r>flygel<s n="n"/><s n="nt"/></r></p></e>
 
  </section>
 </dictionary>

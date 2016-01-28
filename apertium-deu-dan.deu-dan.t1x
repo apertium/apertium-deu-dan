@@ -140,7 +140,7 @@
         <out>
 	  <chunk name="nom">
        <tags>
-         <tag><lit-tag v="SV"/></tag>
+         <tag><lit-tag v="nom"/></tag>
        </tags>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
