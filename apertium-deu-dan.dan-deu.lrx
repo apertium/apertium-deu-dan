@@ -34,7 +34,7 @@
     <match/> 
     <match lemma="Schimmel"><select lemma="skimmel"/></match> 
   </rule>      
----> 
+--> 
  <rule> 
     <match lemma="Krankheit"/> 
     <match lemma="Krebs"><select lemma="cancer"/></match> 
