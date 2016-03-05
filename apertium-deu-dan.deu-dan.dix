@@ -91,6 +91,8 @@
     <e><p><l>auf<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
     <e><p><l>für<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
     <e><p><l>unter<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+
+
 <e>       <p><l>von<s n="pr"/></l>                      <r>af<s n="pr"/></r></p></e>
 <e>       <p><l>über<s n="pr"/></l>                    <r>over<s n="pr"/></r></p></e>
 <e>       <p><l>in<s n="pr"/></l>                       <r>i<s n="pr"/></r></p></e>
@@ -145,10 +147,10 @@
 <e>       <p><l>einundzwanzig<s n="num"/></l>                <r>enogtyve<s n="num"/></r></p></e>
 <e>       <p><l>zweiundzwanzig<s n="num"/></l>               <r>toogtyve<s n="num"/></r></p></e>
 <e>       <p><l>dreiundzwanzig<s n="num"/></l>               <r>treogtyve<s n="num"/></r></p></e>
-<e>       <p><l>vierundzwanzig"><s n="num"/></l>              <r>fireogtyve<s n="num"/></r></p></e>
+<e>       <p><l>vierundzwanzig<s n="num"/></l>              <r>fireogtyve<s n="num"/></r></p></e>
 <e>       <p><l>fünfundzwanzig<s n="num"/></l>               <r>femogtyve<s n="num"/></r></p></e>
 <e>       <p><l>sechsundzwanzig<s n="num"/></l>               <r>seksogtyve<s n="num"/></r></p></e>
-<e>       <p><l>siebenundzwanzig"><i><s n="num"/></l>               <r>syvogtyve<s n="num"/></r></p></e>
+<e>       <p><l>siebenundzwanzig<s n="num"/></l>               <r>syvogtyve<s n="num"/></r></p></e>
 <e>       <p><l>achtundzwanzig<s n="num"/></l>              <r>åtteogtyve<s n="num"/></r></p></e>
 <e>       <p><l>neunundzwanzig<s n="num"/></l>               <r>niogtyve<s n="num"/></r></p></e>
 <e>       <p><l>dreißig<s n="num"/></l>                <r>tredive<s n="num"/></r></p></e>
@@ -165,6 +167,7 @@
 <e>       <p><l>hundert<s n="num"/></l>               <r>hundrede<s n="num"/></r></p></e>
 <e>       <p><l>tausend<s n="num"/></l>                <r>tusinde<s n="num"/></r></p></e>
 <e>       <p><l>Million<s n="num"/></l>                 <r>million<s n="num"/></r></p></e>
+
 
     <!-- Pronouns -->
 
@@ -189,6 +192,7 @@
 
 
 <!--Conjunctions-->
+
 <e>       <p><l>oder<s n="cnjcoo"/></l>               <r>eller<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>aber<s n="cnjcoo"/></l>                 <r>men<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>und<s n="cnjcoo"/></l>                 <r>og<s n="cnjcoo"/></r></p></e>
@@ -198,20 +202,18 @@
 <e>       <p><l>da<s n="cnjadv"/></l>                  <r>da<s n="cnjadv"/></r></p></e>
 <e>       <p><l>wo<s n="cnjsub"/></l>                 <r>hvor<s n="cnjsub"/></r></p></e>
 <e>       <p><l>wenn<s n="cnjsub"/></l>                  <r>hvis<s n="cnjadv"/></r></p></e>
-<e>       <p><l>varken<s n="cnjsub"/></l>                  <r>hverken<s n="cnjsub"/></r></p></e>
-<e>       <p><l>ty<s n="cnjsub"/></l>                  <r>fordi<s n="cnjsub"/></r></p></e>
-<e>       <p><l>ifall<s n="cnjsub"/></l>                  <r>hvis<s n="cnjsub"/></r></p></e>
-<e>       <p><l>såvida<s n="cnjsub"/></l>                  <r>såfremt<s n="cnjsub"/></r></p></e>
-<e>       <p><l>varvid<s n="cnjsub"/></l>                  <r>hvorved<s n="cnjsub"/></r></p></e>
-<e>       <p><l>fast<s n="cnjsub"/></l>                  <r>skønt<s n="cnjsub"/></r></p></e>
-<e>       <p><l>fastän<s n="cnjsub"/></l>                  <r>selv<b/>om<s n="cnjsub"/></r></p></e>
-<e>       <p><l>såvitt<s n="cnjsub"/></l>                  <r>såfremt<s n="cnjsub"/></r></p></e>
+<e>       <p><l>weder<s n="cnjsub"/></l>                  <r>hverken<s n="cnjsub"/></r></p></e>
+<e>       <p><l>denn<s n="cnjsub"/></l>                  <r>fordi<s n="cnjsub"/></r></p></e>
+<e>       <p><l>falls<s n="cnjsub"/></l>                  <r>hvis<s n="cnjsub"/></r></p></e>
+<e>       <p><l>insofern<s n="cnjsub"/></l>                  <r>såfremt<s n="cnjsub"/></r></p></e>
+<e>       <p><l>wodurch<s n="cnjsub"/></l>                  <r>hvorved<s n="cnjsub"/></r></p></e>
+<e>       <p><l>obwohl<s n="cnjsub"/></l>                  <r>skønt<s n="cnjsub"/></r></p></e>
+<e>       <p><l>obwohl<s n="cnjsub"/></l>                  <r>selv<b/>om<s n="cnjsub"/></r></p></e>
+<e>       <p><l>insofern<s n="cnjsub"/></l>                  <r>såfremt<s n="cnjsub"/></r></p></e>
 
 
 
     <!-- Adverbs -->
-
-
 
 
     <e><p><l>überall<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
@@ -229,6 +231,8 @@
     <e><p><l>nochmal<s n="adv"/></l><r>igen<s n="adv"/></r></p></e>
     <e><p><l>niemals<s n="adv"/></l><r>aldrig<s n="adv"/></r></p></e>
     <e><p><l>da<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+
+
 <e> <p><l>endlich<s n="adv"/></l>	<r>endelig<s n="adv"/></r></p></e>
 <e>       <p><l>wirklich<s n="adv"/></l>              <r>virkelig<s n="adv"/></r></p></e>
 <e>       <p><l>oben<s n="adv"/></l>                   <r>oppe<s n="adv"/></r></p></e>
@@ -257,6 +261,7 @@
 <e>       <p><l>innen<s n="adv"/></l>                   <r>indenfor<s n="adv"/></r></p></e>
 <e>       <p><l>also<s n="adv"/></l>                   <r>altså<s n="adv"/></r></p></e>
 <e>       <p><l>noch<s n="adv"/></l>                   <r>endnu<s n="adv"/></r></p></e>
+
 
 <!-- Adverbs to add
 
@@ -503,10 +508,3 @@
 
  </section>
 </dictionary>
-
-<!-- 
-Resources: 
-    http://wiki.apertium.org/wiki/Bilingual_dictionary
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Bilingual_dictionary
--->
-
