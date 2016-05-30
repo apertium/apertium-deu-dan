@@ -5,12 +5,6 @@
   -->
 
   <rule>
-    <match lemma="wind"/>
-    <match lemma="power" tags="n.*">
-      <select lemma="energía" tags="n.*"/>
-    </match>
-  </rule>
-  <rule>
    <match lemma="modellieren" tags="vblex.*"/>
     <match lemma="Ton" tags="n.*">
       <select lemma="ler" tags="n.*"/>
@@ -49,6 +43,7 @@
     <match lemma="obere"/> 
     <match lemma="Decke"><select lemma="tak"/></match> 
    </rule> 
+
  
 </rules>
 
