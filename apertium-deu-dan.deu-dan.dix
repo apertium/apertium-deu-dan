@@ -263,139 +263,16 @@
 <e>       <p><l>noch<s n="adv"/></l>                   <r>endnu<s n="adv"/></r></p></e>
 
 
-<!-- Adverbs to add
 
-<e>       <p><l>inte<s n="adv"/></l>                   <r>ikke<s n="adv"/></r></p></e>
+    <e><p><l>Rede<s n="n"/><s n="f"/></l><r>tale<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Regel<s n="n"/><s n="f"/></l><r>regel<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Person<s n="n"/><s n="f"/></l><r>person<s n="n"/><s n="ut"/></r></p></e>
 
-<e>       <p><l>ej<s n="adv"/></l>                     <r>ej<s n="adv"/></r></p></e>
-<e>       <p><l>upp<s n="adv"/></l>                    <r>op<s n="adv"/></r></p></e>
-<e>       <p><l>in<s n="adv"/></l>                     <r>ind<b/>i<s n="adv"/></r></p></e>
+    <e><p><l>Unterschied<s n="n"/><s n="m"/></l><r>forskel<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Wort<s n="n"/><s n="f"/></l><r>ord<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Eindruck<s n="n"/><s n="m"/></l><r>indtryk<s n="n"/><s n="nt"/></r></p></e>
 
-<e>       <p><l>här<s n="adv"/></l>                    <r>her<s n="adv"/></r></p></e>
-<e>       <p><l>där<s n="adv"/></l>                    <r>der<s n="adv"/></r></p></e>
-<e>       <p><l>få<s n="adv"/></l>                     <r>få<s n="adv"/></r></p></e>
-
-
-<e>       <p><l>alldeles<s n="adv"/></l>               <r>aldeles<s n="adv"/></r></p></e>
-<e>       <p><l>alltså<s n="adv"/></l>                 <r>altså<s n="adv"/></r></p></e>
-<e>       <p><l>även<s n="adv"/></l>                   <r>endda<s n="adv"/></r></p></e>
-<e>       <p><l>bara<s n="adv"/></l>                   <r>bare<s n="adv"/></r></p></e>
-<e>       <p><l>bort<s n="adv"/></l>                   <r>bort<s n="adv"/></r></p></e>
-<e>       <p><l>bra<s n="adv"/></l>                    <r>godt<s n="adv"/></r></p></e>
-<e>       <p><l>cirka<s n="adv"/></l>                  <r>cirka<s n="adv"/></r></p></e>
-<e>       <p><l>därefter<s n="adv"/></l>               <r>derefter<s n="adv"/></r></p></e>
-<e>       <p><l>däremot<s n="adv"/></l>                <r>derimod<s n="adv"/></r></p></e>
-<e>       <p><l>därför<s n="adv"/></l>                 <r>derfor<s n="adv"/></r></p></e>
-<e>       <p><l>därmed<s n="adv"/></l>                 <r>dermed<s n="adv"/></r></p></e>
-<e>       <p><l>delvis<s n="adv"/></l>                 <r>delvis<s n="adv"/></r></p></e>
-<e>       <p><l>dessutom<s n="adv"/></l>               <r>desuden<s n="adv"/></r></p></e>
-<e>       <p><l>dit<s n="adv"/></l>                    <r>der<s n="adv"/></r></p></e>
-<e>       <p><l>dock<s n="adv"/></l>                   <r>dog<s n="adv"/></r></p></e>
-<e>       <p><l>egentligen<s n="adv"/></l>             <r>egentlig<s n="adv"/></r></p></e>
-<e>       <p><l>emellan<s n="adv"/></l>                <r>mellem<s n="adv"/></r></p></e>
-<e>       <p><l>emellertid<s n="adv"/></l>             <r>imidlertid<s n="adv"/></r></p></e>
-<e>       <p><l>emot<s n="adv"/></l>                   <r>imod<s n="adv"/></r></p></e>
-<e>       <p><l>exempelvis<s n="adv"/></l>             <r>eksempelvis<s n="adv"/></r></p></e>
-<e>       <p><l>först<s n="adv"/></l>                  <r>først<s n="adv"/></r></p></e>
-<e>       <p><l>fortfarande<s n="adv"/></l>            <r>fortsat<s n="adv"/></r></p></e>
-<e>       <p><l>fram<s n="adv"/></l>                   <r>frem<s n="adv"/></r></p></e>
-<e>       <p><l>framför<s n="adv"/></l>                <r>frem<b/>for<s n="adv"/></r></p></e>
-<e>       <p><l>ganska<s n="adv"/></l>                 <r>ganske<s n="adv"/></r></p></e>
-<e>       <p><l>heller<s n="adv"/></l>                 <r>heller<s n="adv"/></r></p></e>
-<e>       <p><l>hellre<s n="adv"/></l>                 <r>hellere<s n="adv"/></r></p></e>
-<e>       <p><l>hit<s n="adv"/></l>                    <r>her<s n="adv"/></r></p></e>
-<e>       <p><l>hur<s n="adv"/><s n="itg"/></l>        <r>hvordan<s n="adv"/><s n="itg"/></r></p></e>
-
-
-<e>       <p><l>vad<s n="adv"/><s n="itg"/></l>        <r>hvad<s n="adv"/><s n="itg"/></r></p></e>
-<e>       <p><l>vad<s n="prn"/><s n="rel"/></l>        <r>hvad<s n="prn"/><s n="rel"/></r></p></e>
-
-<e>       <p><l>huvudsakligen<s n="adv"/></l>          <r>hovedsageligt<s n="adv"/></r></p></e>
-
-<e>       <p><l>igenom<s n="adv"/></l>                 <r>igennem<s n="adv"/></r></p></e>
-
-<e>       <p><l>istället<s n="adv"/></l>               <r>istedet<s n="adv"/></r></p></e>
-<e>       <p><l>ju<s n="adv"/></l>                     <r>jo<s n="adv"/></r></p></e>
-<e>       <p><l>kring<s n="adv"/></l>                  <r>omkring<s n="adv"/></r></p></e>
-<e>       <p><l>kvar<s n="adv"/></l>                   <r>tilbage<s n="adv"/></r></p></e>
-<e>       <p><l>länge<s n="adv"/></l>                  <r>længe<s n="adv"/></r></p></e>
-<e>       <p><l>liksom<s n="adv"/></l>                 <r>ligesom<s n="adv"/></r></p></e>
-<e>       <p><l>lite<s n="adv"/></l>                   <r>lidt<s n="adv"/></r></p></e>
-<e>       <p><l>mera<s n="adv"/></l>                   <r>mere<s n="adv"/></r></p></e>
-<e>       <p><l>nära<s n="adv"/></l>                   <r>nær<s n="adv"/></r></p></e>
-<e>       <p><l>nere<s n="adv"/></l>                   <r>nede<s n="adv"/></r></p></e>
-<e>       <p><l>nog<s n="adv"/></l>                    <r>nok<s n="adv"/></r></p></e>
-<e>       <p><l>numera<s n="adv"/></l>                 <r>for<b/>tiden<s n="adv"/></r></p></e>
-<e>       <p><l>omkring<s n="adv"/></l>                <r>omkring<s n="adv"/></r></p></e>
-<e>       <p><l>på<s n="adv"/></l>                     <r>på<s n="adv"/></r></p></e>
-<e>       <p><l>rätt<s n="adv"/></l>                   <r>ret<s n="adv"/></r></p></e>
-<e>       <p><l>redan<s n="adv"/></l>                  <r>allerede<s n="adv"/></r></p></e>
-
-<e>       <p><l>tillbaka<s n="adv"/></l>               <r>tilbage<s n="adv"/></r></p></e>
-<e>       <p><l>tillsammans<s n="adv"/></l>            <r>tilsammen<s n="adv"/></r></p></e>
-<e>       <p><l>troligen<s n="adv"/></l>               <r>formodentligt<s n="adv"/></r></p></e>
-<e>       <p><l>trots<s n="adv"/></l>                  <r>trods<s n="adv"/></r></p></e>
-<e>       <p><l>ungefär<s n="adv"/></l>                <r>cirka<s n="adv"/></r></p></e>
-<e>       <p><l>ursprungligen<s n="adv"/></l>          <r>oprindeligt<s n="adv"/></r></p></e>
-
-<e>       <p><l>väl<s n="adv"/></l>                    <r>vel<s n="adv"/></r></p></e>
-<e>       <p><l>la<s n="adv"/></l>                    <r>vel<s n="adv"/></r></p></e>
-<e>       <p><l>vanligen<s n="adv"/></l>               <r>sædvanligvis<s n="adv"/></r></p></e>
-<e>       <p><l>ytterligare<s n="adv"/></l>            <r>yderligere<s n="adv"/></r></p></e>
-<e>       <p><l>precis<s n="adv"/></l>                 <r>præcis<s n="adv"/></r></p></e>
-
-<e>       <p><l>nord<s n="adv"/></l>                   <r>nord<s n="adv"/></r></p></e>
-
-
-
-
-
-
-<e>       <p><l>i<b/>fjol<s n="adv"/></l>                   <r>i<b/>fjor<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>fjor<s n="adv"/></l>                   <r>i<b/>fjor<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>förfjol<s n="adv"/></l>                <r>i<b/>forfjol<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>början<s n="adv"/></l>                 <r>i<b/>begyndelsen<s n="adv"/></r></p></e>
-<e>       <p><l>för<b/>tillfället<s n="adv"/></l>           <r>for<b/>øjeblikket<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>höst<s n="adv"/></l>                   <r>til<b/>efteråret<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>våras<s n="adv"/></l>                  <r>sidste<b/>forår<s n="adv"/></r></p></e>
-
-<e>       <p><l>i<b/>somras<s n="adv"/></l>                 <r>sidste<b/>sommer<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>höstas<s n="adv"/></l>                 <r>sidste<b/>efterår<s n="adv"/></r></p></e>
-<e>       <p><l>alltför<s n="adv"/></l>                     <r>alt<b/>for<s n="adv"/></r></p></e>
-<e>       <p><l>alltjämt<s n="adv"/></l>                    <r>stadig<s n="adv"/></r></p></e>
-<e>       <p><l>annars<s n="adv"/></l>                      <r>ellers<s n="adv"/></r></p></e>
-<e>       <p><l>apropå<s n="adv"/></l>                   <r>apropos<s n="adv"/></r></p></e>
-<e>       <p><l>bakom<s n="adv"/></l>                   <r>bag<s n="adv"/></r></p></e>
-<e>       <p><l>bakåt<s n="adv"/></l>                   <r>bagud<s n="adv"/></r></p></e>
-<e>       <p><l>bokstavligen<s n="adv"/></l>                   <r>bogstavelig<b/>talt<s n="adv"/></r></p></e>
-<e>       <p><l>borta<s n="adv"/></l>                   <r>væk<s n="adv"/></r></p></e>
-<e>       <p><l>dagligen<s n="adv"/></l>                   <r>daglig<s n="adv"/></r></p></e>
-<e>       <p><l>därigenom<s n="adv"/></l>                   <r>derved<s n="adv"/></r></p></e>
-<e>       <p><l>efteråt<s n="adv"/></l>                   <r>bagefter<s n="adv"/></r></p></e>
-<e>       <p><l>enbart<s n="adv"/></l>                   <r>kun<s n="adv"/></r></p></e>
-
-<e>       <p><l>i<b/>somras<s n="adv"/></l>                 <r>sidste<b/>sommer<s n="adv"/></r></p></e>
-<e>       <p><l>i<b/>höstas<s n="adv"/></l>                 <r>sidste<b/>efterår<s n="adv"/></r></p></e>
-<e>       <p><l>alltför<s n="adv"/></l>                     <r>alt<b/>for<s n="adv"/></r></p></e>
-<e>       <p><l>alltjämt<s n="adv"/></l>                    <r>stadig<s n="adv"/></r></p></e>
-<e>       <p><l>annars<s n="adv"/></l>                      <r>ellers<s n="adv"/></r></p></e>
-<e>       <p><l>apropå<s n="adv"/></l>                   <r>apropos<s n="adv"/></r></p></e>
-<e>       <p><l>bakom<s n="adv"/></l>                   <r>bag<s n="adv"/></r></p></e>
-<e>       <p><l>bakåt<s n="adv"/></l>                   <r>bagud<s n="adv"/></r></p></e>
-<e>       <p><l>bokstavligen<s n="adv"/></l>                   <r>bogstavelig<b/>talt<s n="adv"/></r></p></e>
-<e>       <p><l>borta<s n="adv"/></l>                   <r>væk<s n="adv"/></r></p></e>
-<e>       <p><l>dagligen<s n="adv"/></l>                   <r>daglig<s n="adv"/></r></p></e>
-<e>       <p><l>därigenom<s n="adv"/></l>                   <r>derved<s n="adv"/></r></p></e>
-<e>       <p><l>efteråt<s n="adv"/></l>                   <r>bagefter<s n="adv"/></r></p></e>
-<e>       <p><l>enbart<s n="adv"/></l>                   <r>kun<s n="adv"/></r></p></e>
-
-
-
-
--->
-
-
-
+    <e><p><l>mündlich<s n="adj"/></l><r>mundtligt<s n="adj"/></r></p></e>
 
 
     <e><p><l>Jahr<s n="n"/><s n="nt"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
