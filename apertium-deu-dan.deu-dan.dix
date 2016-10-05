@@ -293,6 +293,18 @@
 
     <e><p><l>Haus<s n="n"/><s n="nt"/></l><r>hus<s n="n"/><s n="nt"/></r></p></e>
 
+    <e><p><l>Projekt<s n="n"/><s n="nt"/></l><r>projekt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Wörterbuch<s n="n"/><s n="nt"/></l><r>ordbog<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Format<s n="n"/><s n="nt"/></l><r>format<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Form<s n="n"/><s n="f"/></l><r>form<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Übersetzung<s n="n"/><s n="f"/></l><r>oversættelse<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Technologie<s n="n"/><s n="f"/></l><r>teknologi<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>System<s n="n"/><s n="nt"/></l><r>systemet<s n="n"/><s n="nt"/></r></p></e>
+
+    <e><p><l>übersetzen<s n="vblex"/></l><r>oversætte<s n="vblex"/></r></p></e>
+    <e><p><l>integrieren<s n="vblex"/></l><r>integrere<s n="vblex"/></r></p></e>
+    <e><p><l>benutzen<s n="vblex"/></l><r>bruge<s n="vblex"/></r></p></e>
+
     <e><p><l>Katze<s n="n"/><s n="f"/></l><r>kat<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>kalt<s n="adj"/></l><r>kold<s n="adj"/></r></p></e>
     <e><p><l>können<s n="vblex"/></l><r>kunne<s n="vblex"/></r></p></e>
