@@ -4,6 +4,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -20,6 +23,22 @@
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+
+    <def-attr n="type_mot">
+      <attr-item tags="n"/>
+      <attr-item tags="det"/>
+    </def-attr>
+
+   <def-attr n="gender">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="ut"/>
+    </def-attr>
+   <def-attr n="numerus">
+       <attr-item tags="sg"/>
+       <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="a_pers">
        <attr-item tags="p1"/>
@@ -150,13 +169,42 @@
          </chunk>
         </out>
       </action>
-   </rule>     
+   </rule> 
+
+   <rule comment="RULE: DET NOM">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <lit-tag v="ind"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+  </section-rules>
+
+    
 		
 
 
 
 
-  </section-rules>
+
 </transfer>
 
 <!--
