@@ -178,6 +178,10 @@
       </pattern>
       <action>
         <out>
+         <chunk name="DET-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="type_mot"/>
@@ -193,6 +197,7 @@
             <clip pos="2" side="tl" part="numerus"/>
             <lit-tag v="ind"/>
           </lu>
+	</chunk>
         </out>
       </action>
     </rule>
