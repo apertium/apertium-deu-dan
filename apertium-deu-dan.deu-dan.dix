@@ -124,7 +124,7 @@
    <!-- Numerals -->
 
 <e>       <p><l>null<s n="num"/></l>                   <r>nul<s n="num"/></r></p></e>
-<e>       <p><l>ein<s n="num"/></l>                     <r>en<s n="num"/></r></p></e>
+<e>       <p><l>eins<s n="num"/></l>                     <r>en<s n="num"/></r></p></e>
 <e>       <p><l>zwei<s n="num"/></l>                    <r>to<s n="num"/></r></p></e>
 <e>       <p><l>drei<s n="num"/></l>                    <r>tre<s n="num"/></r></p></e>
 <e>       <p><l>vier<s n="num"/></l>                   <r>fire<s n="num"/></r></p></e>
@@ -180,6 +180,7 @@
 
 
 <e>       <p><l>ein<s n="det"/></l>                    <r>en<s n="det"/></r></p></e>
+<e>       <p><l>ein<s n="det"/></l>                    <r>et<s n="det"/></r></p></e>
 
 
 <!-- Possessiva pronomen -->
@@ -284,6 +285,7 @@
 
 
     <e><p><l>alt<s n="adj"/></l><r>gammel<s n="adj"/></r></p></e>
+    <e><p><l>schön<s n="adj"/></l><r>flot<s n="adj"/></r></p></e>
 
     <e><p><l>glücklich<s n="adj"/></l><r>glad<s n="adj"/></r></p></e>
     <e><p><l>gut<s n="adj"/></l><r>god<s n="adj"/></r></p></e>
