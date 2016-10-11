@@ -23,6 +23,7 @@
     </def-cat>
   </section-def-cats>
 
+
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
@@ -32,6 +33,11 @@
       <attr-item tags="n"/>
       <attr-item tags="det"/>
       <attr-item tags="adj"/>
+    </def-attr>
+    <def-attr n="adj_synt">
+      <attr-item tags="pst"/>
+      <attr-item tags="comp"/>
+      <attr-item tags="sup"/>
     </def-attr>
 
    <def-attr n="gender">
