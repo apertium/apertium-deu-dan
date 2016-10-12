@@ -1,2 +1,2 @@
 # Example configuration, just list what pairs/directions you want to test:
-PAIRS=( sme-nob nob-sme )
+PAIRS=( deu-dan dan-deu) 

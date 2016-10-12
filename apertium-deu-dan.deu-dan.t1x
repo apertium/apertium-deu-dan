@@ -200,6 +200,32 @@
       </action>
    </rule> 
 
+
+   <rule comment="RULE: DET(DEF) NOM">
+      <pattern>
+        <pattern-item n="det_def"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+            <lit-tag v="def"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
    <rule comment="RULE: DET NOM">
       <pattern>
         <pattern-item n="det"/>
