@@ -23,6 +23,9 @@
     <def-cat n="pri">
       <cat-item tags="vblex.pri.*"/>
     </def-cat>
+    <def-cat n="vblex_pii">
+      <cat-item tags="vblex.pii.*"/>
+    </def-cat>
     <def-cat n="vrb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbmod.*"/>
@@ -40,6 +43,7 @@
       <attr-item tags="n"/>
       <attr-item tags="det"/>
       <attr-item tags="adj"/>
+      <attr-item tags="vblex"/>
     </def-attr>
     <def-attr n="type_det">
       <attr-item tags="ind"/>
@@ -156,6 +160,30 @@
    </action>
 </rule>     
 -->
+
+ <rule comment="RULE: VERB pii(simple)">
+      <pattern>
+	<pattern-item n="vblex_pii"/>
+      </pattern>
+      <action>
+        <out>
+	  <chunk name="VERB pii">
+       <tags>
+         <tag><lit-tag v="SV"/></tag>
+       </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <lit-tag v="past"/>
+            <lit-tag v="actv"/>
+          </lu>
+         </chunk>
+        </out>
+      </action>
+   </rule> 
+
+
+
  <rule comment="RULE: VERB(simple)">
       <pattern>
 	<pattern-item n="vrb"/>
@@ -178,7 +206,12 @@
          </chunk>
         </out>
       </action>
-   </rule>     
+   </rule> 
+
+
+
+
+    
    <rule comment="RULE: NOM(simple)">
       <pattern>
 	<pattern-item n="nom"/>
