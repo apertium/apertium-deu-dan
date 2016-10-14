@@ -4900,6 +4900,83 @@
       ****************************** -->
 <e>       <p><l>meist<s n="adv"/></l>                  <r>mest<s n="preadv"/></r></p></e>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<e><p><l>albern<s n="vblex"/></l><r>fjolle<s n="vblex"/></r></p></e>
+<e><p><l>anhalten<s n="vblex"/><s n="sep"/></l><r>standse<s n="vblex"/></r></p></e>
+<e><p><l>befehlen<s n="vblex"/></l><r>befale<s n="vblex"/></r></p></e>
+<e><p><l>beide<s n="det"/></l><r>begge<s n="det"/></r></p></e>
+<e><p><l>besiegen<s n="vblex"/></l><r>besejre<s n="vblex"/></r></p></e>
+<e><p><l>bestimmt<s n="adj"/></l><r>sikker<s n="adj"/></r></p></e>
+<e><p><l>bestimmt<s n="adv"/></l><r>sikkert<s n="adv"/></r></p></e>
+<e><p><l>betteln<s n="vblex"/></l><r>tigge<s n="vblex"/></r></p></e>
+<e><p><l>dafür<s n="adv"/></l><r>derfor<s n="adv"/></r></p></e>
+<e><p><l>damit<s n="cnjsub"/></l><r>for<b/>at<s n="cnjsub"/></r></p></e>
+<e><p><l>daraus<s n="adv"/></l><r>deraf<s n="adv"/></r></p></e>
+<e><p><l>davon<s n="adv"/></l><r>deraf<s n="adv"/></r></p></e>
+<e><p><l>direkt<s n="adj"/></l><r>direkte<s n="adj"/></r></p></e>
+<e><p><l>direkt<s n="adv"/></l><r>direkte<s n="adv"/></r></p></e>
+<e><p><l>drehen<s n="vblex"/></l><r>dreje<s n="vblex"/></r></p></e>
+<e><p><l>eigentlich<s n="adj"/></l><r>egentlig<s n="adj"/></r></p></e>
+<e><p><l>eigentlich<s n="adv"/></l><r>egentlig<s n="adv"/></r></p></e>
+<e><p><l>einmal<s n="adv"/></l><r>engang<s n="adv"/></r></p></e>
+<e><p><l>Erlebnis<s n="n"/><s n="nt"/></l><r>oplevelse<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>erschrecken<s n="vblex"/></l><r>skræmme<s n="vblex"/></r></p></e>
+<e><p><l>erst<s n="adv"/></l><r>først<s n="adv"/></r></p></e>
+<e><p><l>früher<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
+<e><p><l>furchtbar<s n="adj"/></l><r>frygtelig<s n="adj"/></r></p></e>
+<e><p><l>fühlen<s n="vblex"/></l><r>føle<s n="vblex"/></r></p></e>
+<e><p><l>genauso<s n="adv"/></l><r>lige<b/>så<s n="adv"/></r></p></e>
+<e><p><l>herum<s n="adv"/></l><r>omkring<s n="adv"/></r></p></e>
+<e><p><l>hinter<s n="pr"/></l><r>bag<s n="pr"/></r></p></e>
+<e><p><l>holen<s n="vblex"/></l><r>hente<s n="vblex"/></r></p></e>
+<e><p><l>Hose<s n="n"/><s n="f"/></l><r>bukser<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>jammern<s n="vblex"/></l><r>klynke<s n="vblex"/></r></p></e>
+<e><p><l>knurren<s n="vblex"/></l><r>knurre<s n="vblex"/></r></p></e>
+<e><p><l>laufen<s n="vblex"/></l><r>løbe<s n="vblex"/></r></p></e>
+<e><p><l>letzt<s n="adj"/></l><r>sidst<s n="adj"/></r></p></e>
+<e><p><l>lieb<s n="adj"/></l><r>kær<s n="adj"/></r></p></e>
+<e><p><l>Maul<s n="n"/><s n="nt"/></l><r>kæft<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>mutig<s n="adj"/></l><r>modig<s n="adj"/></r></p></e>
+<e><p><l>nah<s n="adj"/></l><r>tæt<s n="adj"/></r></p></e>
+<e><p><l>neben<s n="pr"/></l><r>ved<b/>siden<b/>af<s n="pr"/></r></p></e>
+<e><p><l>rennen<s n="vblex"/></l><r>løbe<s n="vblex"/></r></p></e>
+<e><p><l>Schachtel<s n="n"/><s n="f"/></l><r>æske<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>schreien<s n="vblex"/></l><r>skrige<s n="vblex"/></r></p></e>
+<e><p><l>sehr<s n="adv"/></l><r>meget<s n="adv"/></r></p></e>
+<e><p><l>Sicherheit<s n="n"/><s n="f"/></l><r>sikkerhed<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>sogar<s n="adv"/></l><r>selv<s n="adv"/></r></p></e>
+<e><p><l>stolz<s n="adj"/></l><r>stolt<s n="adj"/></r></p></e>
+<e><p><l>stottern<s n="vblex"/></l><r>stamme<s n="vblex"/></r></p></e>
+<e><p><l>Stück<s n="n"/><s n="nt"/></l><r>stykke<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Tim<s n="np"/></l><r>Tim<s n="np"/></r></p></e>
+<e><p><l>trauen<s n="vblex"/></l><r>stole<s n="vblex"/></r></p></e>
+<e><p><l>Umweg<s n="n"/><s n="m"/></l><r>omvej<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>unfähig<s n="adj"/></l><r>uduelig<s n="adj"/></r></p></e>
+<e><p><l>verabschieden<s n="vblex"/></l><r>afskedige<s n="vblex"/></r></p></e>
+<e><p><l>vorbei<s n="adv"/></l><r>forbi<s n="adv"/></r></p></e>
+<e><p><l>vorher<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
+<e><p><l>wechseln<s n="vblex"/></l><r>veksle<s n="vblex"/></r></p></e>
+<e><p><l>werfen<s n="vblex"/></l><r>kaste<s n="vblex"/></r></p></e>
+<e><p><l>wir<s n="prn"/></l><r>vi<s n="prn"/></r></p></e>
+<e><p><l>wundern<s n="vblex"/></l><r>undre<s n="vblex"/></r></p></e>
+<e><p><l>Zaun<s n="n"/><s n="m"/></l><r>hegn<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>zurück<s n="adv"/></l><r>tilbage<s n="adv"/></r></p></e>
+<e><p><l>überhaupt<s n="adv"/></l><r>overhovedet<s n="adv"/></r></p></e>
+
   </section>
 </dictionary>
     
