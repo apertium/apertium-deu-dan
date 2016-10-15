@@ -4650,7 +4650,7 @@
 <e>       <p><l>auslösen<s n="vblex"/></l>             <r>udløse<s n="vblex"/></r></p></e>
 <e>       <p><l>ausrechnen<s n="vblex"/><s n="sep"/></l><r>beregne<s n="vblex"/></r></p></e>
 <e>       <p><l>ausrüsten<s n="vblex"/></l>            <r>udruste<s n="vblex"/></r></p></e>
-<e>       <p><l>aussehen<s n="vblex"/></l>             <r>se ud<s n="vblex"/></r></p></e>
+<e>       <p><l>aussehen<s n="vblex"/></l>             <r>se<b/>ud<s n="vblex"/></r></p></e>
 <e>       <p><l>auswandern<s n="vblex"/></l>           <r>udvandre<s n="vblex"/></r></p></e>
 <e>       <p><l>auswählen<s n="vblex"/></l>            <r>udvælge<s n="vblex"/></r></p></e>
 <e>       <p><l>autorisieren<s n="vblex"/></l>         <r>autorisere<s n="vblex"/></r></p></e>
@@ -4982,7 +4982,7 @@
 
 <e><p><l>abermals<s n="adv"/></l><r>igen<s n="adv"/></r></p></e>
 <e><p><l>Abgang<s n="n"/><s n="m"/></l><r>afgang<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abgeben<s n="vblex"/><s n="sep"/></l><r>afgive<s n="vblex_sep"/></r></p></e>
+<e><p><l>abgeben<s n="vblex"/><s n="sep"/></l><r>afgive<s n="vblex"/></r></p></e>
 <e><p><l>abgeschlossen<s n="adj"/></l><r>færdig<s n="adj"/></r></p></e>
 <e><p><l>absichern<s n="vblex"/><s n="sep"/></l><r>afsikre<s n="vblex"/></r></p></e>
 <e><p><l>abhalten<s n="vblex"/><s n="sep"/></l><r>afholde<s n="vblex"/></r></p></e>
@@ -4991,9 +4991,9 @@
 <e><p><l>Abitur<s n="n"/><s n="nt"/></l><r>studentereksamen<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Abkommen<s n="n"/><s n="nt"/></l><r>overenskomst<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Ablauf<s n="n"/><s n="m"/></l><r>afløb<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>ablehnen<s n="vblex"/><s n="sep"/></l><r>afvise<s n="vblex_sep"/></r></p></e>
+<e><p><l>ablehnen<s n="vblex"/><s n="sep"/></l><r>afvise<s n="vblex"/></r></p></e>
 <e><p><l>Ablehnung<s n="n"/><s n="f"/></l><r>afvisning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>ablösen<s n="vblex"/><s n="sep"/></l><r>afløse<s n="vblex_sep"/></r></p></e>
+<e><p><l>ablösen<s n="vblex"/><s n="sep"/></l><r>afløse<s n="vblex"/></r></p></e>
 <e><p><l>Ablösung<s n="n"/><s n="f"/></l><r>afløsning<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>abnehmen<s n="vblex"/><s n="sep"/></l><r>tabe<b/>sig<s n="vblex"/></r></p></e>
 <e><p><l>abordnen<s n="vblex"/><s n="sep"/></l><r>delegere<s n="vblex"/></r></p></e>
@@ -5014,7 +5014,56 @@
 <e><p><l>Absicht<s n="n"/><s n="f"/></l><r>hensigt<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>absolvieren<s n="vblex"/></l><r>absolvere<s n="vblex"/></r></p></e>
 <e><p><l>Absprache<s n="n"/><s n="f"/></l><r>aftale<s n="n"/><s n="ut"/></r></p></e>
-
+<e><p><l>Abstand<s n="n"/><s n="m"/></l><r>afstand<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>abstimmen<s n="vblex"/><s n="sep"/></l><r>afstemme<s n="vblex"/></r></p></e>
+<e><p><l>Abstimmung<s n="n"/><s n="f"/></l><r>afstemning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Absturz<s n="n"/><s n="m"/></l><r>styrt<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Abteilung<s n="n"/><s n="f"/></l><r>afdeling<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Abteilungsleiter<s n="n"/><s n="m"/></l><r>afdelingschef<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>abwarten<s n="vblex"/><s n="sep"/></l><r>afvente<s n="vblex"/></r></p></e>
+<e><p><l>Abwehr<s n="n"/><s n="f"/></l><r>forsvar<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Abweichung<s n="n"/><s n="f"/></l><r>afvigelse<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>abweisen<s n="vblex"/><s n="sep"/></l><r>afvise<s n="vblex"/></r></p></e>
+<e><p><l>Abwesenheit<s n="n"/><s n="f"/></l><r>fravær<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>abwickeln<s n="vblex"/><s n="sep"/></l><r>afvikle<s n="vblex"/></r></p></e>
+<e><p><l>Abzug<s n="n"/><s n="m"/></l><r>afmarch<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>ach<s n="ij"/></l><r>ak<s n="ij"/></r></p></e>
+<e><p><l>achten<s n="vblex"/></l><r>agte<s n="vblex"/></r></p></e>
+<e><p><l>Achtung<s n="n"/><s n="f"/></l><r>opmærksomhed<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Adam<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
+<e><p><l>Adolf<s n="np"/></l><r>Adolf<s n="np"/></r></p></e>
+<e><p><l>Adresse<s n="n"/><s n="f"/></l><r>adresse<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Affäre<s n="n"/><s n="f"/></l><r>affære<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Afghanistan<s n="np"/></l><r>Afghanistan<s n="n"/><s n="np"/></r></p></e>
+<e><p><l>Afrika<s n="np"/></l><r>Afrika<s n="n"/><s n="np"/></r></p></e>
+<e><p><l>Agent<s n="n"/><s n="m"/></l><r>agent<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Agentur<s n="n"/><s n="f"/></l><r>agentur<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>agieren<s n="vblex"/></l><r>agere<s n="vblex"/></r></p></e>
+<e><p><l>ahnen<s n="vblex"/></l><r>ane<s n="vblex"/></r></p></e>
+<e><p><l>Ahnung<s n="n"/><s n="f"/></l><r>anelse<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Akademie<s n="n"/><s n="f"/></l><r>akademi<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Aktion<s n="n"/><s n="f"/></l><r>aktion<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>aktiv<s n="adj"/></l><r>aktiv<s n="adj"/></r></p></e>
+<e><p><l>aktivieren<s n="vblex"/></l><r>aktivere<s n="vblex"/></r></p></e>
+<e><p><l>Aktivität<s n="n"/><s n="f"/></l><r>aktivitet<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>aktuell<s n="adj"/></l><r>aktuel<s n="adj"/></r></p></e>
+<e><p><l>akzeptieren<s n="vblex"/></l><r>acceptere<s n="vblex"/></r></p></e>
+<e><p><l>Alarm<s n="n"/><s n="m"/></l><r>alarm<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Albanien<s n="np"/></l><r>Albanien<s n="np"/></r></p></e>
+<e><p><l>Alexander<s n="np"/></l><r>Alexander<s n="np"/></r></p></e>
+<e><p><l>Alfred<s n="np"/></l><r>Alfred<s n="np"/></r></p></e>
+<e><p><l>Algerien<s n="np"/></l><r>Algeriet<s n="np"/></r></p></e>
+<e><p><l>Ali<s n="np"/></l><r>Ali<s n="np"/></r></p></e>
+<e><p><l>Alkohol<s n="n"/><s n="m"/></l><r>alkohol<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>All<s n="n"/><s n="nt"/></l><r>universitet<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Allee<s n="n"/><s n="f"/></l><r>allé<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>allein<s n="adv"/></l><r>alene<s n="adv"/></r></p></e>
+<e><p><l>allemal<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
+<e><p><l>allerdings<s n="adv"/></l><r>ganske<b/>vist<s n="adv"/></r></p></e>
+<e><p><l>Allianz<s n="n"/><s n="f"/></l><r>alliance<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>alliieren<s n="vblex"/></l><r>alliere<s n="vblex"/></r></p></e>
+<e><p><l>allzu<s n="preadv"/></l><r>alt<b/>for<s n="adv"/></r></p></e>
+<e><p><l>Alptraum<s n="n"/><s n="m"/></l><r>mareridt<s n="n"/><s n="nt"/></r></p></e>
   </section>
 </dictionary>
     
