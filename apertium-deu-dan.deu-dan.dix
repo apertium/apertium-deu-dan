@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 1
-	Entries: 2802
+	Entries: 2947
 	Sdefs: 69
-	Last processed by: apertium-dixtools sort -alignBidix apertium-deu-dan.deu-dan.dix -
+	Last processed by: apertium-dixtools sort -alignBidix apertium-deu-dan.deu-dan.dix apertium-deu-dan.deu-dan.dix
 
 -->
 <dictionary>
@@ -84,6 +84,9 @@
     <!-- ******************************
           group n_symbol
       ****************************** -->
+    <!-- ******************************
+          group n_symbol
+      ****************************** -->
 <e>       <p><l>Aal<s n="n"/><s n="m"/></l>            <r>ål<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abbau<s n="n"/><s n="m"/></l>          <r>nedbrydning<s n="n"/><s n="ut"/></r></p></e>
 
@@ -119,30 +122,56 @@
 <e>       <p><l>Abführmittel<s n="n"/><s n="nt"/></l>  <r>afføringsmiddel<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Abgabe<s n="n"/><s n="f"/></l>         <r>afgift<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abgang<s n="n"/><s n="m"/></l>         <r>afgang<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abgrund<s n="n"/><s n="m"/></l>        <r>afgrund<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abhängigkeit<s n="n"/><s n="f"/></l>   <r>afhængighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abitur<s n="n"/><s n="nt"/></l>        <r>studentereksamen<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abkommen<s n="n"/><s n="nt"/></l>      <r>overenskomst<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abkürzung<s n="n"/><s n="f"/></l>      <r>genvej<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Ablativ<s n="n"/><s n="m"/></l>        <r>ablativ<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ablauf<s n="n"/><s n="m"/></l>         <r>afløb<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ablehnung<s n="n"/><s n="f"/></l>      <r>afvisning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ablösung<s n="n"/><s n="f"/></l>       <r>afløsning<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abonnement<s n="n"/><s n="nt"/></l>    <r>abonnement<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Abonnent<s n="n"/><s n="m"/></l>       <r>abonnent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abriß<s n="n"/><s n="m"/></l>          <r>nedrivning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Absage<s n="n"/><s n="f"/></l>         <r>afbud<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Absatz<s n="n"/><s n="m"/></l>         <r>afsætning<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abschaffung<s n="n"/><s n="f"/></l>    <r>afskaffelse<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abscheu<s n="n"/><s n="f"/></l>        <r>afsky<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abschied<s n="n"/><s n="m"/></l>       <r>afsked<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abschluß<s n="n"/><s n="m"/></l>       <r>afslutning<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abschnitt<s n="n"/><s n="m"/></l>      <r>afsnit<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Abschreibung<s n="n"/><s n="f"/></l>   <r>afskrivning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Absicherung<s n="n"/><s n="f"/></l>    <r>sikring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Absicht<s n="n"/><s n="f"/></l>        <r>hensigt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Absprache<s n="n"/><s n="f"/></l>      <r>aftale<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abstand<s n="n"/><s n="m"/></l>        <r>afstand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abstimmung<s n="n"/><s n="f"/></l>     <r>afstemning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Absturz<s n="n"/><s n="m"/></l>        <r>styrt<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Absurdität<s n="n"/><s n="f"/></l>     <r>absurditet<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abt<s n="n"/><s n="m"/></l>            <r>abbed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abteilung<s n="n"/><s n="f"/></l>      <r>afdeling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abteilungsleiter<s n="n"/><s n="m"/></l><r>afdelingschef<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Abtreibung<s n="n"/><s n="f"/></l>     <r>abort<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abwehr<s n="n"/><s n="f"/></l>         <r>forsvar<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Abweichung<s n="n"/><s n="f"/></l>     <r>afvigelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abwesenheit<s n="n"/><s n="f"/></l>    <r>fravær<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Abzug<s n="n"/><s n="m"/></l>          <r>afmarch<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Achat<s n="n"/><s n="m"/></l>          <r>agat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Achtung<s n="n"/><s n="f"/></l>        <r>opmærksomhed<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Adel<s n="n"/><s n="m"/></l>           <r>adel<s n="n"/><s n="ut"/></r></p></e>
 
@@ -157,6 +186,7 @@
 <e>       <p><l>Adoption<s n="n"/><s n="f"/></l>       <r>adoption<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Adoptivkind<s n="n"/><s n="nt"/></l>   <r>adoptivbarn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Adresse<s n="n"/><s n="f"/></l>        <r>adresse<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Advent<s n="n"/><s n="m"/></l>         <r>advent<s n="n"/><s n="ut"/></r></p></e>
 
@@ -165,14 +195,21 @@
 <e>       <p><l>Affe<s n="n"/><s n="m"/></l>           <r>abe<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Affe<s n="n"/><s n="m"/></l>           <r>abe<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Affäre<s n="n"/><s n="f"/></l>         <r>affære<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Afghane<s n="n"/><s n="m"/></l>        <r>afghaner<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Afghanistan<s n="np"/></l>             <r>Afghanistan<s n="n"/><s n="np"/></r></p></e>
+<e>       <p><l>Afrika<s n="np"/></l>                  <r>Afrika<s n="n"/><s n="np"/></r></p></e>
+<e>       <p><l>Agent<s n="n"/><s n="m"/></l>          <r>agent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Agentur<s n="n"/><s n="f"/></l>        <r>agentur<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ahnung<s n="n"/><s n="f"/></l>         <r>anelse<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Ahorn<s n="n"/><s n="m"/></l>          <r>løn<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Aids<s n="n"/><s n="nt"/></l>          <r>aids<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Ajatollah<s n="n"/><s n="m"/></l>      <r>ayatollah<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Akademie<s n="n"/><s n="f"/></l>       <r>akademi<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Akkord<s n="n"/><s n="m"/></l>         <r>akkord<s n="n"/><s n="ut"/></r></p></e>
 
@@ -183,12 +220,15 @@
 <e>       <p><l>Aktie<s n="n"/><s n="f"/></l>          <r>aktie<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Aktiengesellschaft<s n="n"/><s n="f"/></l><r>aktieselskab<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Aktion<s n="n"/><s n="f"/></l>         <r>aktion<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Aktionär<s n="n"/><s n="m"/></l>       <r>aktionær<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Aktivität<s n="n"/><s n="f"/></l>      <r>aktivitet<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Akzent<s n="n"/><s n="m"/></l>         <r>accent<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Alabaster<s n="n"/><s n="m"/></l>      <r>alabast<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Alarm<s n="n"/><s n="m"/></l>          <r>alarm<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Albanisch<s n="n"/><s n="nt"/></l>     <r>albansk<s n="n"/><s n="ut"/></r></p></e>
 
@@ -200,10 +240,14 @@
 
 <e>       <p><l>Algebra<s n="n"/><s n="f"/></l>        <r>algebra<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Algorithmus<s n="n"/><s n="m"/></l>    <r>algoritme<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Alkohol<s n="n"/><s n="m"/></l>        <r>alkohol<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Alkoholismus<s n="n"/><s n="m"/></l>   <r>alkoholisme<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>All<s n="n"/><s n="nt"/></l>           <r>universitet<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Allee<s n="n"/><s n="f"/></l>          <r>allé<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Allergie<s n="n"/><s n="f"/></l>       <r>allergi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Allianz<s n="n"/><s n="f"/></l>        <r>alliance<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Alligator<s n="n"/><s n="m"/></l>      <r>alligator<s n="n"/><s n="ut"/></r></p></e>
 
@@ -212,6 +256,7 @@
 <e>       <p><l>Alpha<s n="n"/><s n="nt"/></l>         <r>alfa<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Alphabet<s n="n"/><s n="nt"/></l>      <r>alfabet<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Alptraum<s n="n"/><s n="m"/></l>       <r>mareridt<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Altar<s n="n"/><s n="m"/></l>          <r>alter<s n="n"/><s n="nt"/></r></p></e>
 
@@ -1007,6 +1052,7 @@
 <e>       <p><l>Erfahrung<s n="n"/><s n="f"/></l>      <r>erfaring<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Erfindung<s n="n"/><s n="f"/></l>      <r>opfindelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Erlebnis<s n="n"/><s n="nt"/></l>      <r>oplevelse<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Ermordung<s n="n"/><s n="f"/></l>      <r>drab<s n="n"/><s n="ut"/></r></p></e>
 
@@ -1623,6 +1669,7 @@
 <e>       <p><l>Hormon<s n="n"/><s n="nt"/></l>        <r>hormon<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Hornung<s n="n"/><s n="m"/></l>        <r>februar<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hose<s n="n"/><s n="f"/></l>           <r>bukser<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Hotel<s n="n"/><s n="nt"/></l>         <r>hotel<s n="n"/><s n="nt"/></r></p></e>
 
@@ -2200,6 +2247,7 @@
 <e>       <p><l>Matratze<s n="n"/><s n="f"/></l>       <r>madras<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Mauer<s n="n"/><s n="f"/></l>          <r>væg<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Maul<s n="n"/><s n="nt"/></l>          <r>kæft<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Maulwurf<s n="n"/><s n="m"/></l>       <r>muldvarp<s n="n"/><s n="ut"/></r></p></e>
 
@@ -2970,6 +3018,7 @@
 <e>       <p><l>Sauerstoff<s n="n"/><s n="m"/></l>     <r>ilt<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Schach<s n="n"/><s n="nt"/></l>        <r>skak<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schachtel<s n="n"/><s n="f"/></l>      <r>æske<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Schaf<s n="n"/><s n="nt"/></l>         <r>får<s n="n"/><s n="nt"/></r></p></e>
 
@@ -3149,6 +3198,7 @@
 <e>       <p><l>Sherry<s n="n"/><s n="m"/></l>         <r>sherry<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Sherry<s n="n"/><s n="m"/></l>         <r>sherry<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Sicherheit<s n="n"/><s n="f"/></l>     <r>sikkerhed<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Sieg<s n="n"/><s n="m"/></l>           <r>sejr<s n="n"/><s n="ut"/></r></p></e>
 
@@ -3340,6 +3390,7 @@
 <e>       <p><l>Sturm<s n="n"/><s n="m"/></l>          <r>storm<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Sturmflut<s n="n"/><s n="f"/></l>      <r>stormflod<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Stück<s n="n"/><s n="nt"/></l>         <r>stykke<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Stürmer<s n="n"/><s n="m"/></l>        <r>angriber<s n="n"/><s n="ut"/></r></p></e>
 
@@ -3523,6 +3574,7 @@
 
 <e>       <p><l>Ultimatum<s n="n"/><s n="nt"/></l>     <r>ultimatum<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Umsetzung<s n="n"/><s n="f"/></l>      <r>omsætning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Umweg<s n="n"/><s n="m"/></l>          <r>omvej<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Umweltverschmutzung<s n="n"/><s n="f"/></l><r>forurening<s n="n"/><s n="ut"/></r></p></e>
 
@@ -3786,6 +3838,7 @@
 <e>       <p><l>Zander<s n="n"/><s n="m"/></l>         <r>sandart<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Zar<s n="n"/><s n="m"/></l>            <r>tsar<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zaun<s n="n"/><s n="m"/></l>           <r>hegn<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Zebra<s n="n"/><s n="nt"/></l>         <r>zebra<s n="n"/><s n="ut"/></r></p></e>
 
@@ -3880,7 +3933,11 @@
     <!-- ******************************
           group pr_symbol
       ****************************** -->
+    <!-- ******************************
+          group pr_symbol
+      ****************************** -->
 <e>       <p><l>ab<s n="pr"/></l>                      <r>fra<s n="pr"/></r></p></e>
+<e>       <p><l>abseits<s n="pr"/></l>                 <r>afsides<s n="pr"/></r></p></e>
     <!-- ******************************
           group pr_symbol
       ****************************** -->
@@ -3895,6 +3952,7 @@
 <e>       <p><l>für<s n="pr"/></l>                     <r>til<s n="pr"/></r></p></e>
 <e>       <p><l>gegen<s n="pr"/></l>                   <r>mod<s n="pr"/></r></p></e>
 <e>       <p><l>gegenüber<s n="pr"/></l>               <r>overfor<s n="pr"/></r></p></e>
+<e>       <p><l>hinter<s n="pr"/></l>                  <r>bag<s n="pr"/></r></p></e>
 <e>       <p><l>in<s n="pr"/></l>                      <r>i<s n="pr"/></r></p></e>
 <e>       <p><l>infolge<s n="pr"/></l>                 <r>ifølge<s n="pr"/></r></p></e>
 <e>       <p><l>innen<s n="pr"/></l>                   <r>inden<s n="pr"/></r></p></e>
@@ -3907,6 +3965,7 @@
 
 <e>       <p><l>nach<s n="pr"/></l>                    <r>efter<s n="pr"/></r></p></e>
 <e>       <p><l>nahe<s n="pr"/></l>                    <r>nær<s n="pr"/></r></p></e>
+<e>       <p><l>neben<s n="pr"/></l>                   <r>ved<b/>siden<b/>af<s n="pr"/></r></p></e>
 <e>       <p><l>ohne<s n="pr"/></l>                    <r>uden<s n="pr"/></r></p></e>
 <e>       <p><l>per<s n="pr"/></l>                     <r>per<s n="pr"/></r></p></e>
 <e>       <p><l>seit<s n="pr"/></l>                    <r>siden<s n="pr"/></r></p></e>
@@ -3925,6 +3984,9 @@
 <e>       <p><l>zu<s n="pr"/></l>                      <r>for<s n="pr"/></r></p></e>
 <e>       <p><l>zwischen<s n="pr"/></l>                <r>mellem<s n="pr"/></r></p></e>
 <e>       <p><l>über<s n="pr"/></l>                    <r>over<s n="pr"/></r></p></e>
+    <!-- ******************************
+          group num_symbol
+      ****************************** -->
     <!-- ******************************
           group num_symbol
       ****************************** -->
@@ -3989,6 +4051,9 @@
     <!-- ******************************
           group prn_symbol
       ****************************** -->
+    <!-- ******************************
+          group prn_symbol
+      ****************************** -->
 <e>       <p><l>du<s n="prn"/><s n="pers"/><s n="p2"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/></r></p></e>
 <e>       <p><l>er<s n="prn"/><s n="pers"/><s n="p3"/></l><r>han<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
 <e>       <p><l>es<s n="prn"/><s n="pers"/><s n="p3"/></l><r>den<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
@@ -4004,11 +4069,16 @@
 <e>       <p><l>sich<s n="prn"/></l>                   <r>sig<s n="prn"/></r></p></e>
 <e>       <p><l>sie<s n="prn"/><s n="pers"/><s n="p3"/></l><r>hun<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
 <e>       <p><l>was<s n="prn"/></l>                    <r>hvad<s n="prn"/></r></p></e>
+<e>       <p><l>wir<s n="prn"/></l>                    <r>vi<s n="prn"/></r></p></e>
+    <!-- ******************************
+          group det_symbol
+      ****************************** -->
     <!-- ******************************
           group det_symbol
       ****************************** -->
 <e>       <p><l>alle<s n="det"/></l>                   <r>hver<s n="det"/></r></p></e>
 <e>       <p><l>ander<s n="det"/></l>                  <r>anden<s n="det"/></r></p></e>
+<e>       <p><l>beide<s n="det"/></l>                  <r>begge<s n="det"/></r></p></e>
     <!-- ******************************
           group det_symbol
       ****************************** -->
@@ -4026,6 +4096,9 @@
 
 <e>       <p><l>mein<s n="det"/></l>                   <r>min<s n="det"/></r></p></e>
 <e>       <p><l>sein<s n="det"/></l>                   <r>sin<s n="det"/></r></p></e>
+    <!-- ******************************
+          group cnjcoo_symbol
+      ****************************** -->
     <!-- ******************************
           group cnjcoo_symbol
       ****************************** -->
@@ -4050,6 +4123,9 @@
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
+    <!-- ******************************
+          group cnjadv_symbol
+      ****************************** -->
 <e>       <p><l>da<s n="cnjadv"/></l>                  <r>da<s n="cnjadv"/></r></p></e>
 <e>       <p><l>entweder<s n="cnjadv"/></l>            <r>enten<s n="cnjadv"/></r></p></e>
 <e>       <p><l>weil<s n="cnjadv"/></l>                <r>fordi<s n="cnjadv"/></r></p></e>
@@ -4057,7 +4133,11 @@
     <!-- ******************************
           group cnjsub_symbol
       ****************************** -->
+    <!-- ******************************
+          group cnjsub_symbol
+      ****************************** -->
 <e>       <p><l>bis<s n="cnjsub"/></l>                 <r>til<s n="cnjsub"/></r></p></e>
+<e>       <p><l>damit<s n="cnjsub"/></l>               <r>for<b/>at<s n="cnjsub"/></r></p></e>
 <e>       <p><l>dass<s n="cnjsub"/></l>                <r>at<s n="cnjsub"/></r></p></e>
     <!-- ******************************
           group cnjsub_symbol
@@ -4075,7 +4155,15 @@
     <!-- ******************************
           group adv_symbol
       ****************************** -->
+    <!-- ******************************
+          group adv_symbol
+      ****************************** -->
 <e>       <p><l>ab<s n="adv"/></l>                     <r>fra<s n="adv"/></r></p></e>
+
+
+
+
+<e>       <p><l>abermals<s n="adv"/></l>               <r>igen<s n="adv"/></r></p></e>
 
 
 
@@ -4087,9 +4175,13 @@
 <e>       <p><l>adäquat<s n="adv"/></l>                <r>adækvat<s n="adv"/></r></p></e>
 <e>       <p><l>algebraisch<s n="adv"/></l>            <r>algebraisk<s n="adv"/></r></p></e>
 <e>       <p><l>alle<s n="adv"/></l>                   <r>alt<s n="adv"/></r></p></e>
+<e>       <p><l>allein<s n="adv"/></l>                 <r>alene<s n="adv"/></r></p></e>
+<e>       <p><l>allemal<s n="adv"/></l>                <r>altid<s n="adv"/></r></p></e>
+<e>       <p><l>allerdings<s n="adv"/></l>             <r>ganske<b/>vist<s n="adv"/></r></p></e>
 <e>       <p><l>allesamt<s n="adv"/></l>               <r>allesammen<s n="adv"/></r></p></e>
 <e>       <p><l>allgemein<s n="adv"/></l>              <r>almen<s n="adv"/></r></p></e>
 <e>       <p><l>allmählich<s n="adv"/></l>             <r>gradvis<s n="adv"/></r></p></e>
+<e>       <p><l>allzu<s n="preadv"/></l>               <r>alt<b/>for<s n="adv"/></r></p></e>
 <e>       <p><l>als<s n="adv"/></l>                    <r>end<s n="adv"/></r></p></e>
 <e>       <p><l>also<s n="adv"/></l>                   <r>altså<s n="adv"/></r></p></e>
 <e>       <p><l>andernfalls<s n="adv"/></l>            <r>ellers<s n="adv"/></r></p></e>
@@ -4103,6 +4195,7 @@
 <e>       <p><l>bereit<s n="adv"/></l>                 <r>beredt<s n="adv"/></r></p></e>
 <e>       <p><l>bereits<s n="adv"/></l>                <r>allerede<s n="adv"/></r></p></e>
 <e>       <p><l>besonders<s n="adv"/></l>              <r>især<s n="adv"/></r></p></e>
+<e>       <p><l>bestimmt<s n="adv"/></l>               <r>sikkert<s n="adv"/></r></p></e>
 <e>       <p><l>billig<s n="adv"/></l>                 <r>rimelig<s n="adv"/></r></p></e>
 <e>       <p><l>biologisch<s n="adv"/></l>             <r>biologisk<s n="adv"/></r></p></e>
 <e>       <p><l>chronisch<s n="adv"/></l>              <r>kronisk<s n="adv"/></r></p></e>
@@ -4110,14 +4203,18 @@
 <e>       <p><l>circa<s n="adv"/></l>                  <r>cirka<s n="adv"/></r></p></e>
 <e>       <p><l>da<s n="adv"/></l>                     <r>da<s n="adv"/></r></p></e>
 <e>       <p><l>dabei<s n="adv"/></l>                  <r>derved<s n="adv"/></r></p></e>
+<e>       <p><l>dafür<s n="adv"/></l>                  <r>derfor<s n="adv"/></r></p></e>
 <e>       <p><l>daheim<s n="adv"/></l>                 <r>hjemme<s n="adv"/></r></p></e>
 <e>       <p><l>danach<s n="adv"/></l>                 <r>derefter<s n="adv"/></r></p></e>
 <e>       <p><l>dann<s n="adv"/></l>                   <r>så<s n="adv"/></r></p></e>
 <e>       <p><l>daran<s n="adv"/></l>                  <r>derpå<s n="adv"/></r></p></e>
+<e>       <p><l>daraus<s n="adv"/></l>                 <r>deraf<s n="adv"/></r></p></e>
+<e>       <p><l>davon<s n="adv"/></l>                  <r>deraf<s n="adv"/></r></p></e>
 <e>       <p><l>denn<s n="adv"/></l>                   <r>fordi<s n="adv"/></r></p></e>
 <e>       <p><l>dennoch<s n="adv"/></l>                <r>alligevel<s n="adv"/></r></p></e>
 <e>       <p><l>dennoch<s n="adv"/></l>                <r>alligevel<s n="adv"/></r></p></e>
 <e>       <p><l>deutlich<s n="adv"/></l>               <r>tydelig<s n="adv"/></r></p></e>
+<e>       <p><l>direkt<s n="adv"/></l>                 <r>direkte<s n="adv"/></r></p></e>
 <e>       <p><l>doch<s n="adv"/></l>                   <r>jo<s n="adv"/></r></p></e>
 <e>       <p><l>dort<s n="adv"/></l>                   <r>der<s n="adv"/></r></p></e>
 <e>       <p><l>draußen<s n="adv"/></l>                <r>udenfor<s n="adv"/></r></p></e>
@@ -4126,11 +4223,14 @@
 <e>       <p><l>ebenfalls<s n="adv"/></l>              <r>ligeledes<s n="adv"/></r></p></e>
 <e>       <p><l>echt<s n="adv"/></l>                   <r>ægte<s n="adv"/></r></p></e>
 <e>       <p><l>eifrig<s n="adv"/></l>                 <r>ivrig<s n="adv"/></r></p></e>
+<e>       <p><l>eigentlich<s n="adv"/></l>             <r>egentlig<s n="adv"/></r></p></e>
+<e>       <p><l>einmal<s n="adv"/></l>                 <r>engang<s n="adv"/></r></p></e>
 <e>       <p><l>einzeln<s n="adv"/></l>                <r>enkelt<s n="adv"/></r></p></e>
 
 
 <e>       <p><l>endlich<s n="adv"/></l>                <r>endelig<s n="adv"/></r></p></e>
 <e>       <p><l>ernst<s n="adv"/></l>                  <r>alvorlig<s n="adv"/></r></p></e>
+<e>       <p><l>erst<s n="adv"/></l>                   <r>først<s n="adv"/></r></p></e>
 <e>       <p><l>etwa<s n="adv"/></l>                   <r>omkring<s n="adv"/></r></p></e>
 <e>       <p><l>etwas<s n="adv"/></l>                  <r>noget<s n="adv"/></r></p></e>
 <e>       <p><l>ewig<s n="adv"/></l>                   <r>evig<s n="adv"/></r></p></e>
@@ -4139,10 +4239,12 @@
 <e>       <p><l>fort<s n="adv"/></l>                   <r>bort<s n="adv"/></r></p></e>
 <e>       <p><l>frei<s n="adv"/></l>                   <r>fri<s n="adv"/></r></p></e>
 <e>       <p><l>freiwillig<s n="adv"/></l>             <r>frivillig<s n="adv"/></r></p></e>
+<e>       <p><l>früher<s n="adv"/></l>                 <r>tidligere<s n="adv"/></r></p></e>
 <e>       <p><l>ganz<s n="adv"/></l>                   <r>helt<s n="adv"/></r></p></e>
 <e>       <p><l>gegebenenfalls<s n="adv"/></l>         <r>eventuelt<s n="adv"/></r></p></e>
 <e>       <p><l>gemeinsam<s n="adv"/></l>              <r>fælles<s n="adv"/></r></p></e>
 <e>       <p><l>genau<s n="adv"/></l>                  <r>nöie<s n="adv"/></r></p></e>
+<e>       <p><l>genauso<s n="adv"/></l>                <r>lige<b/>så<s n="adv"/></r></p></e>
 <e>       <p><l>genetisch<s n="adv"/></l>              <r>genetisk<s n="adv"/></r></p></e>
 <e>       <p><l>gerade<s n="adv"/></l>                 <r>lige<s n="adv"/></r></p></e>
 <e>       <p><l>gesetzlich<s n="adv"/></l>             <r>lovlig<s n="adv"/></r></p></e>
@@ -4157,6 +4259,7 @@
 <e>       <p><l>gut<s n="adv"/></l>                    <r>god<s n="adv"/></r></p></e>
 <e>       <p><l>hauptsächlich<s n="adv"/></l>          <r>hovedsagelig<s n="adv"/></r></p></e>
 <e>       <p><l>hell<s n="adv"/></l>                   <r>lys<s n="adv"/></r></p></e>
+<e>       <p><l>herum<s n="adv"/></l>                  <r>omkring<s n="adv"/></r></p></e>
 <e>       <p><l>heute<s n="adv"/></l>                  <r>i<b/>dag<s n="adv"/></r></p></e>
 <e>       <p><l>heute<s n="adv"/></l>                  <r>i dag<s n="adv"/></r></p></e>
 <e>       <p><l>hier<s n="adv"/></l>                   <r>her<s n="adv"/></r></p></e>
@@ -4223,9 +4326,11 @@
 <e>       <p><l>schon<s n="adv"/></l>                  <r>allerede<s n="adv"/></r></p></e>
 <e>       <p><l>schwarz<s n="adv"/></l>                <r>sort<s n="adv"/></r></p></e>
 <e>       <p><l>schüchtern<s n="adv"/></l>             <r>frygtsom<s n="adv"/></r></p></e>
+<e>       <p><l>sehr<s n="adv"/></l>                   <r>meget<s n="adv"/></r></p></e>
 <e>       <p><l>selbst<s n="adv"/></l>                 <r>selv<s n="adv"/></r></p></e>
 <e>       <p><l>senkrecht<s n="adv"/></l>              <r>lodret<s n="adv"/></r></p></e>
 <e>       <p><l>sicher<s n="adv"/></l>                 <r>sikkert<s n="adv"/></r></p></e>
+<e>       <p><l>sogar<s n="adv"/></l>                  <r>selv<s n="adv"/></r></p></e>
 <e>       <p><l>somit<s n="adv"/></l>                  <r>således<s n="adv"/></r></p></e>
 <e>       <p><l>sonst<s n="adv"/></l>                  <r>ellers<s n="adv"/></r></p></e>
 <e>       <p><l>spät<s n="adv"/></l>                   <r>sent<s n="adv"/></r></p></e>
@@ -4243,7 +4348,9 @@
 <e>       <p><l>viel<s n="adv"/></l>                   <r>meget<s n="adv"/></r></p></e>
 <e>       <p><l>vielleicht<s n="adv"/></l>             <r>måske<s n="adv"/></r></p></e>
 <e>       <p><l>vielleicht<s n="adv"/></l>             <r>måske<s n="adv"/></r></p></e>
+<e>       <p><l>vorbei<s n="adv"/></l>                 <r>forbi<s n="adv"/></r></p></e>
 <e>       <p><l>vorgestern<s n="adv"/></l>             <r>i forgårs<s n="adv"/></r></p></e>
+<e>       <p><l>vorher<s n="adv"/></l>                 <r>tidligere<s n="adv"/></r></p></e>
 <e>       <p><l>völlig<s n="adv"/></l>                 <r>fuldkommen<s n="adv"/></r></p></e>
 <e>       <p><l>wahrscheinlich<s n="adv"/></l>         <r>sandsynligvis<s n="adv"/></r></p></e>
 <e>       <p><l>wann<s n="adv"/></l>                   <r>hvornår<s n="adv"/></r></p></e>
@@ -4266,6 +4373,7 @@
 <e>       <p><l>wohl<s n="adv"/></l>                   <r>vel<s n="adv"/></r></p></e>
 <e>       <p><l>zuhause<s n="adv"/></l>                <r>hjem<s n="adv"/></r></p></e>
 <e>       <p><l>zuhause<s n="adv"/></l>                <r>hjemme<s n="adv"/></r></p></e>
+<e>       <p><l>zurück<s n="adv"/></l>                 <r>tilbage<s n="adv"/></r></p></e>
 <e>       <p><l>zusammen<s n="adv"/></l>               <r>sammen<s n="adv"/></r></p></e>
 <e>       <p><l>zusammen<s n="adv"/></l>               <r>tilsammen<s n="adv"/></r></p></e>
 <e>       <p><l>zweifellos<s n="adv"/></l>             <r>utvivlsomt<s n="adv"/></r></p></e>
@@ -4279,6 +4387,7 @@
 
 <e>       <p><l>überall<s n="adv"/></l>                <r>overalt<s n="adv"/></r></p></e>
 <e>       <p><l>überall<s n="adv"/></l>                <r>alle vegne<s n="adv"/></r></p></e>
+<e>       <p><l>überhaupt<s n="adv"/></l>              <r>overhovedet<s n="adv"/></r></p></e>
 <e>       <p><l>übermorgen<s n="adv"/></l>             <r>i overmorgen<s n="adv"/></r></p></e>
 
 
@@ -4289,7 +4398,13 @@
     <!-- ******************************
           group adj_symbol
       ****************************** -->
+    <!-- ******************************
+          group adj_symbol
+      ****************************** -->
 <e>       <p><l>abergläubisch<s n="adj"/></l>          <r>overtroisk<s n="adj"/></r></p></e>
+<e>       <p><l>abgeschlossen<s n="adj"/></l>          <r>færdig<s n="adj"/></r></p></e>
+<e>       <p><l>abhängig<s n="adj"/></l>               <r>afhængig<s n="adj"/></r></p></e>
+<e>       <p><l>abseits<s n="adj"/></l>                <r>afsides<s n="adj"/></r></p></e>
 <e>       <p><l>absolut<s n="adj"/></l>                <r>absolut<s n="adj"/></r></p></e>
 <e>       <p><l>abstrakt<s n="adj"/></l>               <r>abstrakt<s n="adj"/></r></p></e>
 <e>       <p><l>absurd<s n="adj"/></l>                 <r>absurd<s n="adj"/></r></p></e>
@@ -4302,6 +4417,8 @@
 <e>       <p><l>aggressiv<s n="adj"/></l>              <r>aggressiv<s n="adj"/></r></p></e>
 <e>       <p><l>agil<s n="adj"/></l>                   <r>????<s n="adj"/></r></p></e>
 <e>       <p><l>akkurat<s n="adj"/></l>                <r>akkurat<s n="adj"/></r></p></e>
+<e>       <p><l>aktiv<s n="adj"/></l>                  <r>aktiv<s n="adj"/></r></p></e>
+<e>       <p><l>aktuell<s n="adj"/></l>                <r>aktuel<s n="adj"/></r></p></e>
 <e>       <p><l>albanisch<s n="adj"/></l>              <r>albansk<s n="adj"/></r></p></e>
 <e>       <p><l>algerisch<s n="adj"/></l>              <r>algerisk<s n="adj"/></r></p></e>
 <e>       <p><l>alkoholfrei<s n="adj"/></l>            <r>alkoholfri<s n="adj"/></r></p></e>
@@ -4332,6 +4449,7 @@
 <e>       <p><l>bayerisch<s n="adj"/></l>              <r>bayersk<s n="adj"/></r></p></e>
 <e>       <p><l>bereit<s n="adj"/></l>                 <r>beredt<s n="adj"/></r></p></e>
 <e>       <p><l>berühmt<s n="adj"/></l>                <r>berømt<s n="adj"/></r></p></e>
+<e>       <p><l>bestimmt<s n="adj"/></l>               <r>sikker<s n="adj"/></r></p></e>
 <e>       <p><l>betrunken<s n="adj"/></l>              <r>fuld<s n="adj"/></r></p></e>
 <e>       <p><l>biblisch<s n="adj"/></l>               <r>bibelsk<s n="adj"/></r></p></e>
 <e>       <p><l>billig<s n="adj"/></l>                 <r>rimelig<s n="adj"/></r></p></e>
@@ -4350,6 +4468,7 @@
 <e>       <p><l>chronologisch<s n="adj"/></l>          <r>kronologisk<s n="adj"/></r></p></e>
 <e>       <p><l>deutlich<s n="adj"/></l>               <r>tydelig<s n="adj"/></r></p></e>
 <e>       <p><l>deutsch<s n="adj"/></l>                <r>tysk<s n="adj"/></r></p></e>
+<e>       <p><l>direkt<s n="adj"/></l>                 <r>direkte<s n="adj"/></r></p></e>
 <e>       <p><l>drahtlos<s n="adj"/></l>               <r>trådløs<s n="adj"/></r></p></e>
 <e>       <p><l>dreiundzwanzigste<s n="adj"/></l>      <r>tre og tyvende<s n="adj"/></r></p></e>
 <e>       <p><l>dreißigste<s n="adj"/></l>             <r>tredivte<s n="adj"/></r></p></e>
@@ -4360,6 +4479,7 @@
 <e>       <p><l>dünn<s n="adj"/></l>                   <r>tynd<s n="adj"/></r></p></e>
 <e>       <p><l>echt<s n="adj"/></l>                   <r>ægte<s n="adj"/></r></p></e>
 <e>       <p><l>eifrig<s n="adj"/></l>                 <r>ivrig<s n="adj"/></r></p></e>
+<e>       <p><l>eigentlich<s n="adj"/></l>             <r>egentlig<s n="adj"/></r></p></e>
 <e>       <p><l>einflussreich<s n="adj"/></l>          <r>influa<s n="adj"/></r></p></e>
 <e>       <p><l>einunddreißigste<s n="adj"/></l>       <r>en og tredivte<s n="adj"/></r></p></e>
 <e>       <p><l>einzeln<s n="adj"/></l>                <r>enkelt<s n="adj"/></r></p></e>
@@ -4381,6 +4501,7 @@
 <e>       <p><l>frei<s n="adj"/></l>                   <r>fri<s n="adj"/></r></p></e>
 <e>       <p><l>freiwillig<s n="adj"/></l>             <r>frivillig<s n="adj"/></r></p></e>
 <e>       <p><l>fremd<s n="adj"/></l>                  <r>fremmed<s n="adj"/></r></p></e>
+<e>       <p><l>furchtbar<s n="adj"/></l>              <r>frygtelig<s n="adj"/></r></p></e>
 <e>       <p><l>fünfte<s n="adj"/></l>                 <r>femte<s n="adj"/></r></p></e>
 <e>       <p><l>fünfzehnte<s n="adj"/></l>             <r>femtende<s n="adj"/></r></p></e>
 <e>       <p><l>fünfzigste<s n="adj"/></l>             <r>halvtredsindstyvende<s n="adj"/></r></p></e>
@@ -4465,8 +4586,10 @@
 <e>       <p><l>legitim<s n="adj"/></l>                <r>legitim<s n="adj"/></r></p></e>
 <e>       <p><l>lesbar<s n="adj"/></l>                 <r>læsbar<s n="adj"/></r></p></e>
 <e>       <p><l>lesbisch<s n="adj"/></l>               <r>lesbisk<s n="adj"/></r></p></e>
+<e>       <p><l>letzt<s n="adj"/></l>                  <r>sidst<s n="adj"/></r></p></e>
 <e>       <p><l>liberal<s n="adj"/></l>                <r>liberal<s n="adj"/></r></p></e>
 <e>       <p><l>libysch<s n="adj"/></l>                <r>libysk<s n="adj"/></r></p></e>
+<e>       <p><l>lieb<s n="adj"/></l>                   <r>kær<s n="adj"/></r></p></e>
 <e>       <p><l>linear<s n="adj"/></l>                 <r>lineær<s n="adj"/></r></p></e>
 <e>       <p><l>litauisch<s n="adj"/></l>              <r>litauisk<s n="adj"/></r></p></e>
 <e>       <p><l>literarisch<s n="adj"/></l>            <r>literær<s n="adj"/></r></p></e>
@@ -4476,6 +4599,7 @@
 <e>       <p><l>militärisch<s n="adj"/></l>            <r>militær<s n="adj"/></r></p></e>
 <e>       <p><l>millionenfach<s n="adj"/></l>          <r>millionvis af<s n="adj"/></r></p></e>
 <e>       <p><l>muslimisch<s n="adj"/></l>             <r>muslimsk<s n="adj"/></r></p></e>
+<e>       <p><l>mutig<s n="adj"/></l>                  <r>modig<s n="adj"/></r></p></e>
 <e>       <p><l>männlich<s n="adj"/></l>               <r>mandlig<s n="adj"/></r></p></e>
 
 <e>       <p><l>mündlich<s n="adj"/></l>               <r>mundtligt<s n="adj"/></r></p></e>
@@ -4483,6 +4607,7 @@
 <e>       <p><l>nachgiebig<s n="adj"/></l>             <r>eftergiven<s n="adj"/></r></p></e>
 <e>       <p><l>nachhaltig<s n="adj"/></l>             <r><s n="adj"/></r></p></e>
 <e>       <p><l>nackt<s n="adj"/></l>                  <r>nøgen<s n="adj"/></r></p></e>
+<e>       <p><l>nah<s n="adj"/></l>                    <r>tæt<s n="adj"/></r></p></e>
 <e>       <p><l>nass<s n="adj"/></l>                   <r>våd<s n="adj"/></r></p></e>
 <e>       <p><l>natur<s n="adj"/></l>                  <r>natur<s n="adj"/></r></p></e>
 <e>       <p><l>neu<s n="adj"/></l>                    <r>ny<s n="adj"/></r></p></e>
@@ -4549,6 +4674,7 @@
 <e>       <p><l>steuerpflichtig<s n="adj"/></l>        <r>skattepligtig<s n="adj"/></r></p></e>
 <e>       <p><l>still<s n="adj"/></l>                  <r>stille<s n="adj"/></r></p></e>
 <e>       <p><l>stochastisch<s n="adj"/></l>           <r>stokastisk<s n="adj"/></r></p></e>
+<e>       <p><l>stolz<s n="adj"/></l>                  <r>stolt<s n="adj"/></r></p></e>
 <e>       <p><l>südlich<s n="adj"/></l>                <r>sydlig<s n="adj"/></r></p></e>
 <e>       <p><l>tapfer<s n="adj"/></l>                 <r>tapper<s n="adj"/></r></p></e>
 <e>       <p><l>tausend<s n="adj"/></l>                <r>tusinde<s n="adj"/></r></p></e>
@@ -4563,6 +4689,7 @@
 <e>       <p><l>umständlich<s n="adj"/></l>            <r>omstændelig<s n="adj"/></r></p></e>
 <e>       <p><l>uneinig<s n="adj"/></l>                <r>uenig<s n="adj"/></r></p></e>
 <e>       <p><l>unerlaubt<s n="adj"/></l>              <r>uautoriseret<s n="adj"/></r></p></e>
+<e>       <p><l>unfähig<s n="adj"/></l>                <r>uduelig<s n="adj"/></r></p></e>
 <e>       <p><l>ungeeignet<s n="adj"/></l>             <r>uegnet<s n="adj"/></r></p></e>
 <e>       <p><l>ungefähr<s n="adj"/></l>               <r>ungefær<s n="adj"/></r></p></e>
 <e>       <p><l>unhöflich<s n="adj"/></l>              <r>uhøflig<s n="adj"/></r></p></e>
@@ -4620,6 +4747,9 @@
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
+    <!-- ******************************
+          group vblex_symbol
+      ****************************** -->
 <e>       <p><l>abbauen<s n="vblex"/><s n="sep"/></l>  <r>nedrive<s n="vblex"/></r></p></e>
 
 <e>       <p><l>abbrechen<s n="vblex"/><s n="sep"/></l><r>afbryde<s n="vblex"/></r></p></e>
@@ -4633,13 +4763,54 @@
       ****************************** -->
 <e>       <p><l>abfassen<s n="vblex"/></l>             <r>affatte<s n="vblex"/></r></p></e>
 <e>       <p><l>abfeuern<s n="vblex"/></l>             <r>affyre<s n="vblex"/></r></p></e>
+<e>       <p><l>abgeben<s n="vblex"/><s n="sep"/></l>  <r>afgive<s n="vblex"/></r></p></e>
+<e>       <p><l>abhalten<s n="vblex"/><s n="sep"/></l> <r>afholde<s n="vblex"/></r></p></e>
 <e>       <p><l>ablegen<s n="vblex"/></l>              <r><s n="vblex"/></r></p></e>
+<e>       <p><l>ablehnen<s n="vblex"/><s n="sep"/></l> <r>afvise<s n="vblex"/></r></p></e>
+<e>       <p><l>ablösen<s n="vblex"/><s n="sep"/></l>  <r>afløse<s n="vblex"/></r></p></e>
+<e>       <p><l>abnehmen<s n="vblex"/><s n="sep"/></l> <r>tabe<b/>sig<s n="vblex"/></r></p></e>
 <e>       <p><l>abonnieren<s n="vblex"/></l>           <r>abonnere<s n="vblex"/></r></p></e>
+<e>       <p><l>abordnen<s n="vblex"/><s n="sep"/></l> <r>delegere<s n="vblex"/></r></p></e>
+<e>       <p><l>absagen<s n="vblex"/><s n="sep"/></l>  <r>aflyse<s n="vblex"/></r></p></e>
+<e>       <p><l>abschaffen<s n="vblex"/><s n="sep"/></l><r>afskaffe<s n="vblex"/></r></p></e>
+<e>       <p><l>abschieben<s n="vblex"/><s n="sep"/></l><r>deportere<s n="vblex"/></r></p></e>
+<e>       <p><l>abschließen<s n="vblex"/><s n="sep"/></l><r>afslutte<s n="vblex"/></r></p></e>
+<e>       <p><l>absetzen<s n="vblex"/><s n="sep"/></l> <r>afsætte<s n="vblex"/></r></p></e>
+<e>       <p><l>absichern<s n="vblex"/><s n="sep"/></l><r>afsikre<s n="vblex"/></r></p></e>
+<e>       <p><l>absolvieren<s n="vblex"/></l>          <r>absolvere<s n="vblex"/></r></p></e>
+<e>       <p><l>abstimmen<s n="vblex"/><s n="sep"/></l><r>afstemme<s n="vblex"/></r></p></e>
+<e>       <p><l>abwarten<s n="vblex"/><s n="sep"/></l> <r>afvente<s n="vblex"/></r></p></e>
+<e>       <p><l>abweisen<s n="vblex"/><s n="sep"/></l> <r>afvise<s n="vblex"/></r></p></e>
+<e>       <p><l>abwickeln<s n="vblex"/><s n="sep"/></l><r>afvikle<s n="vblex"/></r></p></e>
+<e>       <p><l>achten<s n="vblex"/></l>               <r>agte<s n="vblex"/></r></p></e>
 <e>       <p><l>addieren<s n="vblex"/></l>             <r>addere<s n="vblex"/></r></p></e>
 <e>       <p><l>adoptieren<s n="vblex"/></l>           <r>adoptere<s n="vblex"/></r></p></e>
 <e>       <p><l>adressieren<s n="vblex"/></l>          <r>adressere<s n="vblex"/></r></p></e>
+<e>       <p><l>agieren<s n="vblex"/></l>              <r>agere<s n="vblex"/></r></p></e>
+<e>       <p><l>ahnen<s n="vblex"/></l>                <r>ane<s n="vblex"/></r></p></e>
+<e>       <p><l>aktivieren<s n="vblex"/></l>           <r>aktivere<s n="vblex"/></r></p></e>
+<e>       <p><l>akzeptieren<s n="vblex"/></l>          <r>acceptere<s n="vblex"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<e>       <p><l>albern<s n="vblex"/></l>               <r>fjolle<s n="vblex"/></r></p></e>
+<e>       <p><l>alliieren<s n="vblex"/></l>            <r>alliere<s n="vblex"/></r></p></e>
 <e>       <p><l>anbieten<s n="vblex"/></l>             <r>tilbyde<s n="vblex"/></r></p></e>
 <e>       <p><l>aneignen<s n="vblex"/></l>             <r>tilegne sig<s n="vblex"/></r></p></e>
+<e>       <p><l>anhalten<s n="vblex"/><s n="sep"/></l> <r>standse<s n="vblex"/></r></p></e>
 <e>       <p><l>ankommen<s n="vblex"/></l>             <r>ankomme<s n="vblex"/></r></p></e>
 <e>       <p><l>annullieren<s n="vblex"/></l>          <r>anulere<s n="vblex"/></r></p></e>
 
@@ -4657,6 +4828,7 @@
 <e>       <p><l>backen<s n="vblex"/></l>               <r>bage<s n="vblex"/></r></p></e>
 <e>       <p><l>baden<s n="vblex"/></l>                <r>bade<s n="vblex"/></r></p></e>
 <e>       <p><l>beerdigen<s n="vblex"/></l>            <r>jorde<s n="vblex"/></r></p></e>
+<e>       <p><l>befehlen<s n="vblex"/></l>             <r>befale<s n="vblex"/></r></p></e>
 <e>       <p><l>befinden<s n="vblex"/></l>             <r>befinde<s n="vblex"/></r></p></e>
 <e>       <p><l>befördern<s n="vblex"/></l>            <r>befordre<s n="vblex"/></r></p></e>
 <e>       <p><l>beginnen<s n="vblex"/></l>             <r>begynde<s n="vblex"/></r></p></e>
@@ -4668,7 +4840,9 @@
 <e>       <p><l>bergen<s n="vblex"/></l>               <r>biærge<s n="vblex"/></r></p></e>
 <e>       <p><l>berücksichtigen<s n="vblex"/></l>      <r>tage hensyn til<s n="vblex"/></r></p></e>
 <e>       <p><l>beschreiben<s n="vblex"/></l>          <r>beskrive<s n="vblex"/></r></p></e>
+<e>       <p><l>besiegen<s n="vblex"/></l>             <r>besejre<s n="vblex"/></r></p></e>
 <e>       <p><l>beten<s n="vblex"/></l>                <r>bede<s n="vblex"/></r></p></e>
+<e>       <p><l>betteln<s n="vblex"/></l>              <r>tigge<s n="vblex"/></r></p></e>
 <e>       <p><l>bevorzugen<s n="vblex"/></l>           <r>foretrække<s n="vblex"/></r></p></e>
 <e>       <p><l>bewegen<s n="vblex"/></l>              <r>bevæge<s n="vblex"/></r></p></e>
 <e>       <p><l>bewilligen<s n="vblex"/></l>           <r><s n="vblex"/></r></p></e>
@@ -4685,6 +4859,7 @@
 
 <e>       <p><l>delegieren<s n="vblex"/></l>           <r>delegere<s n="vblex"/></r></p></e>
 <e>       <p><l>denken<s n="vblex"/></l>               <r>tro<s n="vblex"/></r></p></e>
+<e>       <p><l>drehen<s n="vblex"/></l>               <r>dreje<s n="vblex"/></r></p></e>
 <e>       <p><l>drucken<s n="vblex"/></l>              <r>trykke<s n="vblex"/></r></p></e>
 <e>       <p><l>eingeben<s n="vblex"/></l>             <r>indgeve<s n="vblex"/></r></p></e>
 <e>       <p><l>empfehlen<s n="vblex"/></l>            <r>anbefale<s n="vblex"/></r></p></e>
@@ -4694,6 +4869,7 @@
 <e>       <p><l>entwickeln<s n="vblex"/></l>           <r>udvikle<s n="vblex"/></r></p></e>
 <e>       <p><l>ereignen<s n="vblex"/></l>             <r>ske<s n="vblex"/></r></p></e>
 <e>       <p><l>erfüllen<s n="vblex"/></l>             <r>opfylde<s n="vblex"/></r></p></e>
+<e>       <p><l>erschrecken<s n="vblex"/></l>          <r>skræmme<s n="vblex"/></r></p></e>
 <e>       <p><l>erstellen<s n="vblex"/></l>            <r>fremstille<s n="vblex"/></r></p></e>
 <e>       <p><l>erwarten<s n="vblex"/></l>             <r>forvente<s n="vblex"/></r></p></e>
 <e>       <p><l>erzählen<s n="vblex"/></l>             <r>fortælle<s n="vblex"/></r></p></e>
@@ -4713,6 +4889,7 @@
 <e>       <p><l>fotografieren<s n="vblex"/></l>        <r>fotografere<s n="vblex"/></r></p></e>
 <e>       <p><l>fragen<s n="vblex"/></l>               <r>spørge<s n="vblex"/></r></p></e>
 <e>       <p><l>fragen<s n="vblex"/></l>               <r>spørge<s n="vblex"/></r></p></e>
+<e>       <p><l>fühlen<s n="vblex"/></l>               <r>føle<s n="vblex"/></r></p></e>
 <e>       <p><l>füllen<s n="vblex"/></l>               <r>fylde<s n="vblex"/></r></p></e>
 <e>       <p><l>geben<s n="vblex"/></l>                <r>give<s n="vblex"/></r></p></e>
 <e>       <p><l>gebären<s n="vblex"/></l>              <r>føde<s n="vblex"/></r></p></e>
@@ -4732,14 +4909,17 @@
 <e>       <p><l>herstellen<s n="vblex"/></l>           <r>producere<s n="vblex"/></r></p></e>
 <e>       <p><l>hindern<s n="vblex"/></l>              <r>hindre<s n="vblex"/></r></p></e>
 <e>       <p><l>hoffen<s n="vblex"/></l>               <r>håbe<s n="vblex"/></r></p></e>
+<e>       <p><l>holen<s n="vblex"/></l>                <r>hente<s n="vblex"/></r></p></e>
 <e>       <p><l>husten<s n="vblex"/></l>               <r>hoste<s n="vblex"/></r></p></e>
 <e>       <p><l>hören<s n="vblex"/></l>                <r>høre<s n="vblex"/></r></p></e>
 <e>       <p><l>imitieren<s n="vblex"/></l>            <r>eftergøre<s n="vblex"/></r></p></e>
 <e>       <p><l>integrieren<s n="vblex"/></l>          <r>integrere<s n="vblex"/></r></p></e>
+<e>       <p><l>jammern<s n="vblex"/></l>              <r>klynke<s n="vblex"/></r></p></e>
 <e>       <p><l>kennen<s n="vblex"/></l>               <r>kende<s n="vblex"/></r></p></e>
 <e>       <p><l>kennenlernen<s n="vblex"/></l>         <r>lære at kende<s n="vblex"/></r></p></e>
 <e>       <p><l>klingen<s n="vblex"/></l>              <r>lyde<s n="vblex"/></r></p></e>
 <e>       <p><l>knebeln<s n="vblex"/></l>              <r>kneble<s n="vblex"/></r></p></e>
+<e>       <p><l>knurren<s n="vblex"/></l>              <r>knurre<s n="vblex"/></r></p></e>
 <e>       <p><l>kochen<s n="vblex"/></l>               <r>koge<s n="vblex"/></r></p></e>
 
 <e>       <p><l>kommen<s n="vblex"/></l>               <r>komme<s n="vblex"/></r></p></e>
@@ -4749,6 +4929,7 @@
 <e>       <p><l>lachen<s n="vblex"/></l>               <r>grine<s n="vblex"/></r></p></e>
 <e>       <p><l>lachen<s n="vblex"/></l>               <r>le<s n="vblex"/></r></p></e>
 <e>       <p><l>langen<s n="vblex"/></l>               <r>række<s n="vblex"/></r></p></e>
+<e>       <p><l>laufen<s n="vblex"/></l>               <r>løbe<s n="vblex"/></r></p></e>
 <e>       <p><l>leben<s n="vblex"/></l>                <r>leve<s n="vblex"/></r></p></e>
 <e>       <p><l>lehren<s n="vblex"/></l>               <r>lære<s n="vblex"/></r></p></e>
 <e>       <p><l>lesen<s n="vblex"/></l>                <r>læse<s n="vblex"/></r></p></e>
@@ -4783,6 +4964,7 @@
 <e>       <p><l>regnen<s n="vblex"/></l>               <r>regne<s n="vblex"/></r></p></e>
 <e>       <p><l>reiten<s n="vblex"/></l>               <r>ride<s n="vblex"/></r></p></e>
 <e>       <p><l>reizen<s n="vblex"/></l>               <r>rejse<s n="vblex"/></r></p></e>
+<e>       <p><l>rennen<s n="vblex"/></l>               <r>løbe<s n="vblex"/></r></p></e>
 <e>       <p><l>repräsentieren<s n="vblex"/></l>       <r>repræsentere<s n="vblex"/></r></p></e>
 <e>       <p><l>runden<s n="vblex"/></l>               <r>runde<s n="vblex"/></r></p></e>
 <e>       <p><l>sagen<s n="vblex"/></l>                <r>sige<s n="vblex"/></r></p></e>
@@ -4793,12 +4975,12 @@
 <e>       <p><l>schlafen<s n="vblex"/></l>             <r>sove<s n="vblex"/></r></p></e>
 <e>       <p><l>schneien<s n="vblex"/></l>             <r>sne<s n="vblex"/></r></p></e>
 <e>       <p><l>schreiben<s n="vblex"/></l>            <r>skrive<s n="vblex"/></r></p></e>
+<e>       <p><l>schreien<s n="vblex"/></l>             <r>skrige<s n="vblex"/></r></p></e>
 <e>       <p><l>schweigen<s n="vblex"/></l>            <r>tie<s n="vblex"/></r></p></e>
 <e>       <p><l>schwinden<s n="vblex"/></l>            <r>aftage<s n="vblex"/></r></p></e>
 <e>       <p><l>schütteln<s n="vblex"/></l>            <r>ryste<s n="vblex"/></r></p></e>
 <e>       <p><l>segeln<s n="vblex"/></l>               <r>sejle<s n="vblex"/></r></p></e>
 
-<e>       <p><l>sehen<s n="vblex"/></l>                <r>se<s n="vblex"/></r></p></e>
 <e>       <p><l>sehen<s n="vblex"/></l>                <r>se<s n="vblex"/></r></p></e>
 
 <e>       <p><l>sein<s n="vblex"/></l>                 <r>være<s n="vblex"/></r></p></e>
@@ -4822,6 +5004,7 @@
 <e>       <p><l>stellen<s n="vblex"/></l>              <r>stille<s n="vblex"/></r></p></e>
 <e>       <p><l>sterben<s n="vblex"/></l>              <r>dø<s n="vblex"/></r></p></e>
 <e>       <p><l>stinken<s n="vblex"/></l>              <r>stinke<s n="vblex"/></r></p></e>
+<e>       <p><l>stottern<s n="vblex"/></l>             <r>stamme<s n="vblex"/></r></p></e>
 <e>       <p><l>suchen<s n="vblex"/></l>               <r>lede<s n="vblex"/></r></p></e>
 <e>       <p><l>säen<s n="vblex"/></l>                 <r>så<s n="vblex"/></r></p></e>
 <e>       <p><l>sägen<s n="vblex"/></l>                <r>save<s n="vblex"/></r></p></e>
@@ -4829,11 +5012,12 @@
 <e>       <p><l>tapezieren<s n="vblex"/></l>           <r>tapet<s n="vblex"/></r></p></e>
 <e>       <p><l>taugen<s n="vblex"/></l>               <r>du<s n="vblex"/></r></p></e>
 <e>       <p><l>transportieren<s n="vblex"/></l>       <r>transportere<s n="vblex"/></r></p></e>
+<e>       <p><l>trauen<s n="vblex"/></l>               <r>stole<s n="vblex"/></r></p></e>
 <e>       <p><l>treffen<s n="vblex"/></l>              <r>møde<s n="vblex"/></r></p></e>
 <e>       <p><l>tricksen<s n="vblex"/></l>             <r>narre<s n="vblex"/></r></p></e>
 
 <e>       <p><l>trinken<s n="vblex"/></l>              <r>drikke<s n="vblex"/></r></p></e>
-<e>       <p><l>trinken<s n="vblex"/></l>              <r>drikke<s n="vblex"/></r></p></e>
+
 <e>       <p><l>tun<s n="vblex"/></l>                  <r>gøre<s n="vblex"/></r></p></e>
 <e>       <p><l>tätowieren<s n="vblex"/></l>           <r>tatovere<s n="vblex"/></r></p></e>
 <e>       <p><l>tönen<s n="vblex"/></l>                <r>give lyd<s n="vblex"/></r></p></e>
@@ -4841,6 +5025,7 @@
 <e>       <p><l>umgehen<s n="vblex"/></l>              <r>undgå<s n="vblex"/></r></p></e>
 <e>       <p><l>umziehen<s n="vblex"/></l>             <r>flytte<s n="vblex"/></r></p></e>
 <e>       <p><l>unterstützen<s n="vblex"/></l>         <r>understøtte<s n="vblex"/></r></p></e>
+<e>       <p><l>verabschieden<s n="vblex"/></l>        <r>afskedige<s n="vblex"/></r></p></e>
 <e>       <p><l>verbessern<s n="vblex"/></l>           <r>forbedre<s n="vblex"/></r></p></e>
 <e>       <p><l>verbieten<s n="vblex"/></l>            <r>forbyde<s n="vblex"/></r></p></e>
 <e>       <p><l>vergessen<s n="vblex"/></l>            <r>glemme<s n="vblex"/></r></p></e>
@@ -4856,12 +5041,15 @@
 <e>       <p><l>wachsen<s n="vblex"/></l>              <r>vokse<s n="vblex"/></r></p></e>
 <e>       <p><l>warnen<s n="vblex"/></l>               <r>advare<s n="vblex"/></r></p></e>
 <e>       <p><l>weben<s n="vblex"/></l>                <r>væve<s n="vblex"/></r></p></e>
+<e>       <p><l>wechseln<s n="vblex"/></l>             <r>veksle<s n="vblex"/></r></p></e>
 
 
 
 
 <e>       <p><l>werden<s n="vblex"/></l>               <r>blive<s n="vblex"/></r></p></e>
+<e>       <p><l>werfen<s n="vblex"/></l>               <r>kaste<s n="vblex"/></r></p></e>
 <e>       <p><l>wissen<s n="vblex"/></l>               <r>vide<s n="vblex"/></r></p></e>
+<e>       <p><l>wundern<s n="vblex"/></l>              <r>undre<s n="vblex"/></r></p></e>
 <e>       <p><l>währen<s n="vblex"/></l>               <r>vare<s n="vblex"/></r></p></e>
 <e>       <p><l>zahlen<s n="vblex"/></l>               <r>tælle<s n="vblex"/></r></p></e>
 <e>       <p><l>zeigen<s n="vblex"/></l>               <r>vise<s n="vblex"/></r></p></e>
@@ -4872,10 +5060,12 @@
 <e>       <p><l>üben<s n="vblex"/></l>                 <r>øve<s n="vblex"/></r></p></e>
 <e>       <p><l>überlegen<s n="vblex"/></l>            <r>overveje<s n="vblex"/></r></p></e>
 <e>       <p><l>übernehmen<s n="vblex"/></l>           <r>overtage<s n="vblex"/></r></p></e>
-
-<e>       <p><l>übersetzen<s n="vblex"/></l>           <r>oversætte<s n="vblex"/></r></p></e>
 <e>       <p><l>übersetzen<s n="vblex"/></l>           <r>oversætte<s n="vblex"/></r></p></e>
 
+
+    <!-- ******************************
+          group vaux_symbol
+      ****************************** -->
     <!-- ******************************
           group vaux_symbol
       ****************************** -->
@@ -4884,12 +5074,26 @@
     <!-- ******************************
           group vbmod_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbmod_symbol
+      ****************************** -->
 <e>       <p><l>müssen<s n="vbmod"/></l>               <r>skulle<s n="vbmod"/></r></p></e>
 <e>       <p><l>sollen<s n="vbmod"/></l>               <r>burde<s n="vbmod"/></r></p></e>
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
+    <!-- ******************************
+          group np_symbol
+      ****************************** -->
 <e>       <p><l>Aberdeen<s n="np"/></l>                <r>Aberdeen<s n="np"/></r></p></e>
+<e>       <p><l>Adam<s n="np"/></l>                    <r>Adam<s n="np"/></r></p></e>
+<e>       <p><l>Adolf<s n="np"/></l>                   <r>Adolf<s n="np"/></r></p></e>
+<e>       <p><l>Albanien<s n="np"/></l>                <r>Albanien<s n="np"/></r></p></e>
+<e>       <p><l>Alexander<s n="np"/></l>               <r>Alexander<s n="np"/></r></p></e>
+<e>       <p><l>Alfred<s n="np"/></l>                  <r>Alfred<s n="np"/></r></p></e>
+<e>       <p><l>Algerien<s n="np"/></l>                <r>Algeriet<s n="np"/></r></p></e>
+<e>       <p><l>Ali<s n="np"/></l>                     <r>Ali<s n="np"/></r></p></e>
+<e>       <p><l>Tim<s n="np"/></l>                     <r>Tim<s n="np"/></r></p></e>
 
 
 
@@ -4898,172 +5102,10 @@
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
+    <!-- ******************************
+          group(s) with only one element
+      ****************************** -->
 <e>       <p><l>meist<s n="adv"/></l>                  <r>mest<s n="preadv"/></r></p></e>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<e><p><l>albern<s n="vblex"/></l><r>fjolle<s n="vblex"/></r></p></e>
-<e><p><l>anhalten<s n="vblex"/><s n="sep"/></l><r>standse<s n="vblex"/></r></p></e>
-<e><p><l>befehlen<s n="vblex"/></l><r>befale<s n="vblex"/></r></p></e>
-<e><p><l>beide<s n="det"/></l><r>begge<s n="det"/></r></p></e>
-<e><p><l>besiegen<s n="vblex"/></l><r>besejre<s n="vblex"/></r></p></e>
-<e><p><l>bestimmt<s n="adj"/></l><r>sikker<s n="adj"/></r></p></e>
-<e><p><l>bestimmt<s n="adv"/></l><r>sikkert<s n="adv"/></r></p></e>
-<e><p><l>betteln<s n="vblex"/></l><r>tigge<s n="vblex"/></r></p></e>
-<e><p><l>dafür<s n="adv"/></l><r>derfor<s n="adv"/></r></p></e>
-<e><p><l>damit<s n="cnjsub"/></l><r>for<b/>at<s n="cnjsub"/></r></p></e>
-<e><p><l>daraus<s n="adv"/></l><r>deraf<s n="adv"/></r></p></e>
-<e><p><l>davon<s n="adv"/></l><r>deraf<s n="adv"/></r></p></e>
-<e><p><l>direkt<s n="adj"/></l><r>direkte<s n="adj"/></r></p></e>
-<e><p><l>direkt<s n="adv"/></l><r>direkte<s n="adv"/></r></p></e>
-<e><p><l>drehen<s n="vblex"/></l><r>dreje<s n="vblex"/></r></p></e>
-<e><p><l>eigentlich<s n="adj"/></l><r>egentlig<s n="adj"/></r></p></e>
-<e><p><l>eigentlich<s n="adv"/></l><r>egentlig<s n="adv"/></r></p></e>
-<e><p><l>einmal<s n="adv"/></l><r>engang<s n="adv"/></r></p></e>
-<e><p><l>Erlebnis<s n="n"/><s n="nt"/></l><r>oplevelse<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>erschrecken<s n="vblex"/></l><r>skræmme<s n="vblex"/></r></p></e>
-<e><p><l>erst<s n="adv"/></l><r>først<s n="adv"/></r></p></e>
-<e><p><l>früher<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
-<e><p><l>furchtbar<s n="adj"/></l><r>frygtelig<s n="adj"/></r></p></e>
-<e><p><l>fühlen<s n="vblex"/></l><r>føle<s n="vblex"/></r></p></e>
-<e><p><l>genauso<s n="adv"/></l><r>lige<b/>så<s n="adv"/></r></p></e>
-<e><p><l>herum<s n="adv"/></l><r>omkring<s n="adv"/></r></p></e>
-<e><p><l>hinter<s n="pr"/></l><r>bag<s n="pr"/></r></p></e>
-<e><p><l>holen<s n="vblex"/></l><r>hente<s n="vblex"/></r></p></e>
-<e><p><l>Hose<s n="n"/><s n="f"/></l><r>bukser<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>jammern<s n="vblex"/></l><r>klynke<s n="vblex"/></r></p></e>
-<e><p><l>knurren<s n="vblex"/></l><r>knurre<s n="vblex"/></r></p></e>
-<e><p><l>laufen<s n="vblex"/></l><r>løbe<s n="vblex"/></r></p></e>
-<e><p><l>letzt<s n="adj"/></l><r>sidst<s n="adj"/></r></p></e>
-<e><p><l>lieb<s n="adj"/></l><r>kær<s n="adj"/></r></p></e>
-<e><p><l>Maul<s n="n"/><s n="nt"/></l><r>kæft<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>mutig<s n="adj"/></l><r>modig<s n="adj"/></r></p></e>
-<e><p><l>nah<s n="adj"/></l><r>tæt<s n="adj"/></r></p></e>
-<e><p><l>neben<s n="pr"/></l><r>ved<b/>siden<b/>af<s n="pr"/></r></p></e>
-<e><p><l>rennen<s n="vblex"/></l><r>løbe<s n="vblex"/></r></p></e>
-<e><p><l>Schachtel<s n="n"/><s n="f"/></l><r>æske<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>schreien<s n="vblex"/></l><r>skrige<s n="vblex"/></r></p></e>
-<e><p><l>sehr<s n="adv"/></l><r>meget<s n="adv"/></r></p></e>
-<e><p><l>Sicherheit<s n="n"/><s n="f"/></l><r>sikkerhed<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>sogar<s n="adv"/></l><r>selv<s n="adv"/></r></p></e>
-<e><p><l>stolz<s n="adj"/></l><r>stolt<s n="adj"/></r></p></e>
-<e><p><l>stottern<s n="vblex"/></l><r>stamme<s n="vblex"/></r></p></e>
-<e><p><l>Stück<s n="n"/><s n="nt"/></l><r>stykke<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Tim<s n="np"/></l><r>Tim<s n="np"/></r></p></e>
-<e><p><l>trauen<s n="vblex"/></l><r>stole<s n="vblex"/></r></p></e>
-<e><p><l>Umweg<s n="n"/><s n="m"/></l><r>omvej<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>unfähig<s n="adj"/></l><r>uduelig<s n="adj"/></r></p></e>
-<e><p><l>verabschieden<s n="vblex"/></l><r>afskedige<s n="vblex"/></r></p></e>
-<e><p><l>vorbei<s n="adv"/></l><r>forbi<s n="adv"/></r></p></e>
-<e><p><l>vorher<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
-<e><p><l>wechseln<s n="vblex"/></l><r>veksle<s n="vblex"/></r></p></e>
-<e><p><l>werfen<s n="vblex"/></l><r>kaste<s n="vblex"/></r></p></e>
-<e><p><l>wir<s n="prn"/></l><r>vi<s n="prn"/></r></p></e>
-<e><p><l>wundern<s n="vblex"/></l><r>undre<s n="vblex"/></r></p></e>
-<e><p><l>Zaun<s n="n"/><s n="m"/></l><r>hegn<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>zurück<s n="adv"/></l><r>tilbage<s n="adv"/></r></p></e>
-<e><p><l>überhaupt<s n="adv"/></l><r>overhovedet<s n="adv"/></r></p></e>
-
-
-
-
-<e><p><l>abermals<s n="adv"/></l><r>igen<s n="adv"/></r></p></e>
-<e><p><l>Abgang<s n="n"/><s n="m"/></l><r>afgang<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abgeben<s n="vblex"/><s n="sep"/></l><r>afgive<s n="vblex"/></r></p></e>
-<e><p><l>abgeschlossen<s n="adj"/></l><r>færdig<s n="adj"/></r></p></e>
-<e><p><l>absichern<s n="vblex"/><s n="sep"/></l><r>afsikre<s n="vblex"/></r></p></e>
-<e><p><l>abhalten<s n="vblex"/><s n="sep"/></l><r>afholde<s n="vblex"/></r></p></e>
-<e><p><l>abhängig<s n="adj"/></l><r>afhængig<s n="adj"/></r></p></e>
-<e><p><l>Abhängigkeit<s n="n"/><s n="f"/></l><r>afhængighed<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Abitur<s n="n"/><s n="nt"/></l><r>studentereksamen<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Abkommen<s n="n"/><s n="nt"/></l><r>overenskomst<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Ablauf<s n="n"/><s n="m"/></l><r>afløb<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>ablehnen<s n="vblex"/><s n="sep"/></l><r>afvise<s n="vblex"/></r></p></e>
-<e><p><l>Ablehnung<s n="n"/><s n="f"/></l><r>afvisning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>ablösen<s n="vblex"/><s n="sep"/></l><r>afløse<s n="vblex"/></r></p></e>
-<e><p><l>Ablösung<s n="n"/><s n="f"/></l><r>afløsning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abnehmen<s n="vblex"/><s n="sep"/></l><r>tabe<b/>sig<s n="vblex"/></r></p></e>
-<e><p><l>abordnen<s n="vblex"/><s n="sep"/></l><r>delegere<s n="vblex"/></r></p></e>
-<e><p><l>Abriß<s n="n"/><s n="m"/></l><r>nedrivning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Absage<s n="n"/><s n="f"/></l><r>afbud<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>absagen<s n="vblex"/><s n="sep"/></l><r>aflyse<s n="vblex"/></r></p></e>
-<e><p><l>Absatz<s n="n"/><s n="m"/></l><r>afsætning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abschaffen<s n="vblex"/><s n="sep"/></l><r>afskaffe<s n="vblex"/></r></p></e>
-<e><p><l>abschieben<s n="vblex"/><s n="sep"/></l><r>deportere<s n="vblex"/></r></p></e>
-<e><p><l>Abschied<s n="n"/><s n="m"/></l><r>afsked<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abschließen<s n="vblex"/><s n="sep"/></l><r>afslutte<s n="vblex"/></r></p></e>
-<e><p><l>Abschluß<s n="n"/><s n="m"/></l><r>afslutning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Abschreibung<s n="n"/><s n="f"/></l><r>afskrivning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abseits<s n="adj"/></l><r>afsides<s n="adj"/></r></p></e>
-<e><p><l>abseits<s n="pr"/></l><r>afsides<s n="pr"/></r></p></e>
-<e><p><l>absetzen<s n="vblex"/><s n="sep"/></l><r>afsætte<s n="vblex"/></r></p></e>
-<e><p><l>Absicherung<s n="n"/><s n="f"/></l><r>sikring<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Absicht<s n="n"/><s n="f"/></l><r>hensigt<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>absolvieren<s n="vblex"/></l><r>absolvere<s n="vblex"/></r></p></e>
-<e><p><l>Absprache<s n="n"/><s n="f"/></l><r>aftale<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Abstand<s n="n"/><s n="m"/></l><r>afstand<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abstimmen<s n="vblex"/><s n="sep"/></l><r>afstemme<s n="vblex"/></r></p></e>
-<e><p><l>Abstimmung<s n="n"/><s n="f"/></l><r>afstemning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Absturz<s n="n"/><s n="m"/></l><r>styrt<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Abteilung<s n="n"/><s n="f"/></l><r>afdeling<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Abteilungsleiter<s n="n"/><s n="m"/></l><r>afdelingschef<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abwarten<s n="vblex"/><s n="sep"/></l><r>afvente<s n="vblex"/></r></p></e>
-<e><p><l>Abwehr<s n="n"/><s n="f"/></l><r>forsvar<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Abweichung<s n="n"/><s n="f"/></l><r>afvigelse<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>abweisen<s n="vblex"/><s n="sep"/></l><r>afvise<s n="vblex"/></r></p></e>
-<e><p><l>Abwesenheit<s n="n"/><s n="f"/></l><r>fravær<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>abwickeln<s n="vblex"/><s n="sep"/></l><r>afvikle<s n="vblex"/></r></p></e>
-<e><p><l>Abzug<s n="n"/><s n="m"/></l><r>afmarch<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>ach<s n="ij"/></l><r>ak<s n="ij"/></r></p></e>
-<e><p><l>achten<s n="vblex"/></l><r>agte<s n="vblex"/></r></p></e>
-<e><p><l>Achtung<s n="n"/><s n="f"/></l><r>opmærksomhed<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Adam<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
-<e><p><l>Adolf<s n="np"/></l><r>Adolf<s n="np"/></r></p></e>
-<e><p><l>Adresse<s n="n"/><s n="f"/></l><r>adresse<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Affäre<s n="n"/><s n="f"/></l><r>affære<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Afghanistan<s n="np"/></l><r>Afghanistan<s n="n"/><s n="np"/></r></p></e>
-<e><p><l>Afrika<s n="np"/></l><r>Afrika<s n="n"/><s n="np"/></r></p></e>
-<e><p><l>Agent<s n="n"/><s n="m"/></l><r>agent<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Agentur<s n="n"/><s n="f"/></l><r>agentur<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>agieren<s n="vblex"/></l><r>agere<s n="vblex"/></r></p></e>
-<e><p><l>ahnen<s n="vblex"/></l><r>ane<s n="vblex"/></r></p></e>
-<e><p><l>Ahnung<s n="n"/><s n="f"/></l><r>anelse<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Akademie<s n="n"/><s n="f"/></l><r>akademi<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Aktion<s n="n"/><s n="f"/></l><r>aktion<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>aktiv<s n="adj"/></l><r>aktiv<s n="adj"/></r></p></e>
-<e><p><l>aktivieren<s n="vblex"/></l><r>aktivere<s n="vblex"/></r></p></e>
-<e><p><l>Aktivität<s n="n"/><s n="f"/></l><r>aktivitet<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>aktuell<s n="adj"/></l><r>aktuel<s n="adj"/></r></p></e>
-<e><p><l>akzeptieren<s n="vblex"/></l><r>acceptere<s n="vblex"/></r></p></e>
-<e><p><l>Alarm<s n="n"/><s n="m"/></l><r>alarm<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Albanien<s n="np"/></l><r>Albanien<s n="np"/></r></p></e>
-<e><p><l>Alexander<s n="np"/></l><r>Alexander<s n="np"/></r></p></e>
-<e><p><l>Alfred<s n="np"/></l><r>Alfred<s n="np"/></r></p></e>
-<e><p><l>Algerien<s n="np"/></l><r>Algeriet<s n="np"/></r></p></e>
-<e><p><l>Ali<s n="np"/></l><r>Ali<s n="np"/></r></p></e>
-<e><p><l>Alkohol<s n="n"/><s n="m"/></l><r>alkohol<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>All<s n="n"/><s n="nt"/></l><r>universitet<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Allee<s n="n"/><s n="f"/></l><r>allé<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>allein<s n="adv"/></l><r>alene<s n="adv"/></r></p></e>
-<e><p><l>allemal<s n="adv"/></l><r>altid<s n="adv"/></r></p></e>
-<e><p><l>allerdings<s n="adv"/></l><r>ganske<b/>vist<s n="adv"/></r></p></e>
-<e><p><l>Allianz<s n="n"/><s n="f"/></l><r>alliance<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>alliieren<s n="vblex"/></l><r>alliere<s n="vblex"/></r></p></e>
-<e><p><l>allzu<s n="preadv"/></l><r>alt<b/>for<s n="adv"/></r></p></e>
-<e><p><l>Alptraum<s n="n"/><s n="m"/></l><r>mareridt<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>ach<s n="ij"/></l>                     <r>ak<s n="ij"/></r></p></e>
   </section>
 </dictionary>
-    
