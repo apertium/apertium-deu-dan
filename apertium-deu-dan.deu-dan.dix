@@ -256,11 +256,9 @@
 <e>       <p><l>Alpha<s n="n"/><s n="nt"/></l>         <r>alfa<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Alphabet<s n="n"/><s n="nt"/></l>      <r>alfabet<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Alptraum<s n="n"/><s n="m"/></l>       <r>mareridt<s n="n"/><s n="nt"/></r></p></e>
+
 
 <e>       <p><l>Altar<s n="n"/><s n="m"/></l>          <r>alter<s n="n"/><s n="nt"/></r></p></e>
-
-<e>       <p><l>Aluminium<s n="n"/><s n="nt"/></l>     <r>aluminium<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Aluminium<s n="n"/><s n="nt"/></l>     <r>aluminium<s n="n"/><s n="nt"/></r></p></e>
 
@@ -661,9 +659,7 @@
 
 <e>       <p><l>Brot<s n="n"/><s n="nt"/></l>          <r>brød<s n="n"/><s n="nt"/></r></p></e>
 
-<e>       <p><l>Brot<s n="n"/><s n="nt"/></l>          <r>brød<s n="n"/><s n="nt"/></r></p></e>
-
-<e>       <p><l>Bruder<s n="n"/><s n="m"/></l>         <r>broder<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Bruder<s n="n"/><s n="m"/></l>         <r>bror<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Brust<s n="n"/><s n="f"/></l>          <r>bryst<s n="n"/><s n="nt"/></r></p></e>
 
@@ -3645,7 +3641,6 @@
 
 <e>       <p><l>Vizepräsident<s n="n"/><s n="m"/></l>  <r>vicepræsident<s n="n"/><s n="ut"/></r></p></e>
 
-<e>       <p><l>Vizepräsident<s n="n"/><s n="m"/></l>  <r>vicepræsident<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vogel<s n="n"/><s n="m"/></l>          <r>fugl<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Vogel<s n="n"/><s n="m"/></l>          <r>fugl<s n="n"/><s n="ut"/></r></p></e>
@@ -4983,7 +4978,7 @@
 
 <e>       <p><l>sehen<s n="vblex"/></l>                <r>se<s n="vblex"/></r></p></e>
 
-<e>       <p><l>sein<s n="vblex"/></l>                 <r>være<s n="vblex"/></r></p></e>
+<e>       <p><l>sein<s n="vbser"/></l>                 <r>være<s n="vbser"/></r></p></e>
 <e>       <p><l>senden<s n="vblex"/></l>               <r>sende<s n="vblex"/></r></p></e>
 <e>       <p><l>setzen<s n="vblex"/></l>               <r>sætte<s n="vblex"/></r></p></e>
 <e>       <p><l>seufzen<s n="vblex"/></l>              <r>sukke<s n="vblex"/></r></p></e>

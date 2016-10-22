@@ -46,8 +46,9 @@
       <attr-item tags="vblex"/>
     </def-attr>
     <def-attr n="type_det">
-      <attr-item tags="ind"/>
-      <attr-item tags="def"/>
+      <attr-item tags="det.ind"/>
+      <attr-item tags="det.pos"/>
+      <attr-item tags="det.qnt"/>
     </def-attr>
 
 
@@ -272,8 +273,7 @@
             </tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
-            <clip pos="1" side="tl" part="type_mot"/>
-            <lit-tag v="ind"/>
+            <clip pos="1" side="tl" part="type_det"/>
             <clip pos="2" side="tl" part="gender"/>
             <clip pos="2" side="tl" part="numerus"/>
           </lu>
@@ -344,7 +344,6 @@
             </tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
-            <clip pos="1" side="tl" part="type_mot"/>
             <clip pos="1" side="sl" part="type_det"/>
             <clip pos="3" side="tl" part="gender"/>
             <clip pos="3" side="tl" part="numerus"/>
@@ -378,7 +377,7 @@
       </pattern>
       <action>
         <out>
-         <chunk name="DET-ADJ-NOM" case="caseFirstWord">
+         <chunk name="DETdef-ADJ-NOM" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -396,7 +395,7 @@
             <lit-tag v="pst"/>
             <lit-tag v="un"/>
             <lit-tag v="sp"/>
-            <clip pos="1" side="tl" part="type_det"/>
+            <lit-tag v="def"/>
 
 
           </lu>
@@ -429,7 +428,6 @@
             </tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
-            <clip pos="1" side="tl" part="type_mot"/>
             <clip pos="1" side="sl" part="type_det"/>
             <clip pos="3" side="tl" part="gender"/>
             <clip pos="3" side="tl" part="numerus"/>
