@@ -31,6 +31,12 @@
       <cat-item tags="vbmod.*"/>
       <cat-item tags="vbser.*"/>
     </def-cat>
+    <def-cat n="conj">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjcoo.*"/>
+      <cat-item tags="cnjsub"/>
+     <cat-item tags="cnjsub.*"/>
+    </def-cat>
   </section-def-cats>
 
 
@@ -208,10 +214,6 @@
         </out>
       </action>
    </rule> 
-
-
-
-
     
    <rule comment="RULE: NOM(simple)">
       <pattern>
@@ -455,10 +457,29 @@
         </out>
       </action>
     </rule>
+<!--
+ <rule comment="RULE: CONJ">
+      <pattern>
+	<pattern-item n="conj"/>
+      </pattern>
+      <action>
+        <out>
+	  <chunk name="conj">
+       <tags>
+         <tag><lit-tag v="SV"/></tag>
+       </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <lit-tag v="past"/>
+            <lit-tag v="actv"/>
+          </lu>
+         </chunk>
+        </out>
+      </action>
+   </rule> 
 
-
-
-
+-->
   </section-rules>
 
     
