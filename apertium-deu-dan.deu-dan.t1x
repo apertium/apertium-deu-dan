@@ -214,7 +214,8 @@
         </out>
       </action>
    </rule> 
-    
+
+<!--    
    <rule comment="RULE: NOM(simple)">
       <pattern>
 	<pattern-item n="nom"/>
@@ -235,6 +236,32 @@
         </out>
       </action>
    </rule> 
+
+-->
+
+   <rule comment="RULE: NOM">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="gender"/>
+            <clip pos="1" side="tl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 
    <rule comment="RULE: DET(DEF) NOM">
