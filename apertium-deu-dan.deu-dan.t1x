@@ -245,7 +245,7 @@
       </pattern>
       <action>
         <out>
-         <chunk name="DET-NOM" case="caseFirstWord">
+         <chunk name="NOM" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -253,7 +253,7 @@
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="type_mot"/>
             <clip pos="1" side="tl" part="gender"/>
-            <clip pos="1" side="tl" part="numerus"/>
+            <clip pos="1" side="sl" part="numerus"/>
             <lit-tag v="ind"/>
           </lu>
 	</chunk>
