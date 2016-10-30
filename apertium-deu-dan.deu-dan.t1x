@@ -11,6 +11,9 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
     </def-cat>
+    <def-cat n="pr">
+      <cat-item tags="pr.*"/>
+    </def-cat>
     <def-cat n="det_def">
       <cat-item tags="det.def.*"/>
     </def-cat>
@@ -50,6 +53,7 @@
       <attr-item tags="det"/>
       <attr-item tags="adj"/>
       <attr-item tags="vblex"/>
+      <attr-item tags="pr"/>
     </def-attr>
     <def-attr n="type_det">
       <attr-item tags="det.ind"/>
@@ -239,6 +243,24 @@
 
 -->
 
+   <rule comment="RULE: pr">
+      <pattern>
+        <pattern-item n="pr"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="pr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
    <rule comment="RULE: NOM">
       <pattern>
         <pattern-item n="nom"/>
