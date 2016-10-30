@@ -4663,7 +4663,6 @@
 
 
 
-
 <e>       <p><l>abermals<s n="adv"/></l>               <r>igen<s n="adv"/></r></p></e>
 
 
@@ -5724,7 +5723,7 @@
 
 <e>       <p><l>glauben<s n="vblex"/></l>              <r>tro<s n="vblex"/></r></p></e>
 <e>       <p><l>großziehen<s n="vblex"/></l>           <r>opdrage<s n="vblex"/></r></p></e>
-<e>       <p><l>haben<s n="vblex"/></l>                <r>have<s n="vblex"/></r></p></e>
+<e>       <p><l>haben<s n="vbhaver"/></l>                <r>have<s n="vbhaver"/></r></p></e>
 <e>       <p><l>halten<s n="vblex"/></l>               <r>holde<s n="vblex"/></r></p></e>
 <e>       <p><l>handeln<s n="vblex"/></l>              <r>handle<s n="vblex"/></r></p></e>
 <e>       <p><l>hausen<s n="vblex"/></l>               <r>bo<s n="vblex"/></r></p></e>
@@ -6025,6 +6024,11 @@
 <e>       <p><l>Bulgarien<s n="np"/></l>               <r>Bulgarien<s n="np"/></r></p></e>
 
 <e>       <p><l>Bush<s n="np"/></l>                    <r>Bush<s n="np"/></r></p></e>
+
+
+<e><p><l>Jan<s n="np"/></l><r>Jan<s n="np"/></r></p></e>
+<e><p><l>Maria<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
+
 <e>       <p><l>Tim<s n="np"/></l>                     <r>Tim<s n="np"/></r></p></e>
 
     <!-- ******************************
