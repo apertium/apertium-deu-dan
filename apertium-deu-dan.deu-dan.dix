@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 1
-	Entries: 3384
+	Entries: 3412
 	Sdefs: 69
 	Last processed by: apertium-dixtools sort -alignBidix apertium-deu-dan.deu-dan.dix apertium-deu-dan.deu-dan.dix
 
@@ -84,18 +84,9 @@
     <!-- ******************************
           group n_symbol
       ****************************** -->
-    <!-- ******************************
-          group n_symbol
-      ****************************** -->
-    <!-- ******************************
-          group n_symbol
-      ****************************** -->
 <e>       <p><l>Aal<s n="n"/><s n="m"/></l>            <r>ål<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abbau<s n="n"/><s n="m"/></l>          <r>nedbrydning<s n="n"/><s n="ut"/></r></p></e>
 
-    <!-- ******************************
-          group n_symbol
-      ****************************** -->
 <e>       <p><l>Abbildung<s n="n"/><s n="f"/></l>      <r>afbildning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abbruch<s n="n"/><s n="m"/></l>        <r>afbrydelse<s n="n"/><s n="ut"/></r></p></e>
 
@@ -268,15 +259,6 @@
 <e>       <p><l>Alternative<s n="n"/><s n="f"/></l>    <r>alternativ<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Aluminium<s n="n"/><s n="nt"/></l>     <r>aluminium<s n="n"/><s n="nt"/></r></p></e>
-
-
-
-
-
-
-
-
-
 
 <e>       <p><l>Ambiente<s n="n"/><s n="nt"/></l>      <r>stemning<s n="n"/><s n="ut"/></r></p></e>
 
@@ -1187,21 +1169,37 @@
 
 <e>       <p><l>Bürokratie<s n="n"/><s n="f"/></l>     <r>bureaukrati<s n="n"/><s n="ut"/></r></p></e>
 
+<e>       <p><l>CD<s n="n"/><s n="f"/></l>             <r>cd<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Café<s n="n"/><s n="nt"/></l>          <r>café<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Cello<s n="n"/><s n="nt"/></l>         <r>cello<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Center<s n="n"/><s n="nt"/></l>        <r>center<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Champagner<s n="n"/><s n="m"/></l>     <r>champagne<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Chamäleon<s n="n"/><s n="nt"/></l>     <r>kamæleon<s n="n"/><s n="ut"/></r></p></e>
 
+<e>       <p><l>Chance<s n="n"/><s n="f"/></l>         <r>chance<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Chaos<s n="n"/><s n="nt"/></l>         <r>rod<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Chaos<s n="n"/><s n="nt"/></l>         <r>rod<s n="n"/><s n="ut"/></r></p></e>
 
+<e>       <p><l>Charakter<s n="n"/><s n="m"/></l>      <r>karakter<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Charakteristikum<s n="n"/><s n="nt"/></l><r>karakteristikum<s n="n"/><s n="nt"/></r></p></e>
 
+<e>       <p><l>Charme<s n="n"/><s n="m"/></l>         <r>charme<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Chef<s n="n"/><s n="m"/></l>           <r>chef<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Chefredakteur<s n="n"/><s n="m"/></l>  <r>chefredaktør<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Chemie<s n="n"/><s n="f"/></l>         <r>kemi<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Chemikalie<s n="n"/><s n="f"/></l>     <r>kemikalie<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Chemiker<s n="n"/><s n="m"/></l>       <r>kemiker<s n="n"/><s n="ut"/></r></p></e>
 
@@ -1231,11 +1229,19 @@
 
 <e>       <p><l>Chromosom<s n="n"/><s n="nt"/></l>     <r>kromosom<s n="n"/><s n="nt"/></r></p></e>
 
+<e>       <p><l>City<s n="n"/><s n="f"/></l>           <r>city<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Club<s n="n"/><s n="m"/></l>           <r>klub<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Coach<s n="n"/><s n="m"/></l>          <r>coach<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Cocktail<s n="n"/><s n="m"/></l>       <r>cocktail<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Cola<s n="n"/><s n="f"/></l>           <r>cola<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Cola<s n="n"/><s n="f"/></l>           <r>cola<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Comeback<s n="n"/><s n="nt"/></l>      <r>comeback<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Comic<s n="n"/><s n="m"/></l>          <r>tegneserie<s n="n"/><s n="ut"/></r></p></e>
 
@@ -1247,6 +1253,10 @@
 <e>       <p><l>Computerprogramm<s n="n"/><s n="nt"/></l><r>computerprogram<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Computerspiel<s n="n"/><s n="nt"/></l> <r>computerspil<s n="n"/><s n="nt"/></r></p></e>
+
+<e>       <p><l>Container<s n="n"/><s n="m"/></l>      <r>container<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Coup<s n="n"/><s n="m"/></l>           <r>kup<s n="n"/><s n="nt"/></r></p></e>
 
 <e>       <p><l>Cousin<s n="n"/><s n="m"/></l>         <r>fætter<s n="n"/><s n="ut"/></r></p></e>
 
@@ -4395,20 +4405,13 @@
 
 <e>       <p><l>Übersetzer<s n="n"/><s n="m"/></l>     <r>oversætter<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Übersetzung<s n="n"/><s n="f"/></l>    <r>oversættelse<s n="n"/><s n="ut"/></r></p></e>
-    <!-- ******************************
-          group pr_symbol
-      ****************************** -->
-    <!-- ******************************
-          group pr_symbol
-      ****************************** -->
+
     <!-- ******************************
           group pr_symbol
       ****************************** -->
 <e>       <p><l>ab<s n="pr"/></l>                      <r>fra<s n="pr"/></r></p></e>
 <e>       <p><l>abseits<s n="pr"/></l>                 <r>afsides<s n="pr"/></r></p></e>
-    <!-- ******************************
-          group pr_symbol
-      ****************************** -->
+
 <e>       <p><l>an<s n="pr"/></l>                      <r>ved<s n="pr"/></r></p></e>
 
 <e>       <p><l>angesichts<s n="pr"/></l>              <r>med<b/>hensyn<b/>til<s n="pr"/></r></p></e>
@@ -4438,9 +4441,6 @@
 <e>       <p><l>längs<s n="pr"/></l>                   <r>langs<s n="pr"/></r></p></e>
 <e>       <p><l>mit<s n="pr"/></l>                     <r>med<s n="pr"/></r></p></e>
 
-
-<!-- Prep -->
-
 <e>       <p><l>nach<s n="pr"/></l>                    <r>efter<s n="pr"/></r></p></e>
 <e>       <p><l>nahe<s n="pr"/></l>                    <r>nær<s n="pr"/></r></p></e>
 <e>       <p><l>neben<s n="pr"/></l>                   <r>ved<b/>siden<b/>af<s n="pr"/></r></p></e>
@@ -4462,15 +4462,7 @@
 <e>       <p><l>zu<s n="pr"/></l>                      <r>for<s n="pr"/></r></p></e>
 <e>       <p><l>zwischen<s n="pr"/></l>                <r>mellem<s n="pr"/></r></p></e>
 <e>       <p><l>über<s n="pr"/></l>                    <r>over<s n="pr"/></r></p></e>
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
+
     <!-- ******************************
           group num_symbol
       ****************************** -->
@@ -4499,11 +4491,6 @@
 <e>       <p><l>neunundzwanzig<s n="num"/></l>         <r>niogtyve<s n="num"/></r></p></e>
 <e>       <p><l>neunzehn<s n="num"/></l>               <r>nitten<s n="num"/></r></p></e>
 <e>       <p><l>neunzig<s n="num"/></l>                <r>halvfems<s n="num"/></r></p></e>
-
-
-
-   <!-- Numerals -->
-
 <e>       <p><l>null<s n="num"/></l>                   <r>nul<s n="num"/></r></p></e>
 <e>       <p><l>sechs<s n="num"/></l>                  <r>seks<s n="num"/></r></p></e>
 <e>       <p><l>sechs<s n="num"/></l>                  <r>seks<s n="num"/></r></p></e>
@@ -4526,15 +4513,7 @@
 <e>       <p><l>zweiunddreißig<s n="num"/></l>         <r>toogtredive<s n="num"/></r></p></e>
 <e>       <p><l>zweiundzwanzig<s n="num"/></l>         <r>toogtyve<s n="num"/></r></p></e>
 <e>       <p><l>zwölf<s n="num"/></l>                  <r>tolv<s n="num"/></r></p></e>
-    <!-- ******************************
-          group prn_symbol
-      ****************************** -->
-    <!-- ******************************
-          group prn_symbol
-      ****************************** -->
-    <!-- ******************************
-          group prn_symbol
-      ****************************** -->
+
     <!-- ******************************
           group prn_symbol
       ****************************** -->
@@ -4542,10 +4521,6 @@
 <e>       <p><l>er<s n="prn"/><s n="pers"/><s n="p3"/></l><r>han<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
 <e>       <p><l>es<s n="prn"/><s n="pers"/><s n="p3"/></l><r>den<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
 <e>       <p><l>es<s n="prn"/><s n="pers"/><s n="p3"/></l><r>det<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
-
-
-    <!-- Pronouns -->
-
 <e>       <p><l>ich<s n="prn"/><s n="pers"/><s n="p1"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/></r></p></e>
 <e>       <p><l>ihr<s n="prn"/></l>                    <r>I<s n="prn"/></r></p></e>
 <e>       <p><l>jemand<s n="prn"/></l>                 <r>nogen<s n="prn"/></r></p></e>
@@ -4554,21 +4529,14 @@
 <e>       <p><l>sie<s n="prn"/><s n="pers"/><s n="p3"/></l><r>hun<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
 <e>       <p><l>was<s n="prn"/></l>                    <r>hvad<s n="prn"/></r></p></e>
 <e>       <p><l>wir<s n="prn"/></l>                    <r>vi<s n="prn"/></r></p></e>
-    <!-- ******************************
-          group det_symbol
-      ****************************** -->
-    <!-- ******************************
-          group det_symbol
-      ****************************** -->
+
+
     <!-- ******************************
           group det_symbol
       ****************************** -->
 <e>       <p><l>alle<s n="det"/></l>                   <r>hver<s n="det"/></r></p></e>
 <e>       <p><l>ander<s n="det"/></l>                  <r>anden<s n="det"/></r></p></e>
 <e>       <p><l>beide<s n="det"/></l>                  <r>begge<s n="det"/></r></p></e>
-    <!-- ******************************
-          group det_symbol
-      ****************************** -->
 <e>       <p><l>dein<s n="det"/></l>                   <r>din<s n="det"/></r></p></e>
 <e>       <p><l>der<s n="det"/></l>                    <r>den<s n="det"/></r></p></e>
 
@@ -4577,45 +4545,23 @@
 <e>       <p><l>jede<s n="det"/></l>                   <r>hver<s n="det"/></r></p></e>
 <e>       <p><l>kein<s n="det"/></l>                   <r>ingen<s n="det"/></r></p></e>
 
-
-
-<!-- Possessiva pronomen -->
-
 <e>       <p><l>mein<s n="det"/></l>                   <r>min<s n="det"/></r></p></e>
 <e>       <p><l>sein<s n="det"/></l>                   <r>sin<s n="det"/></r></p></e>
-    <!-- ******************************
-          group cnjcoo_symbol
-      ****************************** -->
-    <!-- ******************************
-          group cnjcoo_symbol
-      ****************************** -->
-    <!-- ******************************
-          group cnjcoo_symbol
-      ****************************** -->
+
+
+
     <!-- ******************************
           group cnjcoo_symbol
       ****************************** -->
 <e>       <p><l>aber<s n="cnjcoo"/></l>                <r>men<s n="cnjcoo"/></r></p></e>
-
-
-
-
-<!--Conjunctions-->
-
 <e>       <p><l>oder<s n="cnjcoo"/></l>                <r>eller<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ohne<s n="cnjcoo"/></l>                <r>uden<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>samt<s n="cnjcoo"/></l>                <r>samt<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>sowie<s n="cnjcoo"/></l>               <r>samt<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>und<s n="cnjcoo"/></l>                 <r>og<s n="cnjcoo"/></r></p></e>
-    <!-- ******************************
-          group cnjadv_symbol
-      ****************************** -->
-    <!-- ******************************
-          group cnjadv_symbol
-      ****************************** -->
-    <!-- ******************************
-          group cnjadv_symbol
-      ****************************** -->
+
+
+
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
@@ -4624,22 +4570,15 @@
 <e>       <p><l>weil<s n="cnjadv"/></l>                <r>fordi<s n="cnjadv"/></r></p></e>
 <e>       <p><l>wenn<s n="cnjsub"/></l>                <r>hvis<s n="cnjadv"/></r></p></e>
 
+
+
     <!-- ******************************
           group cnjsub_symbol
       ****************************** -->
 <e>       <p><l>bevor<s n="cnjsub"/></l>               <r>før<s n="cnjsub"/></r></p></e>
-    <!-- ******************************
-          group cnjsub_symbol
-      ****************************** -->
-    <!-- ******************************
-          group cnjsub_symbol
-      ****************************** -->
 <e>       <p><l>bis<s n="cnjsub"/></l>                 <r>til<s n="cnjsub"/></r></p></e>
 <e>       <p><l>damit<s n="cnjsub"/></l>               <r>for<b/>at<s n="cnjsub"/></r></p></e>
 <e>       <p><l>dass<s n="cnjsub"/></l>                <r>at<s n="cnjsub"/></r></p></e>
-    <!-- ******************************
-          group cnjsub_symbol
-      ****************************** -->
 <e>       <p><l>denn<s n="cnjsub"/></l>                <r>fordi<s n="cnjsub"/></r></p></e>
 <e>       <p><l>falls<s n="cnjsub"/></l>               <r>hvis<s n="cnjsub"/></r></p></e>
 <e>       <p><l>insofern<s n="cnjsub"/></l>            <r>såfremt<s n="cnjsub"/></r></p></e>
@@ -4650,27 +4589,16 @@
 <e>       <p><l>weil<s n="cnjsub"/></l>                <r>fordi<s n="cnjsub"/></r></p></e>
 <e>       <p><l>wo<s n="cnjsub"/></l>                  <r>hvor<s n="cnjsub"/></r></p></e>
 <e>       <p><l>wodurch<s n="cnjsub"/></l>             <r>hvorved<s n="cnjsub"/></r></p></e>
-    <!-- ******************************
-          group adv_symbol
-      ****************************** -->
-    <!-- ******************************
-          group adv_symbol
-      ****************************** -->
+
+
+
+
     <!-- ******************************
           group adv_symbol
       ****************************** -->
 <e>       <p><l>ab<s n="adv"/></l>                     <r>fra<s n="adv"/></r></p></e>
-
-
-
 <e>       <p><l>abermals<s n="adv"/></l>               <r>igen<s n="adv"/></r></p></e>
 
-
-
-
-    <!-- ******************************
-          group adv_symbol
-      ****************************** -->
 <e>       <p><l>absolut<s n="adv"/></l>                <r>absolut<s n="adv"/></r></p></e>
 <e>       <p><l>adäquat<s n="adv"/></l>                <r>adækvat<s n="adv"/></r></p></e>
 <e>       <p><l>algebraisch<s n="adv"/></l>            <r>algebraisk<s n="adv"/></r></p></e>
@@ -4889,12 +4817,6 @@
 <e>       <p><l>zweifellos<s n="adv"/></l>             <r>utvivlsomt<s n="adv"/></r></p></e>
 <e>       <p><l>äußerst<s n="adv"/></l>                <r>yderst<s n="adv"/></r></p></e>
 <e>       <p><l>öffentlich<s n="adv"/></l>             <r>offentlig<s n="adv"/></r></p></e>
-
-
-
-    <!-- Adverbs -->
-
-
 <e>       <p><l>überall<s n="adv"/></l>                <r>overalt<s n="adv"/></r></p></e>
 <e>       <p><l>überall<s n="adv"/></l>                <r>alle vegne<s n="adv"/></r></p></e>
 <e>       <p><l>überhaupt<s n="adv"/></l>              <r>overhovedet<s n="adv"/></r></p></e>
@@ -4902,15 +4824,6 @@
 
 
 
-    <!-- ******************************
-          group adj_symbol
-      ****************************** -->
-    <!-- ******************************
-          group adj_symbol
-      ****************************** -->
-    <!-- ******************************
-          group adj_symbol
-      ****************************** -->
     <!-- ******************************
           group adj_symbol
       ****************************** -->
@@ -5305,12 +5218,9 @@
 <e>       <p><l>österreichisch<s n="adj"/></l>         <r>østrigsk<s n="adj"/></r></p></e>
 <e>       <p><l>östlich<s n="adj"/></l>                <r>østlig<s n="adj"/></r></p></e>
 <e>       <p><l>übrig<s n="adj"/></l>                  <r>????<s n="adj"/></r></p></e>
-    <!-- ******************************
-          group vblex_symbol
-      ****************************** -->
-    <!-- ******************************
-          group vblex_symbol
-      ****************************** -->
+
+
+
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
@@ -5319,12 +5229,6 @@
 <e>       <p><l>abbrechen<s n="vblex"/><s n="sep"/></l><r>afbryde<s n="vblex"/></r></p></e>
 <e>       <p><l>abdanken<s n="vblex"/><s n="sep"/></l> <r>afskedige<s n="vblex"/></r></p></e>
 <e>       <p><l>abdecken<s n="vblex"/><s n="sep"/></l> <r>afdække<s n="vblex"/></r></p></e>
-
-
-
-    <!-- ******************************
-          group vblex_symbol
-      ****************************** -->
 <e>       <p><l>abfassen<s n="vblex"/></l>             <r>affatte<s n="vblex"/></r></p></e>
 <e>       <p><l>abfeuern<s n="vblex"/></l>             <r>affyre<s n="vblex"/></r></p></e>
 <e>       <p><l>abgeben<s n="vblex"/><s n="sep"/></l>  <r>afgive<s n="vblex"/></r></p></e>
@@ -5354,22 +5258,6 @@
 <e>       <p><l>ahnen<s n="vblex"/></l>                <r>ane<s n="vblex"/></r></p></e>
 <e>       <p><l>aktivieren<s n="vblex"/></l>           <r>aktivere<s n="vblex"/></r></p></e>
 <e>       <p><l>akzeptieren<s n="vblex"/></l>          <r>acceptere<s n="vblex"/></r></p></e>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <e>       <p><l>albern<s n="vblex"/></l>               <r>fjolle<s n="vblex"/></r></p></e>
 <e>       <p><l>alliieren<s n="vblex"/></l>            <r>alliere<s n="vblex"/></r></p></e>
 
@@ -5580,7 +5468,6 @@
 
 <e>       <p><l>benennen<s n="vblex"/></l>             <r>benævne<s n="vblex"/></r></p></e>
 <e>       <p><l>benutzen<s n="vblex"/></l>             <r>bruge<s n="vblex"/></r></p></e>
-<e>       <p><l>benutzen<s n="vblex"/></l>             <r>bruge<s n="vblex"/></r></p></e>
 
 <e>       <p><l>berechnen<s n="vblex"/></l>            <r>beregne<s n="vblex"/></r></p></e>
 
@@ -5723,7 +5610,6 @@
 
 <e>       <p><l>glauben<s n="vblex"/></l>              <r>tro<s n="vblex"/></r></p></e>
 <e>       <p><l>großziehen<s n="vblex"/></l>           <r>opdrage<s n="vblex"/></r></p></e>
-<e>       <p><l>haben<s n="vbhaver"/></l>                <r>have<s n="vbhaver"/></r></p></e>
 <e>       <p><l>halten<s n="vblex"/></l>               <r>holde<s n="vblex"/></r></p></e>
 <e>       <p><l>handeln<s n="vblex"/></l>              <r>handle<s n="vblex"/></r></p></e>
 <e>       <p><l>hausen<s n="vblex"/></l>               <r>bo<s n="vblex"/></r></p></e>
@@ -5751,7 +5637,7 @@
 <e>       <p><l>können<s n="vblex"/></l>               <r>kunne<s n="vblex"/></r></p></e>
 <e>       <p><l>küssen<s n="vblex"/></l>               <r>kysse<s n="vblex"/></r></p></e>
 <e>       <p><l>lachen<s n="vblex"/></l>               <r>grine<s n="vblex"/></r></p></e>
-<e>       <p><l>lachen<s n="vblex"/></l>               <r>le<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>lachen<s n="vblex"/></l>               <r>le<s n="vblex"/></r></p></e>-->
 <e>       <p><l>langen<s n="vblex"/></l>               <r>række<s n="vblex"/></r></p></e>
 <e>       <p><l>laufen<s n="vblex"/></l>               <r>løbe<s n="vblex"/></r></p></e>
 <e>       <p><l>leben<s n="vblex"/></l>                <r>leve<s n="vblex"/></r></p></e>
@@ -5774,8 +5660,6 @@
 <e>       <p><l>niesen<s n="vblex"/></l>               <r>nyse<s n="vblex"/></r></p></e>
 <e>       <p><l>passieren<s n="vblex"/></l>            <r>ske<s n="vblex"/></r></p></e>
 <e>       <p><l>platzieren<s n="vblex"/></l>           <r>placere<s n="vblex"/></r></p></e>
-
-
 
 <e>       <p><l>probieren<s n="vblex"/></l>            <r>prøve<s n="vblex"/></r></p></e>
 <e>       <p><l>produzieren<s n="vblex"/></l>          <r>producere<s n="vblex"/></r></p></e>
@@ -5885,34 +5769,19 @@
 <e>       <p><l>übersetzen<s n="vblex"/></l>           <r>oversætte<s n="vblex"/></r></p></e>
 
 
+
+
     <!-- ******************************
-          group vaux_symbol
-      ****************************** -->
-    <!-- ******************************
-          group vaux_symbol
-      ****************************** -->
-    <!-- ******************************
-          group vaux_symbol
+          special verbs 
       ****************************** -->
 <e>       <p><l>dürfen<s n="vbmod"/></l>               <r>måtte<s n="vaux"/></r></p></e>
 <e>       <p><l>wollen<s n="vbmod"/></l>               <r>ville<s n="vaux"/></r></p></e>
-    <!-- ******************************
-          group vbmod_symbol
-      ****************************** -->
-    <!-- ******************************
-          group vbmod_symbol
-      ****************************** -->
-    <!-- ******************************
-          group vbmod_symbol
-      ****************************** -->
 <e>       <p><l>müssen<s n="vbmod"/></l>               <r>skulle<s n="vbmod"/></r></p></e>
 <e>       <p><l>sollen<s n="vbmod"/></l>               <r>burde<s n="vbmod"/></r></p></e>
-    <!-- ******************************
-          group(s) with only one element
-      ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
+<e>       <p><l>haben<s n="vbhaver"/></l>              <r>have<s n="vbhaver"/></r></p></e>
+<e>       <p><l>sein<s n="vbser"/></l>                 <r>være<s n="vbser"/></r></p></e>
+
+
     <!-- ******************************
           group np_symbol
       ****************************** -->
@@ -6025,24 +5894,38 @@
 
 <e>       <p><l>Bush<s n="np"/></l>                    <r>Bush<s n="np"/></r></p></e>
 
+<e>       <p><l>Carl<s n="np"/></l>                    <r>Carl<s n="np"/></r></p></e>
 
-<e><p><l>Jan<s n="np"/></l><r>Jan<s n="np"/></r></p></e>
-<e><p><l>Maria<s n="np"/></l><r>Maria<s n="np"/></r></p></e>
+<e>       <p><l>Charles<s n="np"/></l>                 <r>Charles<s n="np"/></r></p></e>
+
+<e>       <p><l>Charlotte<s n="np"/></l>               <r>Charlotte<s n="np"/></r></p></e>
+
+<e>       <p><l>Chicago<s n="np"/></l>                 <r>Chicago<s n="np"/></r></p></e>
+
+<e>       <p><l>Chile<s n="np"/></l>                   <r>Chile<s n="np"/></r></p></e>
+
+<e>       <p><l>China<s n="np"/></l>                   <r>China<s n="np"/></r></p></e>
+
+<e>       <p><l>Christel<s n="np"/></l>                <r>Christel<s n="np"/></r></p></e>
+
+<e>       <p><l>Christian<s n="np"/></l>               <r>Christian<s n="np"/></r></p></e>
+
+<e>       <p><l>Christiane<s n="np"/></l>              <r>Christiane<s n="np"/></r></p></e>
+
+<e>       <p><l>Christina<s n="np"/></l>               <r>Christina<s n="np"/></r></p></e>
+
+<e>       <p><l>Christine<s n="np"/></l>               <r>Christine<s n="np"/></r></p></e>
+
+<e>       <p><l>Christopher<s n="np"/></l>             <r>Christopher<s n="np"/></r></p></e>
+
+<e>       <p><l>Clinton<s n="np"/></l>                 <r>Clinton<s n="np"/></r></p></e>
+
+
+<e>       <p><l>Jan<s n="np"/></l>                     <r>Jan<s n="np"/></r></p></e>
+<e>       <p><l>Maria<s n="np"/></l>                   <r>Maria<s n="np"/></r></p></e>
 
 <e>       <p><l>Tim<s n="np"/></l>                     <r>Tim<s n="np"/></r></p></e>
 
-    <!-- ******************************
-          group(s) with only one element
-      ****************************** -->
-<e>       <p><l>sein<s n="vbser"/></l>                 <r>være<s n="vbser"/></r></p></e>
-
-
-
-
-
-    <!-- ******************************
-          group(s) with only one element
-      ****************************** -->
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
