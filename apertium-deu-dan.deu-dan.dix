@@ -8103,5 +8103,58 @@
     <e><p><l>zeichnen<s n="vblex"/></l><r>tegne<s n="vblex"/></r></p></e>
 
 
+
+
+<e>       <p><l>dagegen<s n="adv"/></l>                <r>derimod<s n="adv"/></r></p></e>
+<e>       <p><l>damalig<s n="adj"/></l>                <r>daværende<s n="adj"/></r></p></e>
+<e>       <p><l>damals<s n="adv"/></l>                 <r>dengang<s n="adv"/></r></p></e>
+<e>       <p><l>Daniel<s n="np"/></l>                  <r>Daniel<s n="np"/></r></p></e>
+<e>       <p><l>darauf<s n="adv"/></l>                 <r>derpå<s n="adv"/></r></p></e>
+<e>       <p><l>Darlehen<s n="n"/><s n="nt"/></l>      <r>udlån<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>darüber<s n="adv"/></l>                <r>derover<s n="adv"/></r></p></e>
+<e>       <p><l>Dasein<s n="n"/><s n="nt"/></l>        <r>tilværelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Datenbank<s n="n"/><s n="f"/></l>      <r>databank<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Dauer<s n="n"/><s n="f"/></l>          <r>varighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>dauerhaft<s n="adj"/></l>              <r>varig<s n="adj"/></r></p></e>
+<e>       <p><l>dauern<s n="vblex"/></l>               <r>vare<s n="vblex"/></r></p></e>
+<e>       <p><l>David<s n="np"/></l>                   <r>David<s n="np"/></r></p></e>
+<e>       <p><l>dazwischen<s n="pr"/></l>              <r>derimellem<s n="pr"/></r></p></e>
+<e>       <p><l>DDR<s n="np"/></l>                     <r>DDR<s n="np"/></r></p></e>
+<e>       <p><l>decken<s n="vblex"/></l>               <r>dække<s n="vblex"/></r></p></e>
+<e>       <p><l>Deckung<s n="n"/><s n="f"/></l>        <r>dækning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>definieren<s n="vblex"/></l>           <r>definere<s n="vblex"/></r></p></e>
+<e>       <p><l>Definition<s n="n"/><s n="f"/></l>     <r>definition<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Delegation<s n="n"/><s n="f"/></l>     <r>delegation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>dementieren<s n="vblex"/></l>          <r>dementere<s n="vblex"/></r></p></e>
+<e>       <p><l>Demokrat<s n="n"/><s n="m"/></l>       <r>demokrat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>demokratisch<s n="adj_adv"/></l>       <r>demokratisk<s n="adj_adv"/></r></p></e>
+<e>       <p><l>Demonstrant<s n="n"/><s n="m"/></l>    <r>demonstrant<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Demonstration<s n="n"/><s n="f"/></l>  <r>demonstration<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>demonstrieren<s n="vblex"/></l>        <r>demonstrere<s n="vblex"/></r></p></e>
+<e>       <p><l>Denkmal<s n="n"/><s n="nt"/></l>       <r>mindesmærke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>derartig<s n="adj"/></l>               <r>sådan<s n="adj"/></r></p></e>
+<e>       <p><l>Design<s n="n"/><s n="nt"/></l>        <r>design<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>deswegen<s n="adv"/></l>               <r>derfor<s n="adv"/></r></p></e>
+<e>       <p><l>deuten<s n="vblex"/></l>               <r>tyde<s n="vblex"/></r></p></e>
+<e>       <p><l>Diagnose<s n="n"/><s n="f"/></l>       <r>diagnose<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Diana<s n="np"/></l>                   <r>Diana<s n="np"/></r></p></e>
+<e>       <p><l>dicht<s n="adj"/></l>                  <r>tæt<s n="adj"/></r></p></e>
+<e>       <p><l>Dichtung<s n="n"/><s n="f"/></l>       <r>digtning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>dienen<s n="vblex"/></l>               <r>tjene<s n="vblex"/></r></p></e>
+<e>       <p><l>Dienst<s n="n"/><s n="m"/></l>         <r>tjeneste<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Dieter<s n="np"/></l>                  <r>Dieter<s n="np"/></r></p></e>
+<e>       <p><l>Differenz<s n="n"/><s n="f"/></l>      <r>difference<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Diktator<s n="n"/><s n="m"/></l>       <r>diktator<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Dilemma<s n="n"/><s n="nt"/></l>       <r>dilemma<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Dimension<s n="n"/><s n="f"/></l>      <r>dimension<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ding<s n="n"/><s n="nt"/></l>          <r>ting<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Diplomat<s n="n"/><s n="m"/></l>       <r>diplomat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>diplomatisch<s n="adj"/></l>           <r>diplomatisk<s n="adj"/></r></p></e>
+<e>       <p><l>Direktor<s n="n"/><s n="m"/></l>       <r>direktør<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Dirigent<s n="n"/><s n="m"/></l>       <r>dirigent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Diskriminierung<s n="n"/><s n="f"/></l><r>diskriminering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>diskutieren<s n="vblex"/></l>          <r>diskutere<s n="vblex"/></r></p></e>
+<e>       <p><l>Disposition<s n="n"/><s n="f"/></l>    <r>disposition<s n="n"/><s n="ut"/></r></p></e>
+
   </section>
 </dictionary>
