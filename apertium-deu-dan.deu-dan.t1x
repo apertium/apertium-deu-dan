@@ -122,6 +122,7 @@
    <def-attr n="numerus">
        <attr-item tags="sg"/>
        <attr-item tags="pl"/>
+       <attr-item tags="sp"/>
     </def-attr>
     <def-attr n="a_pers">
        <attr-item tags="p1"/>
@@ -129,7 +130,9 @@
        <attr-item tags="p3"/>
     </def-attr>
      <def-attr n="a_nbr">
-       <attr-item tags="sg"/><attr-item tags="pl"/>
+       <attr-item tags="sg"/>
+	   <attr-item tags="pl"/>
+	   <attr-item tags="sp"/>
     </def-attr>
     <def-attr n="temps">
       <attr-item tags="pri"/>
