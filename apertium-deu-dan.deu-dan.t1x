@@ -102,7 +102,10 @@
       <attr-item tags="m"/>
       <attr-item tags="f"/>
       <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="mfn"/>
       <attr-item tags="ut"/>
+      <attr-item tags="un"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
