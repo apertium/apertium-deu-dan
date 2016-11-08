@@ -7,9 +7,11 @@
     <def-cat n="np">
       <cat-item tags="np.*"/>
     </def-cat>
-    <def-cat n="adj_up">
-      <cat-item tags="adj.sint.sup.*"/>
+    <def-cat n="adj_comp">
       <cat-item tags="adj.sint.comp.*"/>
+    </def-cat>
+    <def-cat n="adj_sup">
+      <cat-item tags="adj.sint.sup.*"/>
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.*"/>
@@ -19,6 +21,9 @@
     </def-cat>
     <def-cat n="det_def">
       <cat-item tags="det.def.*"/>
+    </def-cat>
+    <def-cat n="det_ind">
+      <cat-item tags="det.ind.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -393,9 +398,9 @@
 
 
 
-   <rule comment="RULE: DET NOM">
+   <rule comment="RULE: DET(ind) NOM">
       <pattern>
-        <pattern-item n="det"/>
+        <pattern-item n="det_ind"/>
         <pattern-item n="nom"/>
       </pattern>
       <action>
@@ -417,21 +422,22 @@
             <clip pos="2" side="tl" part="gender"/>
             <clip pos="2" side="tl" part="numerus"/>
             <lit-tag v="ind"/>
+            <clip pos="2" side="tl" part="genitiv"/>
           </lu>
 	</chunk>
         </out>
       </action>
     </rule>
 
-   <rule comment="RULE: DET(DEF) ADJ(COMP/SUP) NOM">
+   <rule comment="RULE: DET(DEF) ADJ(COMP) NOM">
       <pattern>
         <pattern-item n="det_def"/>
-        <pattern-item n="adj_up"/>
+        <pattern-item n="adj_comp"/>
         <pattern-item n="nom"/>
       </pattern>
       <action>
         <out>
-         <chunk name="DET-ADJ(COMP/SUP)-NOM" case="caseFirstWord">
+         <chunk name="DET-ADJ(COMP)-NOM" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -457,21 +463,22 @@
             <clip pos="3" side="tl" part="gender"/>
             <clip pos="3" side="tl" part="numerus"/>
             <lit-tag v="ind"/>
+            <clip pos="3" side="tl" part="genitiv"/>
           </lu>
 	</chunk>
         </out>
       </action>
     </rule>
 
-   <rule comment="RULE: DET ADJ(COMP/SUP) NOM">
+   <rule comment="RULE: DET(ind) ADJ(COMP) NOM">
       <pattern>
-        <pattern-item n="det"/>
-        <pattern-item n="adj_up"/>
+        <pattern-item n="det_ind"/>
+        <pattern-item n="adj_comp"/>
         <pattern-item n="nom"/>
       </pattern>
       <action>
         <out>
-         <chunk name="DET-ADJ(COMP/SUP)-NOM" case="caseFirstWord">
+         <chunk name="DET-ADJ(COMP)-NOM" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -488,6 +495,47 @@
             <clip pos="2" side="sl" part="adj_form"/>
             <lit-tag v="un"/>
             <lit-tag v="sp"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="type_mot"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="tl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+   <rule comment="RULE: DET(DEF) ADJ(COMP) NOM">
+      <pattern>
+        <pattern-item n="det_def"/>
+        <pattern-item n="adj_sup"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-ADJ(COMP)-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <lit-tag v="dem"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="tl" part="numerus"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="a_adj"/>
+            <clip pos="2" side="sl" part="adj_form"/>
+            <lit-tag v="un"/>
+            <lit-tag v="sp"/>
+            <lit-tag v="def"/>
           </lu>
           <b />
           <lu>
@@ -529,7 +577,7 @@
             <lit-tag v="un"/>
             <lit-tag v="sp"/>
             <lit-tag v="def"/>
-
+            <clip pos="2" side="tl" part="genitiv"/>
 
           </lu>
           <b />
