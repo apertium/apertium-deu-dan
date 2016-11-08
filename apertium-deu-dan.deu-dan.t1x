@@ -44,6 +44,9 @@
       <cat-item tags="cnjsub"/>
      <cat-item tags="cnjsub.*"/>
     </def-cat>
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
   </section-def-cats>
 
 
@@ -61,6 +64,13 @@
       <attr-item tags="np"/>
     </def-attr>
 
+    <def-attr n="kasus">
+      <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+    </def-attr>
+
     <def-attr n="prop_nouns">
       <attr-item tags="ant"/>
       <attr-item tags="top"/>
@@ -74,6 +84,10 @@
       <attr-item tags="det.ind"/>
       <attr-item tags="det.pos"/>
       <attr-item tags="det.qnt"/>
+    </def-attr>
+
+    <def-attr n="type_prn">
+      <attr-item tags="prn.pers"/>
     </def-attr>
 
 
@@ -101,6 +115,7 @@
     </def-attr>
     <def-attr n="a_pers">
        <attr-item tags="p1"/>
+       <attr-item tags="p2"/>
        <attr-item tags="p3"/>
     </def-attr>
      <def-attr n="a_nbr">
@@ -277,6 +292,30 @@
       </action>
     </rule>
 
+
+   <rule comment="RULE: prn">
+      <pattern>
+        <pattern-item n="prn"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_prn"/>
+            <clip pos="1" side="tl" part="a_pers"/>
+            <clip pos="1" side="tl" part="gender"/> <!-- gender fails-->
+            <clip pos="1" side="sl" part="numerus"/>
+            <clip pos="1" side="sl" part="kasus"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
    <rule comment="RULE: np">
       <pattern>
         <pattern-item n="np"/>
@@ -297,6 +336,9 @@
         </out>
       </action>
     </rule>
+
+
+
 
    <rule comment="RULE: NOM">
       <pattern>
