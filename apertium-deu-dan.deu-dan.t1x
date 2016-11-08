@@ -89,7 +89,9 @@
     <def-attr n="type_prn">
       <attr-item tags="prn.pers"/>
     </def-attr>
-
+    <def-attr n="genitiv">
+      <attr-item tags="gen"/>
+    </def-attr>
 
    <def-attr n="gender">
       <attr-item tags="m"/>
@@ -309,7 +311,7 @@
             <clip pos="1" side="tl" part="a_pers"/>
             <clip pos="1" side="tl" part="gender"/> <!-- gender fails-->
             <clip pos="1" side="sl" part="numerus"/>
-            <clip pos="1" side="sl" part="kasus"/>
+            <clip pos="1" side="tl" part="kasus"/>
           </lu>
 	</chunk>
         </out>
@@ -382,6 +384,7 @@
             <clip pos="2" side="tl" part="gender"/>
             <clip pos="2" side="tl" part="numerus"/>
             <lit-tag v="def"/>
+            <clip pos="2" side="tl" part="genitiv"/>
           </lu>
 	</chunk>
         </out>
