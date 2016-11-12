@@ -1,7 +1,7 @@
 TMPDIR=/tmp
 DIR=$1
-SRCDAN=`cat ../../config.status | grep AP_SRC1 | cut -f2 -d'=' | tr -d '"'`
-SRCDEU=`cat ../../config.status | grep AP_SRC2 | cut -f2 -d'=' | tr -d '"'`
+SRCDEU=`cat ../../config.status | grep AP_SRC1 | cut -f2 -d'=' | tr -d '"'`
+SRCDAN=`cat ../../config.status | grep AP_SRC2 | cut -f2 -d'=' | tr -d '"'`
 
 if [[ $DIR == "deu-dan" ]]; then
 
