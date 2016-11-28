@@ -6868,5 +6868,515 @@
 
 
 
+
+
+
+
+
+
+
+<e>       <p><l>Einbruch<s n="n"/><s n="m"/></l>       <r>indbrud<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>eindeutig<s n="adj"/></l>              <r>entydig<s n="adj"/></r></p></e>
+<e>       <p><l>einfach<s n="adj"/></l>                <r>enkel<s n="adj"/></r></p></e>
+<e>       <p><l>Einfluss<s n="n"/><s n="m"/></l>       <r>indflydelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einführen<s n="vblex"/><s n="sep"/></l><r>indføre<s n="vblex"/></r></p></e>
+<e>       <p><l>Einführung<s n="n"/><s n="f"/></l>     <r>indførelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Eingang<s n="n"/><s n="m"/></l>        <r>indgang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>eingehen<s n="vblex"/><s n="sep"/></l> <r>indgå<s n="vblex"/></r></p></e>
+<e>       <p><l>Eingriff<s n="n"/><s n="m"/></l>       <r>indgreb<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Einheit<s n="n"/><s n="f"/></l>        <r>enhed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einigermaßen<s n="adv"/></l>           <r>nogenlunde<s n="adv"/></r></p></e>
+<e>       <p><l>Einigkeit<s n="n"/><s n="f"/></l>      <r>enighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einklang<s n="n"/><s n="m"/></l>       <r>samklang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einkommen<s n="n"/><s n="nt"/></l>     <r>indtægt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einladen<s n="vblex"/><s n="sep"/></l> <r>invitere<s n="vblex"/></r></p></e>
+<e>       <p><l>einlegen<s n="vblex"/><s n="sep"/></l> <r>indlægge<s n="vblex"/></r></p></e>
+<e>       <p><l>einleiten<s n="vblex"/><s n="sep"/></l><r>indlede<s n="vblex"/></r></p></e>
+<e>       <p><l>einnehmen<s n="vblex"/><s n="sep"/></l><r>indtage<s n="vblex"/></r></p></e>
+<e>       <p><l>einrichten<s n="vblex"/><s n="sep"/></l><r>indrette<s n="vblex"/></r></p></e>
+<e>       <p><l>Einrichtung<s n="n"/><s n="f"/></l>    <r>indretning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einsamkeit<s n="n"/><s n="f"/></l>     <r>ensomhed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einsatz<s n="n"/><s n="m"/></l>        <r>indsats<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einschalten<s n="vblex"/><s n="sep"/></l><r>tænde<s n="vblex"/></r></p></e>
+<e>       <p><l>einschließen<s n="vblex"/><s n="sep"/></l><r>indeslutte<s n="vblex"/></r></p></e>
+<e>       <p><l>einschränken<s n="vblex"/><s n="sep"/></l><r>indskrænke<s n="vblex"/></r></p></e>
+<e>       <p><l>Einschränkung<s n="n"/><s n="f"/></l>  <r>indskrænkning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einsetzen<s n="vblex"/><s n="sep"/></l><r>indsætte<s n="vblex"/></r></p></e>
+<e>       <p><l>Einsparung<s n="n"/><s n="f"/></l>     <r>opsparing<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einspruch<s n="n"/><s n="m"/></l>      <r>indsigelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einst<s n="adv"/></l>                  <r>engang<s n="adv"/></r></p></e>
+<e>       <p><l>einstellen<s n="vblex"/><s n="sep"/></l><r>indstille<s n="vblex"/></r></p></e>
+<e>       <p><l>Einstellung<s n="n"/><s n="f"/></l>    <r>indstilling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einwand<s n="n"/><s n="m"/></l>        <r>indvending<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einwanderer<s n="n"/><s n="m"/></l>    <r>indvandrer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einweihen<s n="vblex"/><s n="sep"/></l><r>indvie<s n="vblex"/></r></p></e>
+<e>       <p><l>Einwohnerzahl<s n="n"/><s n="f"/></l>  <r>indbyggertal<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Einzelhandel<s n="n"/><s n="m"/></l>   <r>detailhandel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Einzelheit<s n="n"/><s n="f"/></l>     <r>enkelthed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>einzig<s n="adj"/></l>                 <r>eneste<s n="adj"/></r></p></e>
+<e>       <p><l>einzig<s n="adv"/></l>                 <r>eneste<s n="adv"/></r></p></e>
+<e>       <p><l>Einzug<s n="n"/><s n="m"/></l>         <r>indflydelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Elektronik<s n="n"/><s n="f"/></l>     <r>elektronik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Elite<s n="n"/><s n="f"/></l>          <r>elite<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Emotion<s n="n"/><s n="f"/></l>        <r>emotion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Empfehlung<s n="n"/><s n="f"/></l>     <r>anbefaling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Endspiel<s n="n"/><s n="nt"/></l>      <r>slutspil<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Engagement<s n="n"/><s n="nt"/></l>    <r>engagement<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>engagieren<s n="vblex"/></l>           <r>engagere<s n="vblex"/></r></p></e>
+<e>       <p><l>Ensemble<s n="n"/><s n="nt"/></l>      <r>ensemble<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Entdeckung<s n="n"/><s n="f"/></l>     <r>opdagelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>entfalten<s n="vblex"/></l>            <r>udfolde<s n="vblex"/></r></p></e>
+<e>       <p><l>entfernen<s n="vblex"/></l>            <r>fjerne<s n="vblex"/></r></p></e>
+<e>       <p><l>entführen<s n="vblex"/></l>            <r>bortføre<s n="vblex"/></r></p></e>
+<e>       <p><l>entgegen<s n="adv"/></l>               <r>imod<s n="adv"/></r></p></e>
+<e>       <p><l>entgegen<s n="pr"/></l>                <r>imod<s n="pr"/></r></p></e>
+<e>       <p><l>entgehen<s n="vblex"/></l>             <r>undgå<s n="vblex"/></r></p></e>
+<e>       <p><l>enthalten<s n="vblex"/></l>            <r>indeholde<s n="vblex"/></r></p></e>
+<e>       <p><l>entlasten<s n="vblex"/></l>            <r>aflaste<s n="vblex"/></r></p></e>
+<e>       <p><l>Entlastung<s n="n"/><s n="f"/></l>     <r>aflastning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>entnehmen<s n="vblex"/></l>            <r>udtage<s n="vblex"/></r></p></e>
+<e>       <p><l>Entschuldigung<s n="n"/><s n="f"/></l> <r>undskyldning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>entsprechen<s n="vblex"/></l>          <r>tilsvare<s n="vblex"/></r></p></e>
+<e>       <p><l>Enttäuschung<s n="n"/><s n="f"/></l>   <r>skuffelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>entziehen<s n="vblex"/></l>            <r>fratage<s n="vblex"/></r></p></e>
+<e>       <p><l>Epoche<s n="n"/><s n="f"/></l>         <r>epoke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Erbe<s n="n"/><s n="m"/></l>           <r>arving<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Erbe<s n="n"/><s n="nt"/></l>          <r>arv<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erben<s n="vblex"/></l>                <r>arve<s n="vblex"/></r></p></e>
+<e>       <p><l>Erdgeschoß<s n="n"/><s n="nt"/></l>    <r>stueetage<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ereignis<s n="n"/><s n="nt"/></l>      <r>begivenhed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erfahren<s n="vblex"/></l>             <r>erfare<s n="vblex"/></r></p></e>
+<e>       <p><l>Erforschung<s n="n"/><s n="f"/></l>    <r>udforskning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Erfüllung<s n="n"/><s n="f"/></l>      <r>opfyldning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>ergeben<s n="vblex"/></l>              <r>overgive<s n="vblex"/></r></p></e>
+<e>       <p><l>Erhalt<s n="n"/><s n="m"/></l>         <r>modtagelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erhalten<s n="vblex"/></l>             <r>modtage<s n="vblex"/></r></p></e>
+<e>       <p><l>Erhaltung<s n="n"/><s n="f"/></l>      <r>bevarelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erheblich<s n="adj"/></l>              <r>betydelig<s n="adj"/></r></p></e>
+<e>       <p><l>erhöhen<s n="vblex"/></l>              <r>forhøje<s n="vblex"/></r></p></e>
+<e>       <p><l>Erhöhung<s n="n"/><s n="f"/></l>       <r>forhøjning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erinnern<s n="vblex"/></l>             <r>erindre<s n="vblex"/></r></p></e>
+<e>       <p><l>Erinnerung<s n="n"/><s n="f"/></l>     <r>erindring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erkennen<s n="vblex"/></l>             <r>erkende<s n="vblex"/></r></p></e>
+<e>       <p><l>Erkenntnis<s n="n"/><s n="f"/></l>     <r>erkendelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erklären<s n="vblex"/></l>             <r>forklare<s n="vblex"/></r></p></e>
+<e>       <p><l>Erklärung<s n="n"/><s n="f"/></l>      <r>forklaring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erlassen<s n="vblex"/></l>             <r>udstede<s n="vblex"/></r></p></e>
+<e>       <p><l>erlauben<s n="vblex"/></l>             <r>tillade<s n="vblex"/></r></p></e>
+<e>       <p><l>erleben<s n="vblex"/></l>              <r>opleve<s n="vblex"/></r></p></e>
+<e>       <p><l>erleichtern<s n="vblex"/></l>          <r>lette<s n="vblex"/></r></p></e>
+<e>       <p><l>Erleichterung<s n="n"/><s n="f"/></l>  <r>lettelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erläutern<s n="vblex"/></l>            <r>forklare<s n="vblex"/></r></p></e>
+<e>       <p><l>ernennen<s n="vblex"/></l>             <r>udnævne<s n="vblex"/></r></p></e>
+<e>       <p><l>Ernennung<s n="n"/><s n="f"/></l>      <r>udnævnelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>ernsthaft<s n="adj"/></l>              <r>alvorlig<s n="adj"/></r></p></e>
+<e>       <p><l>Ernährung<s n="n"/><s n="f"/></l>      <r>ernæring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erobern<s n="vblex"/></l>              <r>erobre<s n="vblex"/></r></p></e>
+<e>       <p><l>Eroberung<s n="n"/><s n="f"/></l>      <r>erobring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>errechnen<s n="vblex"/></l>            <r>udregne<s n="vblex"/></r></p></e>
+<e>       <p><l>erreichen<s n="vblex"/></l>            <r>opnå<s n="vblex"/></r></p></e>
+<e>       <p><l>errichten<s n="vblex"/></l>            <r>oprette<s n="vblex"/></r></p></e>
+<e>       <p><l>Errichtung<s n="n"/><s n="f"/></l>     <r>oprettelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ersatz<s n="n"/><s n="m"/></l>         <r>erstatning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>ersetzen<s n="vblex"/></l>             <r>erstatte<s n="vblex"/></r></p></e>
+<e>       <p><l>ersparen<s n="vblex"/></l>             <r>opspare<s n="vblex"/></r></p></e>
+<e>       <p><l>erwachsen<s n="adj"/></l>              <r>voksen<s n="adj"/></r></p></e>
+<e>       <p><l>erwachsen<s n="vblex"/></l>            <r>opvokse<s n="vblex"/></r></p></e>
+<e>       <p><l>Erwartung<s n="n"/><s n="f"/></l>      <r>forventning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>erweisen<s n="vblex"/></l>             <r>udvise<s n="vblex"/></r></p></e>
+<e>       <p><l>erweitern<s n="vblex"/></l>            <r>udvide<s n="vblex"/></r></p></e>
+<e>       <p><l>Erweiterung<s n="n"/><s n="f"/></l>    <r>udvidelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Erwerb<s n="n"/><s n="m"/></l>         <r>erhverv<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>erwerben<s n="vblex"/></l>             <r>erhverve<s n="vblex"/></r></p></e>
+<e>       <p><l>Erzähler<s n="n"/><s n="m"/></l>       <r>fortæller<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Erzählung<s n="n"/><s n="f"/></l>      <r>fortælling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>eröffnen<s n="vblex"/></l>             <r>åbne<s n="vblex"/></r></p></e>
+<e>       <p><l>Eröffnung<s n="n"/><s n="f"/></l>      <r>åbning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>etablieren<s n="vblex"/></l>           <r>etablere<s n="vblex"/></r></p></e>
+<e>       <p><l>etabliert<s n="adj"/></l>              <r>etableret<s n="adj"/></r></p></e>
+<e>       <p><l>Etappe<s n="n"/><s n="f"/></l>         <r>etape<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Etat<s n="n"/><s n="m"/></l>           <r>etat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ethik<s n="n"/><s n="f"/></l>          <r>etik<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Europäer<s n="n"/><s n="m"/></l>       <r>europæer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>evangelisch<s n="adj"/></l>            <r>evangelisk<s n="adj"/></r></p></e>
+<e>       <p><l>eventuell<s n="adj"/></l>              <r>eventuel<s n="adj"/></r></p></e>
+<e>       <p><l>exakt<s n="adj"/></l>                  <r>eksakt<s n="adj"/></r></p></e>
+<e>       <p><l>Exemplar<s n="n"/><s n="nt"/></l>      <r>eksemplar<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Exil<s n="n"/><s n="nt"/></l>          <r>eksil<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Existenz<s n="n"/><s n="f"/></l>       <r>eksistens<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>existieren<s n="vblex"/></l>           <r>eksistere<s n="vblex"/></r></p></e>
+<e>       <p><l>Expansion<s n="n"/><s n="f"/></l>      <r>ekspansion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Experiment<s n="n"/><s n="nt"/></l>    <r>eksperiment<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>extern<s n="adj"/></l>                 <r>ekstern<s n="adj"/></r></p></e>
+<e>       <p><l>extrem<s n="adj"/></l>                 <r>ekstrem<s n="adj"/></r></p></e>
+<e>       <p><l>Extremist<s n="n"/><s n="m"/></l>      <r>ekstremist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fach<s n="n"/><s n="nt"/></l>          <r>fag<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Fahne<s n="n"/><s n="f"/></l>          <r>fane<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fahrer<s n="n"/><s n="m"/></l>         <r>kører<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fahrgast<s n="n"/><s n="m"/></l>       <r>passager<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Faktor<s n="n"/><s n="m"/></l>         <r>faktor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fangen<s n="vblex"/></l>               <r>fange<s n="vblex"/></r></p></e>
+<e>       <p><l>Faszination<s n="n"/><s n="f"/></l>    <r>fascination<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>faszinieren<s n="vblex"/></l>          <r>fascinere<s n="vblex"/></r></p></e>
+<e>       <p><l>Favorit<s n="n"/><s n="m"/></l>        <r>favorit<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fazit<s n="n"/><s n="nt"/></l>         <r>facit<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Feier<s n="n"/><s n="f"/></l>          <r>fest<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>feiern<s n="vblex"/></l>               <r>fejre<s n="vblex"/></r></p></e>
+<e>       <p><l>fein<s n="adj"/></l>                   <r>fin<s n="adj"/></r></p></e>
+<e>       <p><l>Feld<s n="n"/><s n="nt"/></l>          <r>mark<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ferien<s n="n"/><s n="pl"/></l>        <r>ferie<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fern<s n="adj"/></l>                   <r>fjern<s n="adj"/></r></p></e>
+<e>       <p><l>Fernseher<s n="n"/><s n="m"/></l>      <r>fjernsyn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Fernsehsender<s n="n"/><s n="m"/></l>  <r>fjernsynskanal<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>festhalten<s n="vblex"/><s n="sep"/></l><r>fastholde<s n="vblex"/></r></p></e>
+<e>       <p><l>Festival<s n="n"/><s n="nt"/></l>      <r>festival<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>festlegen<s n="vblex"/><s n="sep"/></l><r>fastlægge<s n="vblex"/></r></p></e>
+<e>       <p><l>Festlegung<s n="n"/><s n="f"/></l>     <r>fastlæggelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>festnehmen<s n="vblex"/><s n="sep"/></l><r>anholde<s n="vblex"/></r></p></e>
+<e>       <p><l>feststellen<s n="vblex"/><s n="sep"/></l><r>fastsætte<s n="vblex"/></r></p></e>
+<e>       <p><l>Feststellung<s n="n"/><s n="f"/></l>   <r>fastsættelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Filiale<s n="n"/><s n="f"/></l>        <r>filial<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Finale<s n="n"/><s n="nt"/></l>        <r>finale<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Finanz<s n="n"/><s n="f"/></l>         <r>finans<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Finanzamt<s n="n"/><s n="nt"/></l>     <r>finansdepartement<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>finanzieren<s n="vblex"/></l>          <r>finansiere<s n="vblex"/></r></p></e>
+<e>       <p><l>Finanzierung<s n="n"/><s n="f"/></l>   <r>finansiering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Finanzminister<s n="n"/><s n="m"/></l> <r>finansminister<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>flammen<s n="vblex"/></l>              <r>flamme<s n="vblex"/></r></p></e>
+<e>       <p><l>Fleck<s n="n"/><s n="m"/></l>          <r>plet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>flexibel<s n="adj"/></l>               <r>fleksibel<s n="adj"/></r></p></e>
+<e>       <p><l>Flexibilität<s n="n"/><s n="f"/></l>   <r>fleksibilitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Flucht<s n="n"/><s n="f"/></l>         <r>flugt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Flut<s n="n"/><s n="f"/></l>           <r>højvande<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Fluß<s n="n"/><s n="m"/></l>           <r>flod<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Folge<s n="n"/><s n="f"/></l>          <r>følge<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>folgen<s n="vblex"/></l>               <r>følge<s n="vblex"/></r></p></e>
+<e>       <p><l>folglich<s n="adv"/></l>               <r>følgelig<s n="adv"/></r></p></e>
+<e>       <p><l>fordern<s n="vblex"/></l>              <r>fordre<s n="vblex"/></r></p></e>
+<e>       <p><l>Forderung<s n="n"/><s n="f"/></l>      <r>fordring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Formel<s n="n"/><s n="f"/></l>         <r>formel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Formulierung<s n="n"/><s n="f"/></l>   <r>formulering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fortsetzen<s n="vblex"/><s n="sep"/></l><r>fortsætte<s n="vblex"/></r></p></e>
+<e>       <p><l>Fortsetzung<s n="n"/><s n="f"/></l>    <r>fortsættelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Forum<s n="n"/><s n="nt"/></l>         <r>forum<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Foto<s n="n"/><s n="nt"/></l>          <r>fotografi<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Foyer<s n="n"/><s n="nt"/></l>         <r>foyer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fraktion<s n="n"/><s n="f"/></l>       <r>fraktion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Franc<s n="n"/><s n="m"/></l>          <r>franc<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>freilich<s n="adv"/></l>               <r>ganske<b/>vist<s n="adv"/></r></p></e>
+<e>       <p><l>Freistaat<s n="n"/><s n="m"/></l>      <r>fristat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>freuen<s n="vblex"/></l>               <r>glæde<s n="vblex"/></r></p></e>
+<e>       <p><l>Freundin<s n="n"/><s n="f"/></l>       <r>veninde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>freundlich<s n="adj"/></l>             <r>venlig<s n="adj"/></r></p></e>
+<e>       <p><l>froh<s n="adj"/></l>                   <r>glad<s n="adj"/></r></p></e>
+<e>       <p><l>Front<s n="n"/><s n="f"/></l>          <r>front<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fröhlich<s n="adj"/></l>               <r>glad<s n="adj"/></r></p></e>
+<e>       <p><l>früh<s n="adj"/></l>                   <r>tidlig<s n="adj"/></r></p></e>
+<e>       <p><l>früh<s n="adv"/></l>                   <r>tidligt<s n="adv"/></r></p></e>
+<e>       <p><l>Fund<s n="n"/><s n="m"/></l>           <r>fund<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Fundament<s n="n"/><s n="nt"/></l>     <r>fundament<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Funktion<s n="n"/><s n="f"/></l>       <r>funktion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>funktionieren<s n="vblex"/></l>        <r>funktionere<s n="vblex"/></r></p></e>
+<e>       <p><l>Funktionär<s n="n"/><s n="m"/></l>     <r>funktionær<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fusion<s n="n"/><s n="f"/></l>         <r>fusion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fußballer<s n="n"/><s n="m"/></l>      <r>fodboldspiller<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fähigkeit<s n="n"/><s n="f"/></l>      <r>evne<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fällen<s n="vblex"/></l>               <r>fælde<s n="vblex"/></r></p></e>
+<e>       <p><l>Föderation<s n="n"/><s n="f"/></l>     <r>føderation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fügen<s n="vblex"/></l>                <r>føje<s n="vblex"/></r></p></e>
+<e>       <p><l>führen<s n="vblex"/></l>               <r>føre<s n="vblex"/></r></p></e>
+<e>       <p><l>Führer<s n="n"/><s n="m"/></l>         <r>fører<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Führung<s n="n"/><s n="f"/></l>        <r>føring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fülle<s n="n"/><s n="f"/></l>          <r>fylde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Galerie<s n="n"/><s n="f"/></l>        <r>galleri<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Garantie<s n="n"/><s n="f"/></l>       <r>garanti<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>garantieren<s n="vblex"/></l>          <r>garantere<s n="vblex"/></r></p></e>
+<e>       <p><l>garen<s n="vblex"/></l>                <r>gære<s n="vblex"/></r></p></e>
+<e>       <p><l>Gebiet<s n="n"/><s n="nt"/></l>        <r>område<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gebot<s n="n"/><s n="nt"/></l>         <r>bud<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gebrauch<s n="n"/><s n="m"/></l>       <r>brug<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gedanke<s n="n"/><s n="m"/></l>        <r>tanke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>geeignet<s n="adj"/></l>               <r>egnet<s n="adj"/></r></p></e>
+<e>       <p><l>Gegensatz<s n="n"/><s n="m"/></l>      <r>modsætning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gegenseitig<s n="adj"/></l>            <r>gensidig<s n="adj"/></r></p></e>
+<e>       <p><l>Gegenteil<s n="n"/><s n="nt"/></l>     <r>modsætning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gegenzug<s n="n"/><s n="m"/></l>       <r>modtræk<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gehör<s n="n"/><s n="nt"/></l>         <r>gehør<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>gehören<s n="vblex"/></l>              <r>tilhøre<s n="vblex"/></r></p></e>
+<e>       <p><l>Geist<s n="n"/><s n="m"/></l>          <r>ånd<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gelingen<s n="vblex"/></l>             <r>lykkes<s n="vblex"/></r></p></e>
+<e>       <p><l>gelten<s n="vblex"/></l>               <r>gælde<s n="vblex"/></r></p></e>
+<e>       <p><l>Gelände<s n="n"/><s n="nt"/></l>       <r>terræn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gemeinde<s n="n"/><s n="f"/></l>       <r>kommune<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gemeinderat<s n="n"/><s n="m"/></l>    <r>kommunalråd<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gemeinschaft<s n="n"/><s n="f"/></l>   <r>fællesskab<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>gemäß<s n="pr"/></l>                   <r>ifølge<s n="pr"/></r></p></e>
+<e>       <p><l>Generalsekretär<s n="n"/><s n="m"/></l><r>generalsekretær<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Generation<s n="n"/><s n="f"/></l>     <r>generation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>generell<s n="adj"/></l>               <r>generel<s n="adj"/></r></p></e>
+<e>       <p><l>genießen<s n="vblex"/></l>             <r>nyde<s n="vblex"/></r></p></e>
+<e>       <p><l>Genuß<s n="n"/><s n="m"/></l>          <r>nydelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gern<s n="adv"/></l>                   <r>gerne<s n="adv"/></r></p></e>
+<e>       <p><l>gerne<s n="adv"/></l>                  <r>gerne<s n="adv"/></r></p></e>
+<e>       <p><l>Geschichte<s n="n"/><s n="f"/></l>     <r>historie<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschwindigkeit<s n="n"/><s n="f"/></l><r>hastighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschäft<s n="n"/><s n="nt"/></l>      <r>forretning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschäftsführer<s n="n"/><s n="m"/></l><r>forretningsleder<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschäftsführung<s n="n"/><s n="f"/></l><r>forretningsledelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschäftsleute<s n="n"/><s n="pl"/></l><r>forretningsfolk<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Geschäftsmann<s n="n"/><s n="m"/></l>  <r>forretningsmand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gestehen<s n="vblex"/></l>             <r>tilstå<s n="vblex"/></r></p></e>
+<e>       <p><l>gesund<s n="adj"/></l>                 <r>sund<s n="adj"/></r></p></e>
+<e>       <p><l>Getränk<s n="n"/><s n="nt"/></l>       <r>drik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gewalt<s n="n"/><s n="f"/></l>         <r>voldsomhed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gewinnen<s n="vblex"/></l>             <r>vinde<s n="vblex"/></r></p></e>
+<e>       <p><l>Gewinner<s n="n"/><s n="m"/></l>       <r>vinder<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gewiss<s n="adj"/></l>                 <r>vis<s n="adj"/></r></p></e>
+<e>       <p><l>Gewissen<s n="n"/><s n="nt"/></l>      <r>samvittighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gießen<s n="vblex"/></l>               <r>vande<s n="vblex"/></r></p></e>
+<e>       <p><l>Glanz<s n="n"/><s n="m"/></l>          <r>glans<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>glatt<s n="adj"/></l>                  <r>glat<s n="adj"/></r></p></e>
+<e>       <p><l>Glaube<s n="n"/><s n="m"/></l>         <r>tro<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gleichen<s n="vblex"/></l>             <r>ligne<s n="vblex"/></r></p></e>
+<e>       <p><l>gleichfalls<s n="adv"/></l>            <r>ligeledes<s n="adv"/></r></p></e>
+<e>       <p><l>Gleichgewicht<s n="n"/><s n="nt"/></l> <r>ligevægt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gleichzeitig<s n="adj"/></l>           <r>samtidig<s n="adj"/></r></p></e>
+<e>       <p><l>global<s n="adj"/></l>                 <r>global<s n="adj"/></r></p></e>
+<e>       <p><l>Gnade<s n="n"/><s n="f"/></l>          <r>nåde<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>golden<s n="adj"/></l>                 <r>gylden<s n="adj"/></r></p></e>
+<e>       <p><l>Golf<s n="n"/><s n="m"/></l>           <r>golf<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Grab<s n="n"/><s n="nt"/></l>          <r>grav<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Grafik<s n="n"/><s n="f"/></l>         <r>grafik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gramm<s n="n"/><s n="nt"/></l>         <r>gram<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>greifen<s n="vblex"/></l>              <r>gribe<s n="vblex"/></r></p></e>
+<e>       <p><l>Grenze<s n="n"/><s n="f"/></l>         <r>grænse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>grenzen<s n="vblex"/></l>              <r>grænse<s n="vblex"/></r></p></e>
+<e>       <p><l>Griff<s n="n"/><s n="m"/></l>          <r>greb<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Großmutter<s n="n"/><s n="f"/></l>     <r>bedstemor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Großstadt<s n="n"/><s n="f"/></l>      <r>storby<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Großvater<s n="n"/><s n="m"/></l>      <r>bedstefar<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Grund<s n="n"/><s n="m"/></l>          <r>grund<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Grundgesetz<s n="n"/><s n="nt"/></l>   <r>grundlov<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Grundlage<s n="n"/><s n="f"/></l>      <r>grundlag<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Grundsatz<s n="n"/><s n="m"/></l>      <r>princip<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Grundstück<s n="n"/><s n="nt"/></l>    <r>grundstykke<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>grundsätzlich<s n="adj"/></l>          <r>principiel<s n="adj"/></r></p></e>
+<e>       <p><l>Gruppierung<s n="n"/><s n="f"/></l>    <r>gruppering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Grün<s n="n"/><s n="nt"/></l>          <r>grønt<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>gründen<s n="vblex"/></l>              <r>grunde<s n="vblex"/></r></p></e>
+<e>       <p><l>Gründer<s n="n"/><s n="m"/></l>        <r>grundlægger<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>gründlich<s n="adj"/></l>              <r>grundig<s n="adj"/></r></p></e>
+<e>       <p><l>grünen<s n="vblex"/></l>               <r>grønne<s n="vblex"/></r></p></e>
+<e>       <p><l>Gulden<s n="n"/><s n="m"/></l>         <r>gylden<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gunst<s n="n"/><s n="f"/></l>          <r>gunst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gut<s n="n"/><s n="nt"/></l>           <r>gode<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>gären<s n="vblex"/></l>                <r>gære<s n="vblex"/></r></p></e>
+<e>       <p><l>gültig<s n="adj"/></l>                 <r>gyldig<s n="adj"/></r></p></e>
+<e>       <p><l>günstig<s n="adj"/></l>                <r>gunstig<s n="adj"/></r></p></e>
+<e>       <p><l>Hafenstadt<s n="n"/><s n="f"/></l>     <r>havneby<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Halbjahr<s n="n"/><s n="nt"/></l>      <r>halvår<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>halbwegs<s n="adv"/></l>               <r>halvvejs<s n="adv"/></r></p></e>
+<e>       <p><l>Halbzeit<s n="n"/><s n="f"/></l>       <r>halvleg<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>halt<s n="adv"/></l>                   <r>bare<s n="adv"/></r></p></e>
+<e>       <p><l>Haltung<s n="n"/><s n="f"/></l>        <r>holdning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hamburger<s n="n"/><s n="m"/></l>      <r>hamburger<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Handel<s n="n"/><s n="m"/></l>         <r>handel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Handlung<s n="n"/><s n="f"/></l>       <r>handling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Handvoll<s n="n"/><s n="f"/></l>       <r>håndfuld<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Handwerk<s n="n"/><s n="nt"/></l>      <r>håndværk<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Handy<s n="n"/><s n="nt"/></l>         <r>mobiltelefon<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hang<s n="n"/><s n="m"/></l>           <r>hang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Harmonie<s n="n"/><s n="f"/></l>       <r>harmoni<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>hart<s n="adv"/></l>                   <r>hårdt<s n="adv"/></r></p></e>
+<e>       <p><l>Hauch<s n="n"/><s n="m"/></l>          <r>pust<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Haufen<s n="n"/><s n="m"/></l>         <r>bunke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hauptquartier<s n="n"/><s n="nt"/></l> <r>hovedkvarter<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Hauptrolle<s n="n"/><s n="f"/></l>     <r>hovedrolle<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hauptsache<s n="n"/><s n="f"/></l>     <r>hovedsag<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Haushalt<s n="n"/><s n="m"/></l>       <r>husholdning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Heft<s n="n"/><s n="nt"/></l>          <r>hæfte<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>heftig<s n="adj"/></l>                 <r>heftig<s n="adj"/></r></p></e>
+<e>       <p><l>heim<s n="adv"/></l>                   <r>hjem<s n="adv"/></r></p></e>
+<e>       <p><l>Heimat<s n="n"/><s n="f"/></l>         <r>hjem<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Heimatstadt<s n="n"/><s n="f"/></l>    <r>hjemby<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>heimisch<s n="adj"/></l>               <r>hjemmehørende<s n="adj"/></r></p></e>
+<e>       <p><l>heimlich<s n="adj"/></l>               <r>hemmelig<s n="adj"/></r></p></e>
+<e>       <p><l>heiraten<s n="vblex"/></l>             <r>gifte<s n="vblex"/></r></p></e>
+<e>       <p><l>Hektar<s n="n"/><s n="nt"/></l>        <r>hektar<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Held<s n="n"/><s n="m"/></l>           <r>helt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>helfen<s n="vblex"/></l>               <r>hjælpe<s n="vblex"/></r></p></e>
+<e>       <p><l>Helfer<s n="n"/><s n="m"/></l>         <r>hjælper<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>hellen<s n="vblex"/></l>               <r>opklare<s n="vblex"/></r></p></e>
+<e>       <p><l>Hemd<s n="n"/><s n="nt"/></l>          <r>skjorte<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Henkel<s n="n"/><s n="m"/></l>         <r>hank<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Herausforderung<s n="n"/><s n="f"/></l><r>udfordring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>herausgeben<s n="vblex"/><s n="sep"/></l><r>udgive<s n="vblex"/></r></p></e>
+<e>       <p><l>Herausgeber<s n="n"/><s n="m"/></l>    <r>udgiver<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Herrschaft<s n="n"/><s n="f"/></l>     <r>herredømme<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Herrscher<s n="n"/><s n="m"/></l>      <r>hersker<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Herstellung<s n="n"/><s n="f"/></l>    <r>fremstilling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>herunter<s n="adv"/></l>               <r>ned<s n="adv"/></r></p></e>
+<e>       <p><l>hervor<s n="adv"/></l>                 <r>frem<s n="adv"/></r></p></e>
+<e>       <p><l>hervorragend<s n="adj"/></l>           <r>fremragende<s n="adj"/></r></p></e>
+<e>       <p><l>heuern<s n="vblex"/></l>               <r>hyre<s n="vblex"/></r></p></e>
+<e>       <p><l>heutzutage<s n="adv"/></l>             <r>nu<b/>til<b/>dags<s n="adv"/></r></p></e>
+<e>       <p><l>hierher<s n="adv"/></l>                <r>herhen<s n="adv"/></r></p></e>
+<e>       <p><l>hilflos<s n="adj"/></l>                <r>hjælpeløs<s n="adj"/></r></p></e>
+<e>       <p><l>hin<s n="adv"/></l>                    <r>hen<s n="adv"/></r></p></e>
+<e>       <p><l>hinauf<s n="adv"/></l>                 <r>op<s n="adv"/></r></p></e>
+<e>       <p><l>hinauf<s n="pr"/></l>                  <r>op<s n="pr"/></r></p></e>
+<e>       <p><l>hinaus<s n="adv"/></l>                 <r>ud<s n="adv"/></r></p></e>
+<e>       <p><l>Hinblick<s n="n"/><s n="m"/></l>       <r>hensyn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Hindernis<s n="n"/><s n="nt"/></l>     <r>forhindring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>hindurch<s n="adv"/></l>               <r>igennem<s n="adv"/></r></p></e>
+<e>       <p><l>Hinsicht<s n="n"/><s n="f"/></l>       <r>hensyn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>hinsichtlich<s n="pr"/></l>            <r>med<b/>hensyn<b/>til<s n="pr"/></r></p></e>
+<e>       <p><l>Hintergrund<s n="n"/><s n="m"/></l>    <r>baggrund<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>hinterher<s n="adv"/></l>              <r>bagefter<s n="adv"/></r></p></e>
+<e>       <p><l>hinterlassen<s n="vblex"/></l>         <r>efterlade<s n="vblex"/></r></p></e>
+<e>       <p><l>hinunter<s n="adv"/></l>               <r>ned<s n="adv"/></r></p></e>
+<e>       <p><l>Hinweis<s n="n"/><s n="m"/></l>        <r>henvisning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>hinweisen<s n="vblex"/><s n="sep"/></l><r>henvise<s n="vblex"/></r></p></e>
+<e>       <p><l>historisch<s n="adj"/></l>             <r>historisk<s n="adj"/></r></p></e>
+<e>       <p><l>Hof<s n="n"/><s n="m"/></l>            <r>gård<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Holländer<s n="n"/><s n="m"/></l>      <r>hollænder<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Horn<s n="n"/><s n="nt"/></l>          <r>horn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Horst<s n="n"/><s n="m"/></l>          <r>horst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hubschrauber<s n="n"/><s n="m"/></l>   <r>helikopter<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>humanitär<s n="adj"/></l>              <r>humanitær<s n="adj"/></r></p></e>
+<e>       <p><l>Hundert<s n="n"/><s n="f"/></l>        <r>hundrede<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Häftling<s n="n"/><s n="m"/></l>       <r>arrestant<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Härte<s n="n"/><s n="f"/></l>          <r>hårdhed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>höchstens<s n="adv"/></l>              <r>højst<s n="adv"/></r></p></e>
+<e>       <p><l>Höhe<s n="n"/><s n="f"/></l>           <r>højde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>höhen<s n="vblex"/></l>                <r>højne<s n="vblex"/></r></p></e>
+<e>       <p><l>Höhepunkt<s n="n"/><s n="m"/></l>      <r>højdepunkt<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Hölle<s n="n"/><s n="f"/></l>          <r>helvede<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Hügel<s n="n"/><s n="m"/></l>          <r>bakke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hütte<s n="n"/><s n="f"/></l>          <r>hytte<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>ideal<s n="adj"/></l>                  <r>ideal<s n="adj"/></r></p></e>
+<e>       <p><l>Idee<s n="n"/><s n="f"/></l>           <r>idé<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>identifizieren<s n="vblex"/></l>       <r>identificere<s n="vblex"/></r></p></e>
+<e>       <p><l>Ideologie<s n="n"/><s n="f"/></l>      <r>ideologi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>ignorieren<s n="vblex"/></l>           <r>ignorere<s n="vblex"/></r></p></e>
+<e>       <p><l>Ihr<s n="det"/></l>                    <r>I<s n="det"/></r></p></e>
+<e>       <p><l>illegal<s n="adj"/></l>                <r>ulovlig<s n="adj"/></r></p></e>
+<e>       <p><l>illegal<s n="adv"/></l>                <r>ulovligt<s n="adv"/></r></p></e>
+<e>       <p><l>Illusion<s n="n"/><s n="f"/></l>       <r>Illusion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Image<s n="n"/><s n="nt"/></l>         <r>image<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Import<s n="n"/><s n="m"/></l>         <r>import<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Impuls<s n="n"/><s n="m"/></l>         <r>impuls<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Index<s n="n"/><s n="m"/></l>          <r>indeks<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Indianer<s n="n"/><s n="m"/></l>       <r>indianer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>indirekt<s n="adj"/></l>               <r>indirekte<s n="adj"/></r></p></e>
+<e>       <p><l>individuell<s n="adj"/></l>            <r>individuel<s n="adj"/></r></p></e>
+<e>       <p><l>Indiz<s n="n"/><s n="nt"/></l>         <r>indicium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Info<s n="n"/><s n="f"/></l>           <r>info<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Infrastruktur<s n="n"/><s n="f"/></l>  <r>infrastruktur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ingenieur<s n="n"/><s n="m"/></l>      <r>ingeniør<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Inhaber<s n="n"/><s n="m"/></l>        <r>indehaver<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Initiative<s n="n"/><s n="f"/></l>     <r>initiativ<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>inklusive<s n="pr"/></l>               <r>inklusive<s n="pr"/></r></p></e>
+<e>       <p><l>Inland<s n="n"/><s n="nt"/></l>        <r>indland<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>inmitten<s n="pr"/></l>                <r>midt<b/>i<s n="pr"/></r></p></e>
+<e>       <p><l>Innere<s n="n"/><s n="nt"/></l>        <r>indre<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Innovation<s n="n"/><s n="f"/></l>     <r>innovation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>innovativ<s n="adj"/></l>              <r>innovativ<s n="adj"/></r></p></e>
+<e>       <p><l>insgesamt<s n="adv"/></l>              <r>tilsammen<s n="adv"/></r></p></e>
+<e>       <p><l>installieren<s n="vblex"/></l>         <r>installere<s n="vblex"/></r></p></e>
+<e>       <p><l>Instanz<s n="n"/><s n="f"/></l>        <r>instans<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Institut<s n="n"/><s n="nt"/></l>      <r>institut<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Institution<s n="n"/><s n="f"/></l>    <r>institution<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Instrument<s n="n"/><s n="nt"/></l>    <r>instrument<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>inszenieren<s n="vblex"/></l>          <r>iscenesætte<s n="vblex"/></r></p></e>
+<e>       <p><l>Integration<s n="n"/><s n="f"/></l>    <r>integration<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Intelligenz<s n="n"/><s n="f"/></l>    <r>intelligens<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Intendant<s n="n"/><s n="m"/></l>      <r>intendant<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Intensität<s n="n"/><s n="f"/></l>     <r>intensitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>intensiv<s n="adj"/></l>               <r>intensiv<s n="adj"/></r></p></e>
+<e>       <p><l>Interesse<s n="n"/><s n="nt"/></l>     <r>interesse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Interessent<s n="n"/><s n="m"/></l>    <r>interessent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>interessieren<s n="vblex"/></l>        <r>interessere<s n="vblex"/></r></p></e>
+<e>       <p><l>intern<s n="adj"/></l>                 <r>intern<s n="adj"/></r></p></e>
+<e>       <p><l>international<s n="adj"/></l>          <r>international<s n="adj"/></r></p></e>
+<e>       <p><l>interpretieren<s n="vblex"/></l>       <r>interpretere<s n="vblex"/></r></p></e>
+<e>       <p><l>Intervention<s n="n"/><s n="f"/></l>   <r>intervention<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Interview<s n="n"/><s n="nt"/></l>     <r>interview<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>investieren<s n="vblex"/></l>          <r>investere<s n="vblex"/></r></p></e>
+<e>       <p><l>Investition<s n="n"/><s n="f"/></l>    <r>investering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Investor<s n="n"/><s n="m"/></l>       <r>investor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>inzwischen<s n="adv"/></l>             <r>i<b/>mellemtiden<s n="adv"/></r></p></e>
+<e>       <p><l>iranisch<s n="adj"/></l>               <r>iransk<s n="adj"/></r></p></e>
+<e>       <p><l>irisch<s n="adj"/></l>                 <r>irsk<s n="adj"/></r></p></e>
+<e>       <p><l>Irrtum<s n="n"/><s n="m"/></l>         <r>fejltagelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Israeli<s n="n"/><s n="m"/></l>        <r>israelit<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jahrestag<s n="n"/><s n="m"/></l>      <r>årsdag<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jahreswechsel<s n="n"/><s n="m"/></l>  <r>årsskifte<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Jahrgang<s n="n"/><s n="m"/></l>       <r>årgang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jahrhundertwende<s n="n"/><s n="f"/></l><r>århundredeskifte<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Jahrtausendwende<s n="n"/><s n="f"/></l><r>årtusindskifte<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Januar<s n="n"/><s n="m"/></l>         <r>januar<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>je<s n="adv"/></l>                     <r>jo<s n="adv"/></r></p></e>
+<e>       <p><l>jedermann<s n="prn"/></l>              <r>enhver<s n="prn"/></r></p></e>
+<e>       <p><l>jedoch<s n="adv"/></l>                 <r>dog<s n="adv"/></r></p></e>
+<e>       <p><l>jemals<s n="adv"/></l>                 <r>nogensinde<s n="adv"/></r></p></e>
+<e>       <p><l>jenseits<s n="pr"/></l>                <r>hinsides<s n="pr"/></r></p></e>
+<e>       <p><l>jetzig<s n="adj"/></l>                 <r>nuværende<s n="adj"/></r></p></e>
+<e>       <p><l>Job<s n="n"/><s n="m"/></l>            <r>job<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Joch<s n="n"/><s n="nt"/></l>          <r>åg<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Jubel<s n="n"/><s n="m"/></l>          <r>jubel<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Jubiläum<s n="n"/><s n="nt"/></l>      <r>jubilæum<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jude<s n="n"/><s n="m"/></l>           <r>jøde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jugend<s n="n"/><s n="f"/></l>         <r>ungdom<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>jugendlich<s n="adj"/></l>             <r>ungdommelig<s n="adj"/></r></p></e>
+<e>       <p><l>jugoslawisch<s n="adj"/></l>           <r>jugoslavisk<s n="adj"/></r></p></e>
+<e>       <p><l>Jurist<s n="n"/><s n="m"/></l>         <r>jurist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jury<s n="n"/><s n="f"/></l>           <r>jury<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>just<s n="adv"/></l>                   <r>just<s n="adv"/></r></p></e>
+<e>       <p><l>Justiz<s n="n"/><s n="f"/></l>         <r>justits<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Justizminister<s n="n"/><s n="m"/></l> <r>justitsminister<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jäger<s n="n"/><s n="m"/></l>          <r>jæger<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kabarett<s n="n"/><s n="nt"/></l>      <r>kabaret<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kabinett<s n="n"/><s n="nt"/></l>      <r>kabinet<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kader<s n="n"/><s n="m"/></l>          <r>kadre<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kalkulation<s n="n"/><s n="f"/></l>    <r>kalkulation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kamera<s n="n"/><s n="f"/></l>         <r>kamera<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kamerad<s n="n"/><s n="m"/></l>        <r>kammerat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kammer<s n="n"/><s n="f"/></l>         <r>kammer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kampagne<s n="n"/><s n="f"/></l>       <r>kampagne<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kanal<s n="n"/><s n="m"/></l>          <r>kanal<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kandidat<s n="n"/><s n="m"/></l>       <r>kandidat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kandidatur<s n="n"/><s n="f"/></l>     <r>kandidatur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kandidieren<s n="vblex"/></l>          <r>kandidere<s n="vblex"/></r></p></e>
+<e>       <p><l>Kapazität<s n="n"/><s n="f"/></l>      <r>kapacitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kapital<s n="adj"/></l>                <r>kapital<s n="adj"/></r></p></e>
+<e>       <p><l>Kapital<s n="n"/><s n="nt"/></l>       <r>kapital<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kapitel<s n="n"/><s n="nt"/></l>       <r>kapitel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kapitän<s n="n"/><s n="m"/></l>        <r>kaptajn<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kardinal<s n="n"/><s n="m"/></l>       <r>kardinal<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Karriere<s n="n"/><s n="f"/></l>       <r>karriere<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kasse<s n="n"/><s n="f"/></l>          <r>kasse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kassieren<s n="vblex"/></l>            <r>kassere<s n="vblex"/></r></p></e>
+<e>       <p><l>Katalog<s n="n"/><s n="m"/></l>        <r>katalog<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Katastrophe<s n="n"/><s n="f"/></l>    <r>katastrofe<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>katholisch<s n="adj"/></l>             <r>katolsk<s n="adj"/></r></p></e>
+<e>       <p><l>Kaufhaus<s n="n"/><s n="nt"/></l>      <r>købecenter<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kaufmann<s n="n"/><s n="m"/></l>       <r>købmand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kenntnis<s n="n"/><s n="f"/></l>       <r>kundskab<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kern<s n="n"/><s n="m"/></l>           <r>kerne<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kette<s n="n"/><s n="f"/></l>          <r>kæde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kiel<s n="n"/><s n="m"/></l>           <r>køl<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kilo<s n="n"/><s n="nt"/></l>          <r>kilo<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kino<s n="n"/><s n="nt"/></l>          <r>biograf<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Klage<s n="n"/><s n="f"/></l>          <r>klage<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>klagen<s n="vblex"/></l>               <r>klage<s n="vblex"/></r></p></e>
+<e>       <p><l>Klang<s n="n"/><s n="m"/></l>          <r>klang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>klappen<s n="vblex"/></l>              <r>klappe<s n="vblex"/></r></p></e>
+<e>       <p><l>klassisch<s n="adj"/></l>              <r>klassisk<s n="adj"/></r></p></e>
+<e>       <p><l>Klavier<s n="n"/><s n="nt"/></l>       <r>klaver<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kleid<s n="n"/><s n="nt"/></l>         <r>kjole<s n="n"/><s n="ut"/></r></p></e>
+
+
+
   </section>
 </dictionary>
