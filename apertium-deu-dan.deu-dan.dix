@@ -7377,6 +7377,508 @@
 <e>       <p><l>Kleid<s n="n"/><s n="nt"/></l>         <r>kjole<s n="n"/><s n="ut"/></r></p></e>
 
 
+<e>       <p><l>Kleinstadt<s n="n"/><s n="f"/></l>     <r>småby<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>klettern<s n="vblex"/></l>             <r>klatre<s n="vblex"/></r></p></e>
+<e>       <p><l>Klientel<s n="n"/><s n="f"/></l>       <r>klientel<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Klinik<s n="n"/><s n="f"/></l>         <r>klinik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Klischee<s n="n"/><s n="nt"/></l>      <r>kliché<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Klub<s n="n"/><s n="m"/></l>           <r>klub<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kläger<s n="n"/><s n="m"/></l>         <r>anklager<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>knapp<s n="adj"/></l>                  <r>knap<s n="adj"/></r></p></e>
+<e>       <p><l>knapp<s n="adv"/></l>                  <r>knap<s n="adv"/></r></p></e>
+<e>       <p><l>Knoten<s n="n"/><s n="m"/></l>         <r>knude<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Koalition<s n="n"/><s n="f"/></l>      <r>koalition<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kohlendioxid<s n="n"/><s n="nt"/></l>  <r>kuldioxid<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kokain<s n="n"/><s n="nt"/></l>        <r>kokain<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kollegin<s n="n"/><s n="f"/></l>       <r>kollega<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kombination<s n="n"/><s n="f"/></l>    <r>kombination<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kombinieren<s n="vblex"/></l>          <r>kombinere<s n="vblex"/></r></p></e>
+<e>       <p><l>komisch<s n="adj"/></l>                <r>underlig<s n="adj"/></r></p></e>
+<e>       <p><l>Kommando<s n="n"/><s n="nt"/></l>      <r>kommando<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kommentieren<s n="vblex"/></l>         <r>kommentere<s n="vblex"/></r></p></e>
+<e>       <p><l>Kommission<s n="n"/><s n="f"/></l>     <r>kommission<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kommunal<s n="adj"/></l>               <r>kommunal<s n="adj"/></r></p></e>
+<e>       <p><l>Kommunalwahl<s n="n"/><s n="f"/></l>   <r>kommunalvalg<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kommune<s n="n"/><s n="f"/></l>        <r>kommune<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kommunikation<s n="n"/><s n="f"/></l>  <r>kommunikation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kommunist<s n="n"/><s n="m"/></l>      <r>kommunist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kommunistisch<s n="adj"/></l>          <r>kommunistisk<s n="adj"/></r></p></e>
+<e>       <p><l>Kompetenz<s n="n"/><s n="f"/></l>      <r>kompetence<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>komplett<s n="adj"/></l>               <r>komplet<s n="adj"/></r></p></e>
+<e>       <p><l>Kompromiß<s n="n"/><s n="m"/></l>      <r>kompromis<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Komödie<s n="n"/><s n="f"/></l>        <r>komedie<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kondition<s n="n"/><s n="f"/></l>      <r>kondition<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konferenz<s n="n"/><s n="f"/></l>      <r>konference<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konfrontation<s n="n"/><s n="f"/></l>  <r>konfrontation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>konfrontieren<s n="vblex"/></l>        <r>konfrontere<s n="vblex"/></r></p></e>
+<e>       <p><l>Konjunktur<s n="n"/><s n="f"/></l>     <r>konjunktur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konkurrent<s n="n"/><s n="m"/></l>     <r>konkurrent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konkurrenz<s n="n"/><s n="f"/></l>     <r>konkurrence<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konkurs<s n="n"/><s n="m"/></l>        <r>konkurs<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>konsequent<s n="adj"/></l>             <r>konsekvent<s n="adj"/></r></p></e>
+<e>       <p><l>konstant<s n="adj"/></l>               <r>konstant<s n="adj"/></r></p></e>
+<e>       <p><l>Konsum<s n="n"/><s n="m"/></l>         <r>forbrug<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Konsument<s n="n"/><s n="m"/></l>      <r>forbruger<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kontakt<s n="n"/><s n="m"/></l>        <r>kontakt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kontext<s n="n"/><s n="m"/></l>        <r>kontekst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kontinuierlich<s n="adj"/></l>         <r>kontinuerlig<s n="adj"/></r></p></e>
+<e>       <p><l>Kontinuität<s n="n"/><s n="f"/></l>    <r>kontinuitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konto<s n="n"/><s n="nt"/></l>         <r>konto<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kontrast<s n="n"/><s n="m"/></l>       <r>kontrast<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kontrolle<s n="n"/><s n="f"/></l>      <r>kontrol<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Konvention<s n="n"/><s n="f"/></l>     <r>konvention<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Konzentration<s n="n"/><s n="f"/></l>  <r>koncentration<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>konzentrieren<s n="vblex"/></l>        <r>koncentrere<s n="vblex"/></r></p></e>
+<e>       <p><l>Konzern<s n="n"/><s n="m"/></l>        <r>koncern<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>konzipieren<s n="vblex"/></l>          <r>koncipere<s n="vblex"/></r></p></e>
+<e>       <p><l>kopieren<s n="vblex"/></l>             <r>kopiere<s n="vblex"/></r></p></e>
+<e>       <p><l>korrekt<s n="adj"/></l>                <r>korrekt<s n="adj"/></r></p></e>
+<e>       <p><l>Korrektur<s n="n"/><s n="f"/></l>      <r>korrektur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>korrigieren<s n="vblex"/></l>          <r>korrigere<s n="vblex"/></r></p></e>
+<e>       <p><l>kosten<s n="vblex"/></l>               <r>koste<s n="vblex"/></r></p></e>
+<e>       <p><l>kostenlos<s n="adj"/></l>              <r>gratis<s n="adj"/></r></p></e>
+<e>       <p><l>Kraft<s n="n"/><s n="f"/></l>          <r>kraft<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kreativität<s n="n"/><s n="f"/></l>    <r>kreativitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kreuzung<s n="n"/><s n="f"/></l>       <r>krydsning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kriegen<s n="vblex"/></l>              <r>få<s n="vblex"/></r></p></e>
+<e>       <p><l>Kriminalität<s n="n"/><s n="f"/></l>   <r>kriminalitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kriterium<s n="n"/><s n="nt"/></l>     <r>kriterium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kritiker<s n="n"/><s n="m"/></l>       <r>kritiker<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kritisch<s n="adj"/></l>               <r>kritisk<s n="adj"/></r></p></e>
+<e>       <p><l>kritisieren<s n="vblex"/></l>          <r>kritisere<s n="vblex"/></r></p></e>
+<e>       <p><l>kroatisch<s n="adj"/></l>              <r>kroatisk<s n="adj"/></r></p></e>
+<e>       <p><l>kräftig<s n="adj"/></l>                <r>kraftig<s n="adj"/></r></p></e>
+<e>       <p><l>Kubikmeter<s n="n"/><s n="m"/></l>     <r>kubikmeter<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kugel<s n="n"/><s n="f"/></l>          <r>kugle<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kulisse<s n="n"/><s n="f"/></l>        <r>kulisse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kulturell<s n="adj"/></l>              <r>kulturel<s n="adj"/></r></p></e>
+<e>       <p><l>Kunststoff<s n="n"/><s n="m"/></l>     <r>kunststof<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>kurdisch<s n="adj"/></l>               <r>kurdisk<s n="adj"/></r></p></e>
+<e>       <p><l>kuren<s n="vblex"/></l>                <r>kåre<s n="vblex"/></r></p></e>
+<e>       <p><l>Kurs<s n="n"/><s n="m"/></l>           <r>kurs<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kurve<s n="n"/><s n="f"/></l>          <r>kurve<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kälte<s n="n"/><s n="f"/></l>          <r>kulde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>kämpfen<s n="vblex"/></l>              <r>kæmpe<s n="vblex"/></r></p></e>
+<e>       <p><l>Kämpfer<s n="n"/><s n="m"/></l>        <r>kæmper<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Käufer<s n="n"/><s n="m"/></l>         <r>køber<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Körper<s n="n"/><s n="m"/></l>         <r>krop<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kündigung<s n="n"/><s n="f"/></l>      <r>opsigelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>künftig<s n="adj"/></l>                <r>fremtidig<s n="adj"/></r></p></e>
+<e>       <p><l>Künstlerin<s n="n"/><s n="f"/></l>     <r>kunstner<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>künstlerisch<s n="adj"/></l>           <r>kunstnerisk<s n="adj"/></r></p></e>
+<e>       <p><l>künstlich<s n="adj"/></l>              <r>kunstig<s n="adj"/></r></p></e>
+<e>       <p><l>Labor<s n="n"/><s n="nt"/></l>         <r>laboratorium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Laden<s n="n"/><s n="m"/></l>          <r>butik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>laden<s n="vblex"/></l>                <r>lade<s n="vblex"/></r></p></e>
+<e>       <p><l>Ladung<s n="n"/><s n="f"/></l>         <r>ladning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lager<s n="n"/><s n="nt"/></l>         <r>lager<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>lagern<s n="vblex"/></l>               <r>lagre<s n="vblex"/></r></p></e>
+<e>       <p><l>Laie<s n="n"/><s n="m"/></l>           <r>lægmand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>landen<s n="vblex"/></l>               <r>lande<s n="vblex"/></r></p></e>
+<e>       <p><l>Landsmann<s n="n"/><s n="m"/></l>      <r>landsmand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Landtag<s n="n"/><s n="m"/></l>        <r>landdag<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Landung<s n="n"/><s n="f"/></l>        <r>landing<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>langweilig<s n="adj"/></l>             <r>kedelig<s n="adj"/></r></p></e>
+<e>       <p><l>lassen<s n="vblex"/></l>               <r>lade<s n="vblex"/></r></p></e>
+<e>       <p><l>Last<s n="n"/><s n="f"/></l>           <r>last<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lastwagen<s n="n"/><s n="m"/></l>      <r>lastbil<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lauf<s n="n"/><s n="m"/></l>           <r>løb<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Laufbahn<s n="n"/><s n="f"/></l>       <r>løbebane<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Laufzeit<s n="n"/><s n="f"/></l>       <r>løbetid<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Laune<s n="n"/><s n="f"/></l>          <r>lune<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>laut<s n="adj"/></l>                   <r>høj<s n="adj"/></r></p></e>
+<e>       <p><l>laut<s n="adv"/></l>                   <r>højt<s n="adv"/></r></p></e>
+<e>       <p><l>laut<s n="pr"/></l>                    <r>ifølge<s n="pr"/></r></p></e>
+<e>       <p><l>lauten<s n="vblex"/></l>               <r>lyde<s n="vblex"/></r></p></e>
+<e>       <p><l>lebendig<s n="adj"/></l>               <r>levende<s n="adj"/></r></p></e>
+<e>       <p><l>Lebensjahr<s n="n"/><s n="nt"/></l>    <r>leveår<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>leeren<s n="vblex"/></l>               <r>tømme<s n="vblex"/></r></p></e>
+<e>       <p><l>legen<s n="vblex"/></l>                <r>lægge<s n="vblex"/></r></p></e>
+<e>       <p><l>lehnen<s n="vblex"/></l>               <r>læne<s n="vblex"/></r></p></e>
+<e>       <p><l>Lehrerin<s n="n"/><s n="f"/></l>       <r>lærerinde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>leicht<s n="adj"/></l>                 <r>let<s n="adj"/></r></p></e>
+<e>       <p><l>leicht<s n="adv"/></l>                 <r>let<s n="adv"/></r></p></e>
+<e>       <p><l>leiden<s n="vblex"/></l>               <r>lide<s n="vblex"/></r></p></e>
+<e>       <p><l>leisten<s n="vblex"/></l>              <r>yde<s n="vblex"/></r></p></e>
+<e>       <p><l>Leistung<s n="n"/><s n="f"/></l>       <r>ydelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>leiten<s n="vblex"/></l>               <r>lede<s n="vblex"/></r></p></e>
+<e>       <p><l>Lektüre<s n="n"/><s n="f"/></l>        <r>lektyre<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>lernen<s n="vblex"/></l>               <r>lære<s n="vblex"/></r></p></e>
+<e>       <p><l>Leser<s n="n"/><s n="m"/></l>          <r>læser<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lesung<s n="n"/><s n="f"/></l>         <r>læsning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Libero<s n="n"/><s n="m"/></l>         <r>libero<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>lieber<s n="adv"/></l>                 <r>hellere<s n="adv"/></r></p></e>
+<e>       <p><l>Lieferant<s n="n"/><s n="m"/></l>      <r>leverandør<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>liefern<s n="vblex"/></l>              <r>levere<s n="vblex"/></r></p></e>
+<e>       <p><l>Lieferung<s n="n"/><s n="f"/></l>      <r>levering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Liga<s n="n"/><s n="f"/></l>           <r>liga<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>List<s n="n"/><s n="f"/></l>           <r>list<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Liste<s n="n"/><s n="f"/></l>          <r>liste<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lizenz<s n="n"/><s n="f"/></l>         <r>licens<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>loben<s n="vblex"/></l>                <r>rose<s n="vblex"/></r></p></e>
+<e>       <p><l>Loch<s n="n"/><s n="nt"/></l>          <r>hul<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>locken<s n="vblex"/></l>               <r>lokke<s n="vblex"/></r></p></e>
+<e>       <p><l>locker<s n="adj"/></l>                 <r>løs<s n="adj"/></r></p></e>
+<e>       <p><l>Logik<s n="n"/><s n="f"/></l>          <r>logik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Logistik<s n="n"/><s n="f"/></l>       <r>logistik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lohn<s n="n"/><s n="m"/></l>           <r>løn<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>lohnen<s n="vblex"/></l>               <r>lønne<s n="vblex"/></r></p></e>
+<e>       <p><l>lokal<s n="adj"/></l>                  <r>lokal<s n="adj"/></r></p></e>
+<e>       <p><l>Lust<s n="n"/><s n="f"/></l>           <r>lyst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Lyrik<s n="n"/><s n="f"/></l>          <r>lyrik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>lächerlich<s n="adj"/></l>             <r>latterlig<s n="adj"/></r></p></e>
+<e>       <p><l>Länge<s n="n"/><s n="f"/></l>          <r>længde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>längst<s n="adv"/></l>                 <r>længst<s n="adv"/></r></p></e>
+<e>       <p><l>lösen<s n="vblex"/></l>                <r>løse<s n="vblex"/></r></p></e>
+<e>       <p><l>Lösung<s n="n"/><s n="f"/></l>         <r>løsning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mafia<s n="n"/><s n="f"/></l>          <r>mafia<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Magazin<s n="n"/><s n="nt"/></l>       <r>magasin<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Magistrat<s n="n"/><s n="m"/></l>      <r>magistrat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mahnen<s n="vblex"/></l>               <r>minde<s n="vblex"/></r></p></e>
+<e>       <p><l>Major<s n="n"/><s n="m"/></l>          <r>major<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Makler<s n="n"/><s n="m"/></l>         <r>mægler<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mal<s n="n"/><s n="nt"/></l>           <r>gang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Malerei<s n="n"/><s n="f"/></l>        <r>maleri<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Mama<s n="n"/><s n="f"/></l>           <r>mor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Management<s n="n"/><s n="nt"/></l>    <r>management<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Manager<s n="n"/><s n="m"/></l>        <r>manager<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>manche<s n="det"/></l>                 <r>nogen<s n="det"/></r></p></e>
+<e>       <p><l>Mandat<s n="n"/><s n="nt"/></l>        <r>mandat<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>mangeln<s n="vblex"/></l>              <r>mangle<s n="vblex"/></r></p></e>
+<e>       <p><l>Mannschaft<s n="n"/><s n="f"/></l>     <r>hold<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>manuell<s n="adj"/></l>                <r>manuel<s n="adj"/></r></p></e>
+<e>       <p><l>Marine<s n="n"/><s n="f"/></l>         <r>marine<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mark<s n="n"/><s n="f"/></l>           <r>mark<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mark<s n="n"/><s n="nt"/></l>          <r>mark<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Marke<s n="n"/><s n="f"/></l>          <r>mærke<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>markieren<s n="vblex"/></l>            <r>markere<s n="vblex"/></r></p></e>
+<e>       <p><l>Marktanteil<s n="n"/><s n="m"/></l>    <r>markedsandel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Marktplatz<s n="n"/><s n="m"/></l>     <r>markedsplads<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Marsch<s n="n"/><s n="m"/></l>         <r>march<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Maske<s n="n"/><s n="f"/></l>          <r>maske<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Massaker<s n="n"/><s n="nt"/></l>      <r>massakre<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Masse<s n="n"/><s n="f"/></l>          <r>masse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>massiv<s n="adj"/></l>                 <r>massiv<s n="adj"/></r></p></e>
+<e>       <p><l>Match<s n="n"/><s n="nt"/></l>         <r>match<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Materie<s n="n"/><s n="f"/></l>        <r>materie<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mauern<s n="vblex"/></l>               <r>mure<s n="vblex"/></r></p></e>
+<e>       <p><l>maximal<s n="adj"/></l>                <r>maksimal<s n="adj"/></r></p></e>
+<e>       <p><l>Medaille<s n="n"/><s n="f"/></l>       <r>medalje<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Medium<s n="n"/><s n="nt"/></l>        <r>medium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>medizinisch<s n="adj"/></l>            <r>medicinsk<s n="adj"/></r></p></e>
+<e>       <p><l>Mehrheit<s n="n"/><s n="f"/></l>       <r>majoritet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mehrzahl<s n="n"/><s n="f"/></l>       <r>flertal<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Meinung<s n="n"/><s n="f"/></l>        <r>mening<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>meistens<s n="adv"/></l>               <r>mest<s n="adv"/></r></p></e>
+<e>       <p><l>Meisterschaft<s n="n"/><s n="f"/></l>  <r>mesterskab<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>melden<s n="vblex"/></l>               <r>melde<s n="vblex"/></r></p></e>
+<e>       <p><l>Meldung<s n="n"/><s n="f"/></l>        <r>melding<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Menge<s n="n"/><s n="f"/></l>          <r>mængde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Menschenrecht<s n="n"/><s n="nt"/></l> <r>menneskeret<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Menü<s n="n"/><s n="nt"/></l>          <r>menu<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>merken<s n="vblex"/></l>               <r>huske<s n="vblex"/></r></p></e>
+<e>       <p><l>Merkmal<s n="n"/><s n="nt"/></l>       <r>kendemærke<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Messe<s n="n"/><s n="f"/></l>          <r>messe<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>messen<s n="vblex"/></l>               <r>messe<s n="vblex"/></r></p></e>
+<e>       <p><l>Messung<s n="n"/><s n="f"/></l>        <r>måling<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Methode<s n="n"/><s n="f"/></l>        <r>metode<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Metro<s n="n"/><s n="f"/></l>          <r>metro<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Metropole<s n="n"/><s n="f"/></l>      <r>metropol<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Miete<s n="n"/><s n="f"/></l>          <r>leje<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mieten<s n="vblex"/></l>               <r>leje<s n="vblex"/></r></p></e>
+<e>       <p><l>Mieter<s n="n"/><s n="m"/></l>         <r>lejer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Millimeter<s n="n"/><s n="m"/></l>     <r>millimeter<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Minderheit<s n="n"/><s n="f"/></l>     <r>minoritet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mindestens<s n="adv"/></l>             <r>mindst<s n="adv"/></r></p></e>
+<e>       <p><l>Mine<s n="n"/><s n="f"/></l>           <r>mine<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ministerium<s n="n"/><s n="nt"/></l>   <r>ministerium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ministerpräsident<s n="n"/><s n="m"/></l><r>ministerpræsident<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mischung<s n="n"/><s n="f"/></l>       <r>blanding<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mission<s n="n"/><s n="f"/></l>        <r>mission<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mitgliedsstaat<s n="n"/><s n="m"/></l> <r>medlemsstat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mitmachen<s n="vblex"/><s n="sep"/></l><r>deltage<s n="vblex"/></r></p></e>
+<e>       <p><l>Mitte<s n="n"/><s n="f"/></l>          <r>midte<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mitteilen<s n="vblex"/><s n="sep"/></l><r>meddele<s n="vblex"/></r></p></e>
+<e>       <p><l>Mitteilung<s n="n"/><s n="f"/></l>     <r>meddelelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mittel<s n="n"/><s n="nt"/></l>        <r>middel<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Mittelalter<s n="n"/><s n="nt"/></l>   <r>middelalder<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mittelstand<s n="n"/><s n="m"/></l>    <r>middelklasse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>mittlerweile<s n="adv"/></l>           <r>i<b/>mellemtiden<s n="adv"/></r></p></e>
+<e>       <p><l>Mobilität<s n="n"/><s n="f"/></l>      <r>mobilitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mode<s n="n"/><s n="f"/></l>           <r>mode<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Moderator<s n="n"/><s n="m"/></l>      <r>moderator<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>modern<s n="adj"/></l>                 <r>moderne<s n="adj"/></r></p></e>
+<e>       <p><l>Modernisierung<s n="n"/><s n="f"/></l> <r>modernisering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Moment<s n="n"/><s n="m"/></l>         <r>moment<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>monatlich<s n="adv"/></l>              <r>månedsvis<s n="adv"/></r></p></e>
+<e>       <p><l>Monitor<s n="n"/><s n="m"/></l>        <r>monitor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Moral<s n="n"/><s n="f"/></l>          <r>moral<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>moralisch<s n="adj"/></l>              <r>moralsk<s n="adj"/></r></p></e>
+<e>       <p><l>Most<s n="n"/><s n="m"/></l>           <r>most<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Motiv<s n="n"/><s n="nt"/></l>         <r>motiv<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Motivation<s n="n"/><s n="f"/></l>     <r>motivation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Motto<s n="n"/><s n="nt"/></l>         <r>motto<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Munition<s n="n"/><s n="f"/></l>       <r>ammunition<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Musical<s n="n"/><s n="nt"/></l>       <r>musical<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>musikalisch<s n="adj"/></l>            <r>musikalsk<s n="adj"/></r></p></e>
+<e>       <p><l>Muslim<s n="n"/><s n="m"/></l>         <r>muslim<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Muster<s n="n"/><s n="nt"/></l>        <r>mønster<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mut<s n="n"/><s n="m"/></l>            <r>mod<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>mächtig<s n="adj"/></l>                <r>mægtig<s n="adj"/></r></p></e>
+<e>       <p><l>möglicherweise<s n="adv"/></l>         <r>muligvis<s n="adv"/></r></p></e>
+<e>       <p><l>münzen<s n="vblex"/></l>               <r>mønte<s n="vblex"/></r></p></e>
+<e>       <p><l>Nachbar<s n="n"/><s n="m"/></l>        <r>nabo<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nachfolge<s n="n"/><s n="f"/></l>      <r>efterfølgelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nachfolger<s n="n"/><s n="m"/></l>     <r>efterfølger<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nachfrage<s n="n"/><s n="f"/></l>      <r>efterspørgsel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nachricht<s n="n"/><s n="f"/></l>      <r>besked<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nachrichtenagentur<s n="n"/><s n="f"/></l><r>nyhedsbureau<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>national<s n="adj"/></l>               <r>national<s n="adj"/></r></p></e>
+<e>       <p><l>Nationalist<s n="n"/><s n="m"/></l>    <r>nationalist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nebenwirkung<s n="n"/><s n="f"/></l>   <r>bivirkning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>negativ<s n="adj"/></l>                <r>negativ<s n="adj"/></r></p></e>
+<e>       <p><l>nehmen<s n="vblex"/></l>               <r>tage<s n="vblex"/></r></p></e>
+<e>       <p><l>Neigung<s n="n"/><s n="f"/></l>        <r>bøjning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nerv<s n="n"/><s n="m"/></l>           <r>nerve<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>nervös<s n="adj"/></l>                 <r>nervøs<s n="adj"/></r></p></e>
+<e>       <p><l>nett<s n="adj"/></l>                   <r>rar<s n="adj"/></r></p></e>
+<e>       <p><l>Netz<s n="n"/><s n="nt"/></l>          <r>net<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Netzwerk<s n="n"/><s n="nt"/></l>      <r>netværk<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Neugier<s n="n"/><s n="f"/></l>        <r>nysgerrighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Neuwahl<s n="n"/><s n="f"/></l>        <r>nyvalg<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Niedergang<s n="n"/><s n="m"/></l>     <r>nedgang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>niederländisch<s n="adj"/></l>         <r>hollandsk<s n="adj"/></r></p></e>
+<e>       <p><l>niedrig<s n="adj"/></l>                <r>lav<s n="adj"/></r></p></e>
+<e>       <p><l>Niveau<s n="n"/><s n="nt"/></l>        <r>niveau<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>nominieren<s n="vblex"/></l>           <r>nominere<s n="vblex"/></r></p></e>
+<e>       <p><l>Nord<s n="n"/><s n="m"/></l>           <r>nord<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nordosten<s n="n"/><s n="m"/></l>      <r>nordøst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nordwesten<s n="n"/><s n="m"/></l>     <r>nordvest<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Norm<s n="n"/><s n="f"/></l>           <r>norm<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>normal<s n="adj"/></l>                 <r>normal<s n="adj"/></r></p></e>
+<e>       <p><l>Normalität<s n="n"/><s n="f"/></l>     <r>normalitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Not<s n="n"/><s n="f"/></l>            <r>nød<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Note<s n="n"/><s n="f"/></l>           <r>karakter<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Note<s n="n"/><s n="f"/></l>           <r>node<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>notieren<s n="vblex"/></l>             <r>notere<s n="vblex"/></r></p></e>
+<e>       <p><l>notwendig<s n="adj"/></l>              <r>nødvendig<s n="adj"/></r></p></e>
+<e>       <p><l>Notwendigkeit<s n="n"/><s n="f"/></l>  <r>nødvendighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nummer<s n="n"/><s n="f"/></l>         <r>nummer<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>nutzen<s n="vblex"/></l>               <r>nytte<s n="vblex"/></r></p></e>
+<e>       <p><l>nächste<s n="adj"/></l>                <r>næste<s n="adj"/></r></p></e>
+<e>       <p><l>nächtlich<s n="adj"/></l>              <r>natlig<s n="adj"/></r></p></e>
+<e>       <p><l>nähern<s n="vblex"/></l>               <r>nærme<s n="vblex"/></r></p></e>
+<e>       <p><l>nützlich<s n="adj"/></l>               <r>nyttig<s n="adj"/></r></p></e>
+<e>       <p><l>ob<s n="cnjsub"/></l>                  <r>om<s n="cnjsub"/></r></p></e>
+<e>       <p><l>ober<s n="adj"/></l>                   <r>øvre<s n="adj"/></r></p></e>
+<e>       <p><l>oberhalb<s n="pr"/></l>                <r>ovenfor<s n="pr"/></r></p></e>
+<e>       <p><l>Objekt<s n="n"/><s n="nt"/></l>        <r>objekt<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>offenbaren<s n="vblex"/></l>           <r>åbenbare<s n="vblex"/></r></p></e>
+<e>       <p><l>Offensive<s n="n"/><s n="f"/></l>      <r>offensive<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>offiziell<s n="adj"/></l>              <r>officiel<s n="adj"/></r></p></e>
+<e>       <p><l>olympisch<s n="adj"/></l>              <r>olympisk<s n="adj"/></r></p></e>
+<e>       <p><l>Oper<s n="n"/><s n="f"/></l>           <r>opera<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Operation<s n="n"/><s n="f"/></l>      <r>operation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>operativ<s n="adj"/></l>               <r>operativ<s n="adj"/></r></p></e>
+<e>       <p><l>Opfer<s n="n"/><s n="nt"/></l>         <r>offer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Opposition<s n="n"/><s n="f"/></l>     <r>opposition<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Optimismus<s n="n"/><s n="m"/></l>     <r>optimisme<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>optimistisch<s n="adj"/></l>           <r>optimistisk<s n="adj"/></r></p></e>
+<e>       <p><l>Option<s n="n"/><s n="f"/></l>         <r>option<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>ordentlich<s n="adj"/></l>             <r>ordentlig<s n="adj"/></r></p></e>
+<e>       <p><l>ordnen<s n="vblex"/></l>               <r>ordne<s n="vblex"/></r></p></e>
+<e>       <p><l>Organ<s n="n"/><s n="nt"/></l>         <r>organ<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Organisation<s n="n"/><s n="f"/></l>   <r>organisation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Organisator<s n="n"/><s n="m"/></l>    <r>organisator<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>organisieren<s n="vblex"/></l>         <r>organisere<s n="vblex"/></r></p></e>
+<e>       <p><l>orientieren<s n="vblex"/></l>          <r>orientere<s n="vblex"/></r></p></e>
+<e>       <p><l>Orientierung<s n="n"/><s n="f"/></l>   <r>orientering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>original<s n="adj"/></l>               <r>original<s n="adj"/></r></p></e>
+<e>       <p><l>Ort<s n="n"/><s n="m"/></l>            <r>sted<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ost<s n="n"/><s n="nt"/></l>           <r>øst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>packen<s n="vblex"/></l>               <r>pakke<s n="vblex"/></r></p></e>
+<e>       <p><l>Palast<s n="n"/><s n="m"/></l>         <r>palads<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Panzer<s n="n"/><s n="m"/></l>         <r>panser<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Papa<s n="n"/><s n="m"/></l>           <r>far<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Paragraph<s n="n"/><s n="m"/></l>      <r>paragraf<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Parameter<s n="n"/><s n="m"/></l>      <r>parameter<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Parkett<s n="n"/><s n="nt"/></l>       <r>parket<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Parlament<s n="n"/><s n="nt"/></l>     <r>parlament<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>parlamentarisch<s n="adj"/></l>        <r>parlamentarisk<s n="adj"/></r></p></e>
+<e>       <p><l>Parole<s n="n"/><s n="f"/></l>         <r>parole<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Partei<s n="n"/><s n="f"/></l>         <r>parti<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Parteichef<s n="n"/><s n="m"/></l>     <r>partichef<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Partnerschaft<s n="n"/><s n="f"/></l>  <r>partnerskab<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Party<s n="n"/><s n="f"/></l>          <r>party<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Passage<s n="n"/><s n="f"/></l>        <r>passage<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>passen<s n="vblex"/></l>               <r>passe<s n="vblex"/></r></p></e>
+<e>       <p><l>Pathos<s n="n"/><s n="nt"/></l>        <r>patos<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Patient<s n="n"/><s n="m"/></l>        <r>patient<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>PC<s n="n"/><s n="m"/></l>             <r>PC<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pech<s n="n"/><s n="nt"/></l>          <r>uheld<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>peinlich<s n="adj"/></l>               <r>pinlig<s n="adj"/></r></p></e>
+<e>       <p><l>Pension<s n="n"/><s n="f"/></l>        <r>pension<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>perfekt<s n="adj"/></l>                <r>perfekt<s n="adj"/></r></p></e>
+<e>       <p><l>Periode<s n="n"/><s n="f"/></l>        <r>periode<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Personal<s n="n"/><s n="nt"/></l>      <r>personale<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Perspektive<s n="n"/><s n="f"/></l>    <r>perspektiv<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>persönlich<s n="adj"/></l>             <r>personlig<s n="adj"/></r></p></e>
+<e>       <p><l>Persönlichkeit<s n="n"/><s n="f"/></l> <r>personlighed<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pfarrer<s n="n"/><s n="m"/></l>        <r>præst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>pflanzen<s n="vblex"/></l>             <r>plante<s n="vblex"/></r></p></e>
+<e>       <p><l>Pflege<s n="n"/><s n="f"/></l>         <r>pleje<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pflicht<s n="n"/><s n="f"/></l>        <r>pligt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pfund<s n="n"/><s n="nt"/></l>         <r>pund<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Phantasie<s n="n"/><s n="f"/></l>      <r>fantasi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Phase<s n="n"/><s n="f"/></l>          <r>fase<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Photo<s n="n"/><s n="nt"/></l>         <r>foto<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Phänomen<s n="n"/><s n="nt"/></l>      <r>fænomen<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Plakat<s n="n"/><s n="nt"/></l>        <r>plakat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Plan<s n="n"/><s n="m"/></l>           <r>plan<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>planen<s n="vblex"/></l>               <r>plane<s n="vblex"/></r></p></e>
+<e>       <p><l>Plastik<s n="n"/><s n="nt"/></l>       <r>plastik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Platte<s n="n"/><s n="f"/></l>         <r>plade<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Plattform<s n="n"/><s n="f"/></l>      <r>platform<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>plazieren<s n="vblex"/></l>            <r>placere<s n="vblex"/></r></p></e>
+<e>       <p><l>plus<s n="adv"/></l>                   <r>plus<s n="adv"/></r></p></e>
+<e>       <p><l>plädieren<s n="vblex"/></l>            <r>plædere<s n="vblex"/></r></p></e>
+<e>       <p><l>Podium<s n="n"/><s n="nt"/></l>        <r>podium<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Poesie<s n="n"/><s n="f"/></l>         <r>poesi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Polizeibeamter<s n="n"/><s n="m"/></l> <r>politibetjent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Polizist<s n="n"/><s n="m"/></l>       <r>politimand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Popularität<s n="n"/><s n="f"/></l>    <r>popularitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>populär<s n="adj"/></l>                <r>populær<s n="adj"/></r></p></e>
+<e>       <p><l>Position<s n="n"/><s n="f"/></l>       <r>position<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Post<s n="n"/><s n="f"/></l>           <r>post<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>post<s n="pr"/></l>                    <r>post<s n="pr"/></r></p></e>
+<e>       <p><l>Potential<s n="n"/><s n="nt"/></l>     <r>potentiale<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>potentiell<s n="adj"/></l>             <r>potentiel<s n="adj"/></r></p></e>
+<e>       <p><l>praktisch<s n="adj"/></l>              <r>praktisk<s n="adj"/></r></p></e>
+<e>       <p><l>praktizieren<s n="vblex"/></l>         <r>praktisere<s n="vblex"/></r></p></e>
+<e>       <p><l>Praxis<s n="n"/><s n="f"/></l>         <r>praksis<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Presse<s n="n"/><s n="f"/></l>         <r>presse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pressekonferenz<s n="n"/><s n="f"/></l><r>pressekonference<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pressemitteilung<s n="n"/><s n="f"/></l><r>pressemeddelelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Pressesprecher<s n="n"/><s n="m"/></l> <r>pressetalsmand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Prinzip<s n="n"/><s n="nt"/></l>       <r>princip<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>prinzipiell<s n="adj"/></l>            <r>principiel<s n="adj"/></r></p></e>
+<e>       <p><l>Priorität<s n="n"/><s n="f"/></l>      <r>prioritet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>privat<s n="adj"/></l>                 <r>privat<s n="adj"/></r></p></e>
+<e>       <p><l>Privatisierung<s n="n"/><s n="f"/></l> <r>privatisering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>pro<s n="pr"/></l>                     <r>pro<s n="pr"/></r></p></e>
+<e>       <p><l>Probe<s n="n"/><s n="f"/></l>          <r>prøve<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Problematik<s n="n"/><s n="f"/></l>    <r>problematik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>problematisch<s n="adj"/></l>          <r>problematisk<s n="adj"/></r></p></e>
+<e>       <p><l>Produkt<s n="n"/><s n="nt"/></l>       <r>produkt<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Produktivität<s n="n"/><s n="f"/></l>  <r>produktivitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Produzent<s n="n"/><s n="m"/></l>      <r>producent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Prof<s n="n"/><s n="m"/></l>           <r>prof<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>professionell<s n="adj"/></l>          <r>professionel<s n="adj"/></r></p></e>
+<e>       <p><l>Professor<s n="n"/><s n="m"/></l>      <r>professor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Profil<s n="n"/><s n="nt"/></l>        <r>profil<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>profitieren<s n="vblex"/></l>          <r>profitere<s n="vblex"/></r></p></e>
+<e>       <p><l>Prognose<s n="n"/><s n="f"/></l>       <r>prognose<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>prognostizieren<s n="vblex"/></l>      <r>prognosticere<s n="vblex"/></r></p></e>
+<e>       <p><l>Propaganda<s n="n"/><s n="f"/></l>     <r>propaganda<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>prophezeien<s n="vblex"/></l>          <r>profetere<s n="vblex"/></r></p></e>
+<e>       <p><l>Protagonist<s n="n"/><s n="m"/></l>    <r>protagonist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Protest<s n="n"/><s n="m"/></l>        <r>protest<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Protokoll<s n="n"/><s n="nt"/></l>     <r>protokol<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Provinz<s n="n"/><s n="f"/></l>        <r>provins<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Provokation<s n="n"/><s n="f"/></l>    <r>provokation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Prozentpunkt<s n="n"/><s n="m"/></l>   <r>procentpoint<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Präsentation<s n="n"/><s n="f"/></l>   <r>præsentation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>präsentieren<s n="vblex"/></l>         <r>præsentere<s n="vblex"/></r></p></e>
+<e>       <p><l>Präsident<s n="n"/><s n="m"/></l>      <r>præsident<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Präsidium<s n="n"/><s n="nt"/></l>     <r>præsidium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>prüfen<s n="vblex"/></l>               <r>prøve<s n="vblex"/></r></p></e>
+<e>       <p><l>Prüfung<s n="n"/><s n="f"/></l>        <r>prøve<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>psychologisch<s n="adj"/></l>          <r>psykologisk<s n="adj"/></r></p></e>
+<e>       <p><l>Pädagoge<s n="n"/><s n="m"/></l>       <r>pædagog<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Qualifikation<s n="n"/><s n="f"/></l>  <r>kvalifikation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>qualifizieren<s n="vblex"/></l>        <r>kvalificere<s n="vblex"/></r></p></e>
+<e>       <p><l>Quartal<s n="n"/><s n="nt"/></l>       <r>kvartal<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Quartett<s n="n"/><s n="nt"/></l>      <r>kvartet<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>quasi<s n="adv"/></l>                  <r>næsten<s n="adv"/></r></p></e>
+<e>       <p><l>Rache<s n="n"/><s n="f"/></l>          <r>hævn<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Radfahrer<s n="n"/><s n="m"/></l>      <r>cyklist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>radikal<s n="adj"/></l>                <r>radikal<s n="adj"/></r></p></e>
+<e>       <p><l>Rakete<s n="n"/><s n="f"/></l>         <r>raket<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rang<s n="n"/><s n="m"/></l>           <r>rang<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>rasen<s n="vblex"/></l>                <r>rase<s n="vblex"/></r></p></e>
+<e>       <p><l>Rassismus<s n="n"/><s n="m"/></l>      <r>racisme<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rat<s n="n"/><s n="m"/></l>            <r>råd<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>raten<s n="vblex"/></l>                <r>råde<s n="vblex"/></r></p></e>
+<e>       <p><l>Raum<s n="n"/><s n="m"/></l>           <r>rum<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>raus<s n="adv"/></l>                   <r>ud<s n="adv"/></r></p></e>
+<e>       <p><l>realisieren<s n="vblex"/></l>          <r>realisere<s n="vblex"/></r></p></e>
+<e>       <p><l>Realisierung<s n="n"/><s n="f"/></l>   <r>realisme<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Realität<s n="n"/><s n="f"/></l>       <r>realitet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>rechnen<s n="vblex"/></l>              <r>regne<s n="vblex"/></r></p></e>
+<e>       <p><l>Rechnung<s n="n"/><s n="f"/></l>       <r>regning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>rechtlich<s n="adj"/></l>              <r>lovlig<s n="adj"/></r></p></e>
+<e>       <p><l>Redakteur<s n="n"/><s n="m"/></l>      <r>redaktør<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Redner<s n="n"/><s n="m"/></l>         <r>taler<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>reduzieren<s n="vblex"/></l>           <r>reducere<s n="vblex"/></r></p></e>
+<e>       <p><l>Reduzierung<s n="n"/><s n="f"/></l>    <r>reduktion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Referent<s n="n"/><s n="m"/></l>       <r>referent<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>regelmäßig<s n="adj"/></l>             <r>regelmæssig<s n="adj"/></r></p></e>
+<e>       <p><l>regeln<s n="vblex"/></l>               <r>regulere<s n="vblex"/></r></p></e>
+<e>       <p><l>Regelung<s n="n"/><s n="f"/></l>       <r>regulering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Regie<s n="n"/><s n="f"/></l>          <r>regi<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Regierung<s n="n"/><s n="f"/></l>      <r>regering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Regierungschef<s n="n"/><s n="m"/></l> <r>regeringschef<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Regierungspartei<s n="n"/><s n="f"/></l><r>regeringsparti<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Regime<s n="n"/><s n="nt"/></l>        <r>regime<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Region<s n="n"/><s n="f"/></l>         <r>region<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>regional<s n="adj"/></l>               <r>regional<s n="adj"/></r></p></e>
+<e>       <p><l>registrieren<s n="vblex"/></l>         <r>registrere<s n="vblex"/></r></p></e>
+<e>       <p><l>regulär<s n="adj"/></l>                <r>regulær<s n="adj"/></r></p></e>
+<e>       <p><l>reichen<s n="vblex"/></l>              <r>række<s n="vblex"/></r></p></e>
+<e>       <p><l>reichlich<s n="adv"/></l>              <r>rigeligt<s n="adv"/></r></p></e>
+<e>       <p><l>Reichtum<s n="n"/><s n="m"/></l>       <r>rigdom<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Reichweite<s n="n"/><s n="f"/></l>     <r>rækkevidde<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Reif<s n="n"/><s n="m"/></l>           <r>rimfrost<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>reisen<s n="vblex"/></l>               <r>rejse<s n="vblex"/></r></p></e>
+<e>       <p><l>reißen<s n="vblex"/></l>               <r>rive<s n="vblex"/></r></p></e>
+<e>       <p><l>Rekord<s n="n"/><s n="m"/></l>         <r>rekord<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rektor<s n="n"/><s n="m"/></l>         <r>rektor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>relativ<s n="adj"/></l>                <r>relativ<s n="adj"/></r></p></e>
+<e>       <p><l>relevant<s n="adj"/></l>               <r>relevant<s n="adj"/></r></p></e>
+<e>       <p><l>religiöse<s n="adj"/></l>              <r>religiøs<s n="adj"/></r></p></e>
+<e>       <p><l>Renovierung<s n="n"/><s n="f"/></l>    <r>renovering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rente<s n="n"/><s n="f"/></l>          <r>pension<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rentner<s n="n"/><s n="m"/></l>        <r>pensionist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Reparatur<s n="n"/><s n="f"/></l>      <r>reparation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Repertoire<s n="n"/><s n="nt"/></l>    <r>repertoire<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Reporter<s n="n"/><s n="m"/></l>       <r>reporter<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Repräsentant<s n="n"/><s n="m"/></l>   <r>repræsentant<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Reserve<s n="n"/><s n="f"/></l>        <r>reserve<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Residenz<s n="n"/><s n="f"/></l>       <r>residens<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Resolution<s n="n"/><s n="f"/></l>     <r>resolution<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Resonanz<s n="n"/><s n="f"/></l>       <r>resonans<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Respekt<s n="n"/><s n="m"/></l>        <r>respekt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ressource<s n="n"/><s n="f"/></l>      <r>ressource<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>retten<s n="vblex"/></l>               <r>rede<s n="vblex"/></r></p></e>
+<e>       <p><l>Rettung<s n="n"/><s n="f"/></l>        <r>redning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Revision<s n="n"/><s n="f"/></l>       <r>revision<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rezession<s n="n"/><s n="f"/></l>      <r>recession<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>richten<s n="vblex"/></l>              <r>rette<s n="vblex"/></r></p></e>
+<e>       <p><l>Richtlinie<s n="n"/><s n="f"/></l>     <r>retningslinje<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rind<s n="n"/><s n="nt"/></l>          <r>okse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rindfleisch<s n="n"/><s n="nt"/></l>   <r>oksekød<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ring<s n="n"/><s n="m"/></l>           <r>ring<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Risiko<s n="n"/><s n="nt"/></l>        <r>risiko<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Rivale<s n="n"/><s n="m"/></l>         <r>rival<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rock<s n="n"/><s n="m"/></l>           <r>rock<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Rolle<s n="n"/><s n="f"/></l>          <r>rolle<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>rollen<s n="vblex"/></l>               <r>rulle<s n="vblex"/></r></p></e>
+<e>       <p><l>Romantik<s n="n"/><s n="f"/></l>       <r>romantik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ruf<s n="n"/><s n="m"/></l>            <r>råb<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>rufen<s n="vblex"/></l>                <r>råbe<s n="vblex"/></r></p></e>
+<e>       <p><l>ruhig<s n="adv"/></l>                  <r>roligt<s n="adv"/></r></p></e>
+
+
 
   </section>
 </dictionary>
