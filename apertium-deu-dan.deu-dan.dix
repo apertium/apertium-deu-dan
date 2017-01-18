@@ -2213,7 +2213,7 @@
 <e>       <p><l>von<s n="pr"/></l>                     <r>fra<s n="pr"/></r></p></e>
 <e>       <p><l>von<s n="pr"/></l>                     <r>af<s n="pr"/></r></p></e>
 <e>       <p><l>vor<s n="pr"/></l>                     <r>foran<s n="pr"/></r></p></e>
-<e>       <p><l>vor<s n="pr"/></l>                     <r>før<s n="pr"/></r></p></e>
+<!--<e>       <p><l>vor<s n="pr"/></l>                     <r>før<s n="pr"/></r></p></e>-->
 <e>       <p><l>zu<s n="pr"/></l>                      <r>for<s n="pr"/></r></p></e>
 <e>       <p><l>zwischen<s n="pr"/></l>                <r>mellem<s n="pr"/></r></p></e>
 <e>       <p><l>über<s n="pr"/></l>                    <r>over<s n="pr"/></r></p></e>
@@ -2287,7 +2287,7 @@
 <e>       <p><l>sie<s n="prn"/><s n="pers"/><s n="p3"/></l><r>hun<s n="prn"/><s n="pers"/><s n="p3"/></r></p></e>
 <e>       <p><l>was<s n="prn"/></l>                    <r>hvad<s n="prn"/></r></p></e>
 <e>       <p><l>wir<s n="prn"/></l>                    <r>vi<s n="prn"/></r></p></e>
-
+<e>       <p><l>sie<s n="prn"/></l>                   <r>de<s n="prn"/></r></p></e>
 
     <!-- ******************************
           group det_symbol
@@ -3208,7 +3208,6 @@
 <e>       <p><l>kochen<s n="vblex"/></l>               <r>koge<s n="vblex"/></r></p></e>
 <e>       <p><l>kommen<s n="vblex"/></l>               <r>komme<s n="vblex"/></r></p></e>
 <e>       <p><l>kommen<s n="vblex"/></l>               <r>kommer<s n="vblex"/></r></p></e>
-<e>       <p><l>können<s n="vblex"/></l>               <r>kunne<s n="vblex"/></r></p></e>
 <e>       <p><l>küssen<s n="vblex"/></l>               <r>kysse<s n="vblex"/></r></p></e>
 <e>       <p><l>lachen<s n="vblex"/></l>               <r>grine<s n="vblex"/></r></p></e>
 <!--<e>       <p><l>lachen<s n="vblex"/></l>               <r>le<s n="vblex"/></r></p></e>-->
@@ -3337,6 +3336,7 @@
           special verbs 
       ****************************** -->
 <e>       <p><l>dürfen<s n="vbmod"/></l>               <r>måtte<s n="vaux"/></r></p></e>
+<e>       <p><l>können<s n="vbmod"/></l>               <r>kunne<s n="vbmod"/></r></p></e>
 <e>       <p><l>wollen<s n="vbmod"/></l>               <r>ville<s n="vaux"/></r></p></e>
 <e>       <p><l>müssen<s n="vbmod"/></l>               <r>skulle<s n="vbmod"/></r></p></e>
 <e>       <p><l>sollen<s n="vbmod"/></l>               <r>burde<s n="vbmod"/></r></p></e>
