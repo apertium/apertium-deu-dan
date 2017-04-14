@@ -67,9 +67,9 @@
     <sdef n="sent" 	c="End of sentence"/> 
     <sdef n="inf" 	c="Infinitive"/> 
     <sdef n="past" 	c="Past tense"/> 
-    <sdef n="pres" 	c=""/> 
-    <sdef n="pasv" 	c=""/> 
-    <sdef n="actv" 	c=""/> 
+    <sdef n="pres" 	c="Present (tense)"/>
+    <sdef n="pasv" 	c="Passive"/> 
+    <sdef n="actv" 	c="Active"/> 
     <sdef n="lpar" 	c="Left parenthesis ("/> 
     <sdef n="rpar" 	c="Right parenthesis )"/> 
     <sdef n="cm" 	c="Comma"/> 
@@ -4759,8 +4759,7 @@
 
     <!-- SECTION: Interjections -->
 
-	<e><p><l>ach<s n="ij"/></l>                     <r>ak<s n="ij"/></r></p></e>
-
+	<e><p><l>ach<s n="ij"/></l><r>ak<s n="ij"/></r></p></e>
     <e><p><l>amen<s n="ij"/></l><r>amen<s n="ij"/></r></p></e>
     <e><p><l>auf<b/>Wiedersehen<s n="ij"/></l><r>farvel<s n="ij"/></r></p></e>
     <e><p><l>auf<b/>Wiedersehen<s n="ij"/></l><r>på<b/>gensyn<s n="ij"/></r></p></e>
@@ -6016,7 +6015,7 @@
     <e><p><l>Schnatterente<s n="n"/><s n="f"/></l><r>knarand<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>Schneeglöckchen<s n="n"/><s n="nt"/></l><r>vintergæk<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>Schneegrenze<s n="n"/><s n="f"/></l><r>snegrænse<s n="n"/><s n="ut"/></r></p></e>
-    <e><p><l>Schneemobile<s n="n"/><s n="nt"/></l><r>snescooter<s n="n"/><s n="ut"/></r></p></e>
+    <e><p><l>Schneemobil<s n="n"/><s n="nt"/></l><r>snescooter<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>Schneepflug<s n="n"/><s n="m"/></l><r>sneplov<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Schneidezahn<s n="n"/><s n="m"/></l><r>fortand<s n="n"/><s n="ut"/></r></p></e>
     <e><p><l>Schnupfen<s n="n"/><s n="m"/></l><r>snue<s n="n"/><s n="ut"/></r></p></e>
@@ -6733,7 +6732,7 @@
 <e>       <p><l>Delegation<s n="n"/><s n="f"/></l>     <r>delegation<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>dementieren<s n="vblex"/></l>          <r>dementere<s n="vblex"/></r></p></e>
 <e>       <p><l>Demokrat<s n="n"/><s n="m"/></l>       <r>demokrat<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>demokratisch<s n="adj"/></l>       <r>demokratisk<s n="adj"/></r></p></e>
+<e>       <p><l>demokratisch<s n="adj"/></l>           <r>demokratisk<s n="adj"/></r></p></e>
 <e>       <p><l>Demonstrant<s n="n"/><s n="m"/></l>    <r>demonstrant<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Demonstration<s n="n"/><s n="f"/></l>  <r>demonstration<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>demonstrieren<s n="vblex"/></l>        <r>demonstrere<s n="vblex"/></r></p></e>
@@ -6865,11 +6864,6 @@
 <e>       <p><l>Kenia<s n="np"/></l>                <r>Kenya<s n="np"/></r></p></e>
 <e>       <p><l>Nordeuropa<s n="np"/></l>                <r>Nord-Europa<s n="np"/></r></p></e>
 <e>       <p><l>Nordirland<s n="np"/></l>                <r>Nord-Irland<s n="np"/></r></p></e>
-
-
-
-
-
 
 
 
@@ -7375,8 +7369,6 @@
 <e>       <p><l>klassisch<s n="adj"/></l>              <r>klassisk<s n="adj"/></r></p></e>
 <e>       <p><l>Klavier<s n="n"/><s n="nt"/></l>       <r>klaver<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Kleid<s n="n"/><s n="nt"/></l>         <r>kjole<s n="n"/><s n="ut"/></r></p></e>
-
-
 <e>       <p><l>Kleinstadt<s n="n"/><s n="f"/></l>     <r>småby<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>klettern<s n="vblex"/></l>             <r>klatre<s n="vblex"/></r></p></e>
 <e>       <p><l>Klientel<s n="n"/><s n="f"/></l>       <r>klientel<s n="n"/><s n="nt"/></r></p></e>
@@ -7877,10 +7869,6 @@
 <e>       <p><l>Ruf<s n="n"/><s n="m"/></l>            <r>råb<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>rufen<s n="vblex"/></l>                <r>råbe<s n="vblex"/></r></p></e>
 <e>       <p><l>ruhig<s n="adv"/></l>                  <r>roligt<s n="adv"/></r></p></e>
-
-
-
-
 <e>       <p><l>runter<s n="adv"/></l>                 <r>ned<s n="adv"/></r></p></e>
 <e>       <p><l>rutschen<s n="vblex"/></l>             <r>glide<s n="vblex"/></r></p></e>
 <e>       <p><l>Rätsel<s n="n"/><s n="nt"/></l>        <r>gåde<s n="n"/><s n="ut"/></r></p></e>
@@ -8471,6 +8459,10 @@
 <e>       <p><l>Übung<s n="n"/><s n="f"/></l>          <r>øvelse<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>dadurch<s n="adv"/></l>                <r>derved<s n="adv"/></r></p></e>
 <e>       <p><l>wahren<s n="vblex"/></l>               <r>vare<s n="vblex"/></r></p></e>
+
+
+
+
 <e><p><l>Aas<s n="n"/><s n="nt"/></l><r>as<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Abbild<s n="n"/><s n="nt"/></l><r>afbillede<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Abbuchung<s n="n"/><s n="f"/></l><r>debitering<s n="n"/><s n="ut"/></r></p></e>
@@ -8882,10 +8874,6 @@
 <e><p><l>Draht<s n="n"/><s n="m"/></l><r>metaltråd<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Drang<s n="n"/><s n="m"/></l><r>higen<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Drehbank<s n="n"/><s n="f"/></l><r>drejebænk<s n="n"/><s n="ut"/></r></p></e>
-
-
-
-
 <e><p><l>Drehbuch<s n="n"/><s n="nt"/></l><r>manuskript<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Dreher<s n="n"/><s n="m"/></l><r>drej<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Drehung<s n="n"/><s n="f"/></l><r>vridning<s n="n"/><s n="ut"/></r></p></e>
@@ -9047,7 +9035,6 @@
 <e><p><l>Falle<s n="n"/><s n="f"/></l><r>felle<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Fälligkeit<s n="n"/><s n="f"/></l><r>forfald<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Fallschirmjäger<s n="n"/><s n="m"/></l><r>faldskærmsjæger<s n="n"/><s n="ut"/></r></p></e>
-
 <e><p><l>Fälschung<s n="n"/><s n="f"/></l><r>forfalskning<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Familienstand<s n="n"/><s n="m"/></l><r>civilstand<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Fan<s n="n"/><s n="m"/></l><r>fan<s n="n"/><s n="ut"/></r></p></e>
@@ -9385,9 +9372,6 @@
 <e><p><l>Hürde<s n="n"/><s n="f"/></l><r>hæk<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Hürde<s n="n"/><s n="f"/></l><r>bagdel<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Hurra<s n="n"/><s n="nt"/></l><r>hurra<s n="n"/><s n="nt"/></r></p></e>
-
-
-
 <e><p><l>Hypnotiseur<s n="n"/><s n="m"/></l><r>hypnotisør<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Hypothese<s n="n"/><s n="f"/></l><r>hypotese<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Idealist<s n="n"/><s n="m"/></l><r>idealist<s n="n"/><s n="ut"/></r></p></e>
@@ -9887,10 +9871,7 @@
 <e><p><l>Nachthemd<s n="n"/><s n="nt"/></l><r>natkjole<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Nachtklub<s n="n"/><s n="m"/></l><r>natklub<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Nachtrag<s n="n"/><s n="m"/></l><r>tillæg<s n="n"/><s n="nt"/></r></p></e>
-
 <e><p><l>Nadel<s n="n"/><s n="f"/></l><r>nål<s n="n"/><s n="ut"/></r></p></e>
-
-
 <e><p><l>Nachtschicht<s n="n"/><s n="f"/></l><r>nattevagt<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Nachweis<s n="n"/><s n="m"/></l><r>belægning<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Nähe<s n="n"/><s n="f"/></l><r>nærhed<s n="n"/><s n="ut"/></r></p></e>
@@ -10040,8 +10021,6 @@
 <e><p><l>Pforte<s n="n"/><s n="f"/></l><r>porte<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Pfosten<s n="n"/><s n="m"/></l><r>stolpe<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Pfote<s n="n"/><s n="f"/></l><r>pote<s n="n"/><s n="ut"/></r></p></e>
-
-
 <e><p><l>Phalanx<s n="n"/><s n="f"/></l><r>falanks<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Phantom<s n="n"/><s n="nt"/></l><r>fantom<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Philologe<s n="n"/><s n="m"/></l><r>filolog<s n="n"/><s n="ut"/></r></p></e>
